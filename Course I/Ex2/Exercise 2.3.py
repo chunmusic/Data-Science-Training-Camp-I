@@ -5,21 +5,31 @@ import matplotlib.pyplot as plt
 
 df = pd.io.parsers.read_csv("airtravel.csv")
 
-value = df[["1958"]]
-colors = ['c','c','c','c','c','c','b','b','c','c','c','c']
-labels = df.Month
-explode = [0.1, 0.1, 0.1, 0.1 ,0.1 ,0.1,0.2, 0.2, 0.1, 0.1 ,0.1 ,0.1]
 
-plt.pie(value, colors=colors, labels=labels,
+value = df[["1958"]]
+colors = ['b','b','b','b','b','b','r','r','b','b','b','b']
+labels = df.Month
+explode = [0.1, 0.1, 0.1, 0.1 ,0.1 ,0.1,0.3, 0.3, 0.1, 0.1 ,0.1 ,0.1]
+
+patches, texts, autotexts = plt.pie(value, colors=colors, labels=labels,
 explode=explode, autopct='%1.1f%%', shadow=True)
+
+for autotext in autotexts:
+    autotext.set_color('white')
+
 plt.title('Number of flights in 1958')
 
+
+
 plt.show()
+
+
 
 
 # Exercise 2.3 No. 2
 
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 
 df = pd.io.parsers.read_csv("airtravel.csv")
@@ -33,9 +43,21 @@ values = df_sum[0]
 colors = ['c' for i in x_coord]
 widths = [0.6 for i in x_coord]
 
+fig, ax = plt.subplots()
+
 plt.xticks(x_coord,df_sum.index)
 
 plt.ylabel('Sum of flights')
+
+yy = df_sum[0].values
+
+for index,data in enumerate(yy):
+    plt.text(x=index , y =data+1 , s=f"{data}" , fontdict=dict(fontsize=20))
+plt.tight_layout()
+
+plt.ylim(ymin=4000, ymax= 6000)
+
+ax.yaxis.set_ticks(np.arange(4000, 6000, 200))
 
 plt.bar(x_coord,values,color=colors, width=widths)
 plt.show()
