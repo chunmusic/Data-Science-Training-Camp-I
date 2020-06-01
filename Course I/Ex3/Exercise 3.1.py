@@ -43,6 +43,7 @@ variable = df['Sell']
 
 s = skew(variable)
 k = kurtosis(variable)
+zscore, pvalue = kurtosistest(variable)
 
 
 print("Skewness for Sell Price")
@@ -51,6 +52,17 @@ print(f'Skewness {s}')
 
 print("Kurtosis for Sell Price")
 print(f'Kurtosis {k}')
+
+
+#6
+print("Conclusion:")
+print("zscore"+ str(zscore))
+print("pscore"+ str(pvalue))
+
+if (zscore < 0.05 and pvalue < 0.05):
+      print("The p-value shows that this data has normal distribution")
+else:
+      print("The p-value shows that this data does not have normal distribution.")
 
 
 

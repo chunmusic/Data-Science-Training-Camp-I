@@ -56,8 +56,8 @@ print(director_budget)
 
 # 9
 print("Test9")
-director_budget = director_budget.groupby("director_name").describe()
-print(director_budget)
+director_budget_new = director_budget.groupby("director_name").describe()
+print(director_budget_new)
 
 
 # 10
