@@ -27,8 +27,7 @@ print(vs)
 print("Number of bathroom vs Area of the house (in %):")
 
 
-
-vs = pd.crosstab(df["Acres"],area,normalize='columns') * 100
+vs = pd.crosstab(df["Baths"],area,normalize='columns') * 100
 
 pd.set_option('display.max_columns',5)
 print(vs)

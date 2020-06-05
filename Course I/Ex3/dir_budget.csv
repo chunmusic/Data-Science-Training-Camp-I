@@ -1,0 +1,950 @@
+director_name,movie_title,budget,imdb_score,title_year,director_expense
+James Cameron,Avatar,237000000.0,7.9,2009.0,654000000.0
+Gore Verbinski,Pirates of the Caribbean: At World's End,300000000.0,7.1,2007.0,1015000000.0
+Sam Mendes,Spectre,245000000.0,6.8,2015.0,595000000.0
+Christopher Nolan,The Dark Knight Rises,250000000.0,8.5,2012.0,910000000.0
+Andrew Stanton,John Carter,263700000.0,6.6,2012.0,537700000.0
+Sam Raimi,Spider-Man 3,258000000.0,6.2,2007.0,862000000.0
+Nathan Greno,Tangled,260000000.0,7.8,2010.0,260000000.0
+Joss Whedon,Avengers: Age of Ultron,250000000.0,7.5,2015.0,470000000.0
+David Yates,Harry Potter and the Half-Blood Prince,250000000.0,7.5,2009.0,580000000.0
+Zack Snyder,Batman v Superman: Dawn of Justice,250000000.0,6.9,2016.0,832000000.0
+Bryan Singer,Superman Returns,209000000.0,6.1,2006.0,1042000000.0
+Marc Forster,Quantum of Solace,200000000.0,6.7,2008.0,390000000.0
+Gore Verbinski,Pirates of the Caribbean: Dead Man's Chest,225000000.0,7.3,2006.0,1015000000.0
+Gore Verbinski,The Lone Ranger,215000000.0,6.5,2013.0,1015000000.0
+Zack Snyder,Man of Steel,225000000.0,7.2,2013.0,832000000.0
+Andrew Adamson,The Chronicles of Narnia: Prince Caspian,225000000.0,6.6,2008.0,615000000.0
+Joss Whedon,The Avengers,220000000.0,8.1,2012.0,470000000.0
+Rob Marshall,Pirates of the Caribbean: On Stranger Tides,250000000.0,6.7,2011.0,465000000.0
+Barry Sonnenfeld,Men in Black 3,225000000.0,6.8,2012.0,625000000.0
+Peter Jackson,The Hobbit: The Battle of the Five Armies,250000000.0,7.5,2014.0,1208000000.0
+Marc Webb,The Amazing Spider-Man,230000000.0,7.0,2012.0,430000000.0
+Ridley Scott,Robin Hood,200000000.0,6.7,2010.0,1123000000.0
+Peter Jackson,The Hobbit: The Desolation of Smaug,225000000.0,7.9,2013.0,1208000000.0
+Chris Weitz,The Golden Compass,180000000.0,6.1,2007.0,230000000.0
+Peter Jackson,King Kong,207000000.0,7.2,2005.0,1208000000.0
+James Cameron,Titanic,200000000.0,7.7,1997.0,654000000.0
+Anthony Russo,Captain America: Civil War,250000000.0,8.2,2016.0,474000000.0
+Peter Berg,Battleship,209000000.0,5.9,2012.0,514000000.0
+Colin Trevorrow,Jurassic World,150000000.0,7.0,2015.0,150000000.0
+Sam Mendes,Skyfall,200000000.0,7.8,2012.0,595000000.0
+Sam Raimi,Spider-Man 2,200000000.0,7.3,2004.0,862000000.0
+Shane Black,Iron Man 3,200000000.0,7.2,2013.0,200000000.0
+Tim Burton,Alice in Wonderland,200000000.0,6.5,2010.0,770000000.0
+Brett Ratner,X-Men: The Last Stand,210000000.0,6.8,2006.0,811000000.0
+Dan Scanlon,Monsters University,200000000.0,7.3,2013.0,200000000.0
+Michael Bay,Transformers: Revenge of the Fallen,200000000.0,6.0,2009.0,1416000000.0
+Michael Bay,Transformers: Age of Extinction,210000000.0,5.7,2014.0,1416000000.0
+Sam Raimi,Oz the Great and Powerful,215000000.0,6.4,2013.0,862000000.0
+Marc Webb,The Amazing Spider-Man 2,200000000.0,6.7,2014.0,430000000.0
+Joseph Kosinski,TRON: Legacy,170000000.0,6.8,2010.0,290000000.0
+John Lasseter,Cars 2,200000000.0,6.3,2011.0,410000000.0
+Martin Campbell,Green Lantern,200000000.0,5.6,2011.0,738000000.0
+Lee Unkrich,Toy Story 3,200000000.0,8.3,2010.0,200000000.0
+McG,Terminator Salvation,200000000.0,6.6,2009.0,542000000.0
+James Wan,Furious 7,190000000.0,7.2,2015.0,190000000.0
+Marc Forster,World War Z,190000000.0,7.0,2013.0,390000000.0
+Bryan Singer,X-Men: Days of Future Past,200000000.0,8.0,2014.0,1042000000.0
+J.J. Abrams,Star Trek Into Darkness,190000000.0,7.8,2013.0,540000000.0
+Bryan Singer,Jack the Giant Slayer,195000000.0,6.3,2013.0,1042000000.0
+Baz Luhrmann,The Great Gatsby,105000000.0,7.3,2013.0,287500000.0
+Mike Newell,Prince of Persia: The Sands of Time,200000000.0,6.6,2010.0,415000000.0
+Guillermo del Toro,Pacific Rim,190000000.0,7.0,2013.0,395000000.0
+Michael Bay,Transformers: Dark of the Moon,195000000.0,6.3,2011.0,1416000000.0
+Steven Spielberg,Indiana Jones and the Kingdom of the Crystal Skull,185000000.0,6.2,2008.0,1383000000.0
+Mark Andrews,Brave,185000000.0,7.2,2012.0,185000000.0
+Justin Lin,Star Trek Beyond,185000000.0,7.5,2016.0,395000000.0
+Andrew Stanton,WALL·E,180000000.0,8.4,2008.0,537700000.0
+Brett Ratner,Rush Hour 3,140000000.0,6.2,2007.0,811000000.0
+Roland Emmerich,2012,200000000.0,5.8,2009.0,825000000.0
+Robert Zemeckis,A Christmas Carol,200000000.0,6.8,2009.0,905000000.0
+Lana Wachowski,Jupiter Ascending,176000000.0,5.4,2015.0,659000000.0
+David Yates,The Legend of Tarzan,180000000.0,6.6,2016.0,580000000.0
+Andrew Adamson,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",180000000.0,6.9,2005.0,615000000.0
+Bryan Singer,X-Men: Apocalypse,178000000.0,7.3,2016.0,1042000000.0
+Christopher Nolan,The Dark Knight,185000000.0,9.0,2008.0,910000000.0
+Pete Docter,Up,175000000.0,8.3,2009.0,465000000.0
+Rob Letterman,Monsters vs. Aliens,175000000.0,6.5,2009.0,345000000.0
+Jon Favreau,Iron Man,140000000.0,7.9,2008.0,580000000.0
+Martin Scorsese,Hugo,170000000.0,7.5,2011.0,702000000.0
+Barry Sonnenfeld,Wild Wild West,170000000.0,4.8,1999.0,625000000.0
+Rob Cohen,The Mummy: Tomb of the Dragon Emperor,145000000.0,5.2,2008.0,525000000.0
+David Ayer,Suicide Squad,175000000.0,6.9,2016.0,243000000.0
+Tom Shadyac,Evan Almighty,175000000.0,5.4,2007.0,420000000.0
+Doug Liman,Edge of Tomorrow,178000000.0,7.9,2014.0,443000000.0
+Kevin Reynolds,Waterworld,175000000.0,6.1,1995.0,223000000.0
+Stephen Sommers,G.I. Joe: The Rise of Cobra,175000000.0,5.8,2009.0,273000000.0
+Pete Docter,Inside Out,175000000.0,8.3,2015.0,465000000.0
+Jon Favreau,The Jungle Book,175000000.0,7.8,2016.0,580000000.0
+Jon Favreau,Iron Man 2,200000000.0,7.0,2010.0,580000000.0
+Rupert Sanders,Snow White and the Huntsman,170000000.0,6.1,2012.0,170000000.0
+Robert Stromberg,Maleficent,180000000.0,7.0,2014.0,180000000.0
+Matt Reeves,Dawn of the Planet of the Apes,170000000.0,7.6,2014.0,170000000.0
+Carl Rinsch,47 Ronin,175000000.0,6.3,2013.0,175000000.0
+Anthony Russo,Captain America: The Winter Soldier,170000000.0,7.8,2014.0,474000000.0
+Mike Mitchell,Shrek Forever After,165000000.0,6.4,2010.0,240000000.0
+Brad Bird,Tomorrowland,190000000.0,6.5,2015.0,647000000.0
+Don Hall,Big Hero 6,165000000.0,7.9,2014.0,165000000.0
+Rich Moore,Wreck-It Ralph,165000000.0,7.8,2012.0,165000000.0
+Robert Zemeckis,The Polar Express,165000000.0,6.6,2004.0,905000000.0
+Roland Emmerich,Independence Day: Resurgence,165000000.0,5.5,2016.0,825000000.0
+Dean DeBlois,How to Train Your Dragon,165000000.0,8.2,2010.0,390000000.0
+Jonathan Mostow,Terminator 3: Rise of the Machines,200000000.0,6.4,2003.0,342000000.0
+James Gunn,Guardians of the Galaxy,170000000.0,8.1,2014.0,170000000.0
+Christopher Nolan,Interstellar,165000000.0,8.6,2014.0,910000000.0
+Christopher Nolan,Inception,160000000.0,8.8,2010.0,910000000.0
+Peter Jackson,The Hobbit: An Unexpected Journey,180000000.0,7.9,2012.0,1208000000.0
+Rob Cohen,The Fast and the Furious,38000000.0,6.7,2001.0,525000000.0
+David Fincher,The Curious Case of Benjamin Button,150000000.0,7.8,2008.0,529000000.0
+Matthew Vaughn,X-Men: First Class,160000000.0,7.8,2011.0,230000000.0
+Francis Lawrence,The Hunger Games: Mockingjay - Part 2,160000000.0,6.6,2015.0,565000000.0
+Jon Turteltaub,The Sorcerer's Apprentice,150000000.0,6.1,2010.0,365000000.0
+Wolfgang Petersen,Poseidon,160000000.0,5.6,2006.0,610000000.0
+James Bobin,Alice Through the Looking Glass,170000000.0,6.4,2016.0,220000000.0
+Chris Miller,Shrek the Third,160000000.0,6.1,2007.0,290000000.0
+Duncan Jones,Warcraft,160000000.0,7.3,2016.0,160000000.0
+Alan Taylor,Terminator Genisys,155000000.0,6.6,2015.0,325000000.0
+Michael Apted,The Chronicles of Narnia: The Voyage of the Dawn Treader,155000000.0,6.3,2010.0,290000000.0
+Michael Bay,Pearl Harbor,140000000.0,6.1,2001.0,1416000000.0
+Michael Bay,Transformers,150000000.0,7.1,2007.0,1416000000.0
+Oliver Stone,Alexander,155000000.0,5.5,2004.0,343000000.0
+David Yates,Harry Potter and the Order of the Phoenix,150000000.0,7.5,2007.0,580000000.0
+Mike Newell,Harry Potter and the Goblet of Fire,150000000.0,7.6,2005.0,415000000.0
+Peter Berg,Hancock,150000000.0,6.4,2008.0,514000000.0
+Francis Lawrence,I Am Legend,150000000.0,7.2,2007.0,565000000.0
+Tim Burton,Charlie and the Chocolate Factory,150000000.0,6.7,2005.0,770000000.0
+Brad Bird,Ratatouille,150000000.0,8.0,2007.0,647000000.0
+Christopher Nolan,Batman Begins,150000000.0,8.3,2005.0,910000000.0
+Eric Darnell,Madagascar: Escape 2 Africa,150000000.0,6.7,2008.0,607000000.0
+Shawn Levy,Night at the Museum: Battle of the Smithsonian,150000000.0,5.9,2009.0,675000000.0
+Gavin Hood,X-Men Origins: Wolverine,150000000.0,6.7,2009.0,260000000.0
+Lana Wachowski,The Matrix Revolutions,150000000.0,6.7,2003.0,659000000.0
+Chris Buck,Frozen,150000000.0,7.6,2013.0,150000000.0
+Lana Wachowski,The Matrix Reloaded,150000000.0,7.2,2003.0,659000000.0
+Alan Taylor,Thor: The Dark World,170000000.0,7.1,2013.0,325000000.0
+George Miller,Mad Max: Fury Road,150000000.0,8.1,2015.0,465000000.0
+Ron Howard,Angels & Demons,150000000.0,6.7,2009.0,911000000.0
+Kenneth Branagh,Thor,150000000.0,7.0,2011.0,305000000.0
+Byron Howard,Bolt,150000000.0,6.9,2008.0,150000000.0
+Hoyt Yeatman,G-Force,150000000.0,5.1,2009.0,150000000.0
+Jonathan Liebesman,Wrath of the Titans,150000000.0,5.8,2012.0,345000000.0
+Tim Burton,Dark Shadows,100000000.0,6.2,2012.0,770000000.0
+Christopher McQuarrie,Mission: Impossible - Rogue Nation,150000000.0,7.4,2015.0,210000000.0
+Joe Johnston,The Wolfman,150000000.0,5.8,2010.0,483000000.0
+Steve Hickner,Bee Movie,150000000.0,6.2,2007.0,150000000.0
+Jennifer Yuh Nelson,Kung Fu Panda 2,150000000.0,7.3,2011.0,150000000.0
+M. Night Shyamalan,The Last Airbender,150000000.0,4.2,2010.0,605000000.0
+J.J. Abrams,Mission: Impossible III,150000000.0,6.9,2006.0,540000000.0
+Roland Emmerich,White House Down,150000000.0,6.4,2013.0,825000000.0
+Simon Wells,Mars Needs Moms,150000000.0,5.4,2011.0,230000000.0
+David Bowers,Flushed Away,149000000.0,6.7,2006.0,214000000.0
+Joe Wright,Pan,150000000.0,5.8,2015.0,210000000.0
+Rob Minkoff,Mr. Peabody & Sherman,145000000.0,6.9,2014.0,543000000.0
+Wolfgang Petersen,Troy,175000000.0,7.2,2004.0,610000000.0
+Eric Darnell,Madagascar 3: Europe's Most Wanted,145000000.0,6.9,2012.0,607000000.0
+Lee Tamahori,Die Another Day,142000000.0,6.1,2002.0,229000000.0
+Paul Feig,Ghostbusters,144000000.0,5.5,2016.0,144000000.0
+Michael Bay,Armageddon,140000000.0,6.6,1998.0,1416000000.0
+Barry Sonnenfeld,Men in Black II,140000000.0,6.1,2002.0,625000000.0
+Robert Zemeckis,Beowulf,150000000.0,6.3,2007.0,905000000.0
+Alessandro Carloni,Kung Fu Panda 3,145000000.0,7.2,2016.0,145000000.0
+Brad Bird,Mission: Impossible - Ghost Protocol,145000000.0,7.4,2011.0,647000000.0
+Peter Ramsey,Rise of the Guardians,145000000.0,7.3,2012.0,145000000.0
+Dean Parisot,Fun with Dick and Jane,100000000.0,6.1,2005.0,184000000.0
+Edward Zwick,The Last Samurai,140000000.0,7.7,2003.0,310000000.0
+Ridley Scott,Exodus: Gods and Kings,140000000.0,6.1,2014.0,1123000000.0
+J.J. Abrams,Star Trek,150000000.0,8.0,2009.0,540000000.0
+Sam Raimi,Spider-Man,139000000.0,7.3,2002.0,862000000.0
+Dean DeBlois,How to Train Your Dragon 2,145000000.0,7.9,2014.0,390000000.0
+Alex Proyas,Gods of Egypt,140000000.0,5.5,2016.0,310000000.0
+Rob Cohen,Stealth,135000000.0,5.0,2005.0,525000000.0
+Zack Snyder,Watchmen,130000000.0,7.7,2009.0,832000000.0
+Richard Donner,Lethal Weapon 4,140000000.0,6.6,1998.0,345000000.0
+Ang Lee,Hulk,137000000.0,5.7,2003.0,257000000.0
+Jon M. Chu,G.I. Joe: Retaliation,130000000.0,5.8,2013.0,220000000.0
+Breck Eisner,Sahara,130000000.0,6.0,2005.0,220000000.0
+Hironobu Sakaguchi,Final Fantasy: The Spirits Within,137000000.0,6.4,2001.0,137000000.0
+Joe Johnston,Captain America: The First Avenger,140000000.0,6.9,2011.0,483000000.0
+Michael Apted,The World Is Not Enough,135000000.0,6.4,1999.0,290000000.0
+Peter Weir,Master and Commander: The Far Side of the World,150000000.0,7.4,2003.0,210000000.0
+Bill Condon,The Twilight Saga: Breaking Dawn - Part 2,120000000.0,5.5,2012.0,190000000.0
+George Miller,Happy Feet 2,135000000.0,5.9,2011.0,465000000.0
+Louis Leterrier,The Incredible Hulk,150000000.0,6.8,2008.0,350000000.0
+Steven Spielberg,The BFG,140000000.0,6.8,2016.0,1383000000.0
+Alejandro G. Iñárritu,The Revenant,135000000.0,8.1,2015.0,135000000.0
+David Soren,Turbo,135000000.0,6.5,2013.0,135000000.0
+Gore Verbinski,Rango,135000000.0,7.2,2011.0,1015000000.0
+Eric Darnell,Penguins of Madagascar,132000000.0,6.7,2014.0,607000000.0
+Paul Greengrass,The Bourne Ultimatum,110000000.0,8.1,2007.0,460000000.0
+Mark Osborne,Kung Fu Panda,130000000.0,7.6,2008.0,211200000.0
+Peyton Reed,Ant-Man,130000000.0,7.4,2015.0,252000000.0
+Francis Lawrence,The Hunger Games: Catching Fire,130000000.0,7.6,2013.0,565000000.0
+Tim Johnson,Home,135000000.0,6.7,2015.0,215000000.0
+Steven Spielberg,War of the Worlds,132000000.0,6.5,2005.0,1383000000.0
+Michael Bay,Bad Boys II,130000000.0,6.6,2003.0,1416000000.0
+Chris Miller,Puss in Boots,130000000.0,6.7,2011.0,290000000.0
+Phillip Noyce,Salt,110000000.0,6.4,2010.0,240000000.0
+Darren Aronofsky,Noah,125000000.0,5.8,2014.0,125000000.0
+Steven Spielberg,The Adventures of Tintin,135000000.0,7.4,2011.0,1383000000.0
+Alfonso Cuarón,Harry Potter and the Prisoner of Azkaban,130000000.0,7.8,2004.0,306000000.0
+Baz Luhrmann,Australia,130000000.0,6.6,2008.0,287500000.0
+M. Night Shyamalan,After Earth,130000000.0,4.9,2013.0,605000000.0
+Eric Leighton,Dinosaur,127500000.0,6.5,2000.0,127500000.0
+Shawn Levy,Night at the Museum: Secret of the Tomb,127000000.0,6.2,2014.0,675000000.0
+Tom McGrath,Megamind,130000000.0,7.3,2010.0,130000000.0
+Chris Columbus,Harry Potter and the Sorcerer's Stone,125000000.0,7.5,2001.0,558000000.0
+Robert Schwentke,R.I.P.D.,130000000.0,5.6,2013.0,463000000.0
+Gore Verbinski,Pirates of the Caribbean: The Curse of the Black Pearl,140000000.0,8.1,2003.0,1015000000.0
+Francis Lawrence,The Hunger Games: Mockingjay - Part 1,125000000.0,6.7,2014.0,565000000.0
+Ron Howard,The Da Vinci Code,125000000.0,6.6,2006.0,911000000.0
+Carlos Saldanha,Rio 2,103000000.0,6.4,2014.0,363000000.0
+Bryan Singer,X-Men 2,110000000.0,7.5,2003.0,1042000000.0
+Justin Lin,Fast Five,125000000.0,7.3,2011.0,395000000.0
+Guy Ritchie,Sherlock Holmes: A Game of Shadows,125000000.0,7.5,2011.0,290000000.0
+Louis Leterrier,Clash of the Titans,125000000.0,5.8,2010.0,350000000.0
+Paul Verhoeven,Total Recall,65000000.0,7.5,1990.0,265000000.0
+John McTiernan,The 13th Warrior,85000000.0,6.6,1999.0,365000000.0
+Tony Gilroy,The Bourne Legacy,125000000.0,6.7,2012.0,185000000.0
+Joel Schumacher,Batman & Robin,125000000.0,3.7,1997.0,365000000.0
+Ron Howard,How the Grinch Stole Christmas,123000000.0,6.0,2000.0,911000000.0
+Roland Emmerich,The Day After Tomorrow,125000000.0,6.4,2004.0,825000000.0
+John Woo,Mission: Impossible II,125000000.0,6.1,2000.0,430000000.0
+Wolfgang Petersen,The Perfect Storm,140000000.0,6.4,2000.0,610000000.0
+Tim Story,Fantastic 4: Rise of the Silver Surfer,130000000.0,5.6,2007.0,130000000.0
+Ang Lee,Life of Pi,120000000.0,8.0,2012.0,257000000.0
+Mark Steven Johnson,Ghost Rider,110000000.0,5.2,2007.0,110000000.0
+Paul Greengrass,Jason Bourne,120000000.0,7.1,2016.0,460000000.0
+McG,Charlie's Angels: Full Throttle,120000000.0,4.8,2003.0,542000000.0
+Ridley Scott,Prometheus,130000000.0,7.0,2012.0,1123000000.0
+Rob Minkoff,Stuart Little 2,120000000.0,5.4,2002.0,543000000.0
+Neill Blomkamp,Elysium,115000000.0,6.6,2013.0,115000000.0
+David Twohy,The Chronicles of Riddick,105000000.0,6.7,2004.0,105000000.0
+José Padilha,RoboCop,100000000.0,6.2,2014.0,100000000.0
+Lana Wachowski,Speed Racer,120000000.0,6.1,2008.0,659000000.0
+James L. Brooks,How Do You Know,120000000.0,5.3,2010.0,250000000.0
+James Mangold,Knight and Day,117000000.0,6.3,2010.0,237000000.0
+Joseph Kosinski,Oblivion,120000000.0,7.0,2013.0,290000000.0
+George Lucas,Star Wars: Episode III - Revenge of the Sith,113000000.0,7.6,2005.0,343000000.0
+George Lucas,Star Wars: Episode II - Attack of the Clones,115000000.0,6.7,2002.0,343000000.0
+Pete Docter,"Monsters, Inc.",115000000.0,8.1,2001.0,465000000.0
+James Mangold,The Wolverine,120000000.0,6.7,2013.0,237000000.0
+George Lucas,Star Wars: Episode I - The Phantom Menace,115000000.0,6.5,1999.0,343000000.0
+Kirk De Micco,The Croods,135000000.0,7.3,2013.0,135000000.0
+Frédéric Forestier,Asterix at the Olympic Games,78000000.0,5.1,2008.0,78000000.0
+John Woo,Windtalkers,115000000.0,6.0,2002.0,430000000.0
+Cedric Nicolas-Troyan,The Huntsman: Winter's War,115000000.0,6.1,2016.0,115000000.0
+Jonathan Liebesman,Teenage Mutant Ninja Turtles,125000000.0,5.9,2014.0,345000000.0
+Alfonso Cuarón,Gravity,100000000.0,7.8,2013.0,306000000.0
+Roger Donaldson,Dante's Peak,116000000.0,5.8,1997.0,196000000.0
+Dave Green,Teenage Mutant Ninja Turtles: Out of the Shadows,135000000.0,6.3,2016.0,135000000.0
+Josh Trank,Fantastic Four,120000000.0,4.3,2015.0,120000000.0
+Shawn Levy,Night at the Museum,110000000.0,6.4,2006.0,675000000.0
+Brad Peyton,San Andreas,110000000.0,6.1,2015.0,274000000.0
+Roger Spottiswoode,Tomorrow Never Dies,110000000.0,6.5,1997.0,192000000.0
+Roland Emmerich,The Patriot,110000000.0,7.1,2000.0,825000000.0
+Steven Soderbergh,Ocean's Twelve,110000000.0,6.4,2004.0,392000000.0
+Doug Liman,Mr. & Mrs. Smith,120000000.0,6.5,2005.0,443000000.0
+Robert Schwentke,Insurgent,110000000.0,6.3,2015.0,463000000.0
+Martin Scorsese,The Aviator,110000000.0,7.5,2004.0,702000000.0
+Rob Letterman,Gulliver's Travels,112000000.0,4.9,2010.0,345000000.0
+Michel Gondry,The Green Hornet,120000000.0,5.8,2011.0,120000000.0
+Noam Murro,300: Rise of an Empire,110000000.0,6.2,2014.0,110000000.0
+Raja Gosnell,The Smurfs,110000000.0,5.5,2011.0,299000000.0
+Will Finn,Home on the Range,110000000.0,5.4,2004.0,180000000.0
+Robert Schwentke,Allegiant,110000000.0,5.8,2016.0,463000000.0
+Shawn Levy,Real Steel,110000000.0,7.1,2011.0,675000000.0
+Raja Gosnell,The Smurfs 2,105000000.0,5.4,2013.0,299000000.0
+Jan de Bont,Speed 2: Cruise Control,160000000.0,3.7,1997.0,427000000.0
+Gavin Hood,Ender's Game,110000000.0,6.7,2013.0,260000000.0
+Len Wiseman,Live Free or Die Hard,110000000.0,7.2,2007.0,110000000.0
+Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,93000000.0,8.8,2001.0,1208000000.0
+Frank Coraci,Around the World in 80 Days,110000000.0,5.8,2004.0,260000000.0
+Michael Mann,Ali,107000000.0,6.8,2001.0,410000000.0
+Bo Welch,The Cat in the Hat,109000000.0,3.8,2003.0,109000000.0
+Alex Proyas,"I, Robot",120000000.0,7.1,2004.0,310000000.0
+Ridley Scott,Kingdom of Heaven,130000000.0,7.2,2005.0,1123000000.0
+Rob Minkoff,Stuart Little,133000000.0,5.9,1999.0,543000000.0
+Ron Clements,The Princess and the Frog,105000000.0,7.1,2009.0,245000000.0
+Ridley Scott,The Martian,108000000.0,8.1,2015.0,1123000000.0
+Michael Bay,The Island,126000000.0,6.9,2005.0,1416000000.0
+Peter Chelsom,Town & Country,90000000.0,4.4,2001.0,90000000.0
+Dominic Sena,Gone in Sixty Seconds,90000000.0,6.5,2000.0,170000000.0
+Ridley Scott,Gladiator,103000000.0,8.5,2000.0,1123000000.0
+Steven Spielberg,Minority Report,102000000.0,7.7,2002.0,1383000000.0
+Chris Columbus,Harry Potter and the Chamber of Secrets,100000000.0,7.4,2002.0,558000000.0
+Martin Campbell,Casino Royale,150000000.0,8.0,2006.0,738000000.0
+Tim Burton,Planet of the Apes,100000000.0,5.7,2001.0,770000000.0
+James Cameron,Terminator 2: Judgment Day,102000000.0,8.5,1991.0,654000000.0
+Michael Mann,Public Enemies,100000000.0,7.0,2009.0,410000000.0
+Ridley Scott,American Gangster,100000000.0,7.8,2007.0,1123000000.0
+James Cameron,True Lies,115000000.0,7.2,1994.0,654000000.0
+Tony Scott,The Taking of Pelham 1 2 3,100000000.0,6.4,2009.0,620000000.0
+Paul Weitz,Little Fockers,100000000.0,5.5,2010.0,100000000.0
+Adam McKay,The Other Guys,100000000.0,6.7,2010.0,288000000.0
+Chuck Russell,Eraser,100000000.0,6.1,1996.0,160000000.0
+Quentin Tarantino,Django Unchained,100000000.0,8.5,2012.0,279000000.0
+Gary Trousdale,The Hunchback of Notre Dame,100000000.0,6.9,1996.0,220000000.0
+Mark Dindal,The Emperor's New Groove,100000000.0,7.3,2000.0,250000000.0
+Simon West,The Expendables 2,92000000.0,6.7,2012.0,377000000.0
+Jon Turteltaub,National Treasure,100000000.0,6.9,2004.0,365000000.0
+Stefen Fangmeier,Eragon,100000000.0,5.1,2006.0,100000000.0
+Spike Jonze,Where the Wild Things Are,100000000.0,6.8,2009.0,100000000.0
+Chris Wedge,Epic,100000000.0,6.7,2013.0,234000000.0
+Florian Henckel von Donnersmarck,The Tourist,100000000.0,6.0,2010.0,100000000.0
+Peter Hyams,End of Days,83000000.0,5.7,1999.0,175000000.0
+Edward Zwick,Blood Diamond,100000000.0,8.0,2006.0,310000000.0
+Martin Scorsese,The Wolf of Wall Street,100000000.0,8.2,2013.0,702000000.0
+Joel Schumacher,Batman Forever,100000000.0,5.4,1995.0,365000000.0
+Paul Verhoeven,Starship Troopers,105000000.0,7.2,1997.0,265000000.0
+Tom Tykwer,Cloud Atlas,102000000.0,7.5,2012.0,202000000.0
+Zack Snyder,Legend of the Guardians: The Owls of Ga'Hoole,80000000.0,7.0,2010.0,832000000.0
+Pitof,Catwoman,100000000.0,3.3,2004.0,100000000.0
+Brett Ratner,Hercules,100000000.0,6.0,2014.0,811000000.0
+Ron Clements,Treasure Planet,140000000.0,7.1,2002.0,245000000.0
+Brad Silberling,Land of the Lost,100000000.0,5.4,2009.0,205000000.0
+Patrick Hughes,The Expendables 3,90000000.0,6.1,2014.0,90000000.0
+Ericson Core,Point Break,105000000.0,5.3,2015.0,105000000.0
+Lawrence Guterman,Son of the Mask,84000000.0,2.2,2005.0,144000000.0
+Ron Howard,In the Heart of the Sea,100000000.0,7.0,2015.0,911000000.0
+Ron Underwood,The Adventures of Pluto Nash,100000000.0,3.8,2002.0,190000000.0
+Paul Greengrass,Green Zone,100000000.0,6.9,2010.0,460000000.0
+Steve Martino,The Peanuts Movie,99000000.0,7.2,2015.0,194000000.0
+David Mamet,The Spanish Prisoner,10000000.0,7.3,1997.0,10000000.0
+Stephen Sommers,The Mummy Returns,98000000.0,6.3,2001.0,273000000.0
+Martin Scorsese,Gangs of New York,100000000.0,7.5,2002.0,702000000.0
+Yimou Zhang,The Flowers of War,94000000.0,7.6,2011.0,94000000.0
+Ash Brannon,Surf's Up,100000000.0,6.8,2007.0,100000000.0
+Frank Oz,The Stepford Wives,90000000.0,5.2,2004.0,213000000.0
+Ridley Scott,Black Hawk Down,92000000.0,7.7,2001.0,1123000000.0
+Jay Roach,The Campaign,95000000.0,6.2,2012.0,293000000.0
+Luc Besson,The Fifth Element,93000000.0,7.7,1997.0,179000000.0
+Michael Patrick King,Sex and the City 2,100000000.0,4.3,2010.0,100000000.0
+Bibo Bergeron,The Road to El Dorado,95000000.0,6.9,2000.0,170000000.0
+Steve Martino,Ice Age: Continental Drift,95000000.0,6.6,2012.0,194000000.0
+Kenneth Branagh,Cinderella,95000000.0,7.0,2015.0,305000000.0
+Peter Jackson,The Lovely Bones,65000000.0,6.7,2009.0,1208000000.0
+Andrew Stanton,Finding Nemo,94000000.0,8.2,2003.0,537700000.0
+Peter Jackson,The Lord of the Rings: The Return of the King,94000000.0,8.9,2003.0,1208000000.0
+Peter Jackson,The Lord of the Rings: The Two Towers,94000000.0,8.7,2002.0,1208000000.0
+Sergey Bodrov,Seventh Son,95000000.0,5.5,2014.0,95000000.0
+Simon West,Lara Croft: Tomb Raider,115000000.0,5.7,2001.0,377000000.0
+Wally Pfister,Transcendence,100000000.0,6.3,2014.0,100000000.0
+Joe Johnston,Jurassic Park III,93000000.0,5.9,2001.0,483000000.0
+Rupert Wyatt,Rise of the Planet of the Apes,93000000.0,7.6,2011.0,93000000.0
+Mark Waters,The Spiderwick Chronicles,90000000.0,6.6,2008.0,203000000.0
+John Moore,A Good Day to Die Hard,92000000.0,5.3,2013.0,137000000.0
+John Lee Hancock,The Alamo,107000000.0,6.0,2004.0,107000000.0
+Brad Bird,The Incredibles,92000000.0,8.0,2004.0,647000000.0
+Renny Harlin,Cutthroat Island,98000000.0,5.6,1995.0,555000000.0
+Chris Columbus,Percy Jackson & the Olympians: The Lightning Thief,95000000.0,5.9,2010.0,558000000.0
+Barry Sonnenfeld,Men in Black,90000000.0,7.3,1997.0,625000000.0
+John Lasseter,Toy Story 2,90000000.0,7.9,1999.0,410000000.0
+Tony Scott,Unstoppable,100000000.0,6.8,2010.0,620000000.0
+Brett Ratner,Rush Hour 2,90000000.0,6.6,2001.0,811000000.0
+Robert Zemeckis,What Lies Beneath,100000000.0,6.6,2000.0,905000000.0
+Phil Lord,Cloudy with a Chance of Meatballs,100000000.0,7.0,2009.0,210000000.0
+Carlos Saldanha,Ice Age: Dawn of the Dinosaurs,90000000.0,7.0,2009.0,363000000.0
+Ben Stiller,The Secret Life of Walter Mitty,90000000.0,7.3,2013.0,182000000.0
+McG,Charlie's Angels,92000000.0,5.5,2000.0,542000000.0
+Martin Scorsese,The Departed,90000000.0,8.5,2006.0,702000000.0
+Tony Bancroft,Mulan,90000000.0,7.5,1998.0,90000000.0
+Ben Stiller,Tropic Thunder,92000000.0,7.0,2008.0,182000000.0
+David Fincher,The Girl with the Dragon Tattoo,90000000.0,7.8,2011.0,529000000.0
+John McTiernan,Die Hard with a Vengeance,90000000.0,7.6,1995.0,365000000.0
+Guy Ritchie,Sherlock Holmes,90000000.0,7.6,2009.0,290000000.0
+Gary Trousdale,Atlantis: The Lost Empire,120000000.0,6.8,2001.0,220000000.0
+Walt Becker,Alvin and the Chipmunks: The Road Chip,90000000.0,5.0,2015.0,90000000.0
+Bryan Singer,Valkyrie,75000000.0,7.1,2008.0,1042000000.0
+Dennis Dugan,You Don't Mess with the Zohan,90000000.0,5.5,2008.0,409000000.0
+Chris Columbus,Pixels,88000000.0,5.6,2015.0,558000000.0
+Steven Spielberg,A.I. Artificial Intelligence,100000000.0,7.1,2001.0,1383000000.0
+Rob Minkoff,The Haunted Mansion,90000000.0,4.9,2003.0,543000000.0
+Robert Zemeckis,Contact,90000000.0,7.4,1997.0,905000000.0
+Paul Verhoeven,Hollow Man,95000000.0,5.7,2000.0,265000000.0
+Sydney Pollack,The Interpreter,80000000.0,6.4,2005.0,144000000.0
+Thor Freudenthal,Percy Jackson: Sea of Monsters,90000000.0,5.9,2013.0,125000000.0
+Jan de Bont,Lara Croft Tomb Raider: The Cradle of Life,95000000.0,5.5,2003.0,427000000.0
+Jon M. Chu,Now You See Me 2,90000000.0,6.9,2016.0,220000000.0
+Phillip Noyce,The Saint,68000000.0,6.2,1997.0,240000000.0
+Tony Scott,Spy Game,92000000.0,7.0,2001.0,620000000.0
+Brian De Palma,Mission to Mars,90000000.0,5.6,2000.0,289000000.0
+Carlos Saldanha,Rio,90000000.0,7.0,2011.0,363000000.0
+Chris Columbus,Bicentennial Man,100000000.0,6.8,1999.0,558000000.0
+Mick Jackson,Volcano,90000000.0,5.4,1997.0,90000000.0
+Alan J. Pakula,The Devil's Own,86000000.0,6.1,1997.0,86000000.0
+Kathryn Bigelow,K-19: The Widowmaker,100000000.0,6.7,2002.0,140000000.0
+Ron Howard,Cinderella Man,88000000.0,8.0,2005.0,911000000.0
+Andrey Konchalovskiy,The Nutcracker in 3D,90000000.0,4.4,2010.0,90000000.0
+Gary Ross,Seabiscuit,87000000.0,7.3,2003.0,165000000.0
+Jan de Bont,Twister,92000000.0,6.3,1996.0,427000000.0
+Robert Zemeckis,Cast Away,90000000.0,7.7,2000.0,905000000.0
+George Miller,Happy Feet,100000000.0,6.5,2006.0,465000000.0
+Paul Greengrass,The Bourne Supremacy,75000000.0,7.8,2004.0,460000000.0
+Wolfgang Petersen,Air Force One,85000000.0,6.4,1997.0,610000000.0
+Steven Soderbergh,Ocean's Eleven,85000000.0,7.8,2001.0,392000000.0
+Paul W.S. Anderson,The Three Musketeers,75000000.0,5.8,2011.0,520000000.0
+Genndy Tartakovsky,Hotel Transylvania,85000000.0,7.1,2012.0,165000000.0
+Kevin Lima,Enchanted,85000000.0,7.1,2007.0,170000000.0
+Daniel Espinosa,Safe House,85000000.0,6.8,2012.0,85000000.0
+Kevin Lima,102 Dalmatians,85000000.0,4.8,2000.0,170000000.0
+Brett Ratner,Tower Heist,75000000.0,6.2,2011.0,811000000.0
+Nancy Meyers,The Holiday,85000000.0,6.9,2006.0,320000000.0
+Tony Scott,Enemy of the State,90000000.0,7.3,1998.0,620000000.0
+Nancy Meyers,It's Complicated,85000000.0,6.6,2009.0,320000000.0
+Steven Soderbergh,Ocean's Thirteen,85000000.0,6.9,2007.0,392000000.0
+Roger Allers,Open Season,85000000.0,6.2,2006.0,130000000.0
+Neil Burger,Divergent,85000000.0,6.7,2014.0,85000000.0
+Jean-Jacques Annaud,Enemy at the Gates,68000000.0,7.6,2001.0,197660000.0
+Peter Berg,The Rundown,85000000.0,6.7,2003.0,514000000.0
+John McTiernan,Last Action Hero,70000000.0,6.2,1993.0,365000000.0
+Rob Marshall,Memoirs of a Geisha,85000000.0,7.3,2005.0,465000000.0
+Justin Lin,The Fast and the Furious: Tokyo Drift,85000000.0,6.0,2006.0,395000000.0
+Sarah Smith,Arthur Christmas,100000000.0,7.1,2011.0,100000000.0
+Martin Brest,Meet Joe Black,90000000.0,7.1,1998.0,144000000.0
+Andrew Davis,Collateral Damage,85000000.0,5.5,2002.0,135000000.0
+Tarsem Singh,Mirror Mirror,85000000.0,5.6,2012.0,160000000.0
+Edgar Wright,Scott Pilgrim vs. the World,60000000.0,7.5,2010.0,60000000.0
+Jon Amiel,The Core,60000000.0,5.4,2003.0,126000000.0
+Peter Segal,Nutty Professor II: The Klumps,65000000.0,4.3,2000.0,302000000.0
+Raja Gosnell,Scooby-Doo,84000000.0,4.9,2002.0,299000000.0
+Pete Travis,Dredd,35000000.0,7.1,2012.0,35000000.0
+Frank Coraci,Click,70000000.0,6.4,2006.0,260000000.0
+Brad Peyton,Cats & Dogs: The Revenge of Kitty Galore,85000000.0,4.3,2010.0,274000000.0
+Doug Liman,Jumper,85000000.0,6.1,2008.0,443000000.0
+Guillermo del Toro,Hellboy II: The Golden Army,85000000.0,7.0,2008.0,395000000.0
+David Fincher,Zodiac,65000000.0,7.7,2007.0,529000000.0
+Roger Spottiswoode,The 6th Day,82000000.0,5.9,2000.0,192000000.0
+Tom Shadyac,Bruce Almighty,81000000.0,6.7,2003.0,420000000.0
+Sylvester Stallone,The Expendables,80000000.0,6.5,2010.0,80000000.0
+Brian De Palma,Mission: Impossible,80000000.0,7.1,1996.0,289000000.0
+Gary Ross,The Hunger Games,78000000.0,7.3,2012.0,165000000.0
+Todd Phillips,The Hangover Part II,80000000.0,6.5,2011.0,205000000.0
+Tim Burton,Batman Returns,80000000.0,7.0,1992.0,770000000.0
+Tim Johnson,Over the Hedge,80000000.0,6.8,2006.0,215000000.0
+Dean DeBlois,Lilo & Stitch,80000000.0,7.2,2002.0,390000000.0
+Mimi Leder,Deep Impact,75000000.0,6.1,1998.0,125000000.0
+Dean Parisot,RED 2,84000000.0,6.7,2013.0,184000000.0
+Peter Segal,The Longest Yard,82000000.0,6.4,2005.0,302000000.0
+Mike Mitchell,Alvin and the Chipmunks: Chipwrecked,75000000.0,4.4,2011.0,240000000.0
+Dennis Dugan,Grown Ups 2,80000000.0,5.4,2013.0,409000000.0
+Peter Segal,Get Smart,80000000.0,6.5,2008.0,302000000.0
+Nancy Meyers,Something's Gotta Give,80000000.0,6.7,2003.0,320000000.0
+Martin Scorsese,Shutter Island,80000000.0,8.1,2010.0,702000000.0
+Seth Gordon,Four Christmases,80000000.0,5.6,2008.0,80000000.0
+Chris Wedge,Robots,75000000.0,6.3,2005.0,234000000.0
+John Woo,Face/Off,80000000.0,7.3,1997.0,430000000.0
+Adam Shankman,Bedtime Stories,80000000.0,6.1,2008.0,346000000.0
+Sam Mendes,Road to Perdition,80000000.0,7.7,2002.0,595000000.0
+Dennis Dugan,Just Go with It,80000000.0,6.4,2011.0,409000000.0
+Simon West,Con Air,75000000.0,6.8,1997.0,377000000.0
+D.J. Caruso,Eagle Eye,80000000.0,6.6,2008.0,140000000.0
+Anthony Minghella,Cold Mountain,79000000.0,7.2,2003.0,79000000.0
+Albert Hughes,The Book of Eli,80000000.0,6.9,2010.0,80000000.0
+Les Mayfield,Flubber,80000000.0,5.2,1997.0,80000000.0
+Jan de Bont,The Haunting,80000000.0,4.9,1999.0,427000000.0
+Joe Pytka,Space Jam,80000000.0,6.3,1996.0,80000000.0
+Shawn Levy,The Pink Panther,65000000.0,5.6,2006.0,675000000.0
+Scott Derrickson,The Day the Earth Stood Still,80000000.0,5.5,2008.0,80000000.0
+Richard Donner,Conspiracy Theory,75000000.0,6.7,1997.0,345000000.0
+David Ayer,Fury,68000000.0,7.6,2014.0,243000000.0
+Ivan Reitman,Six Days Seven Nights,70000000.0,5.7,1998.0,70000000.0
+Eric Brevig,Yogi Bear,80000000.0,4.6,2010.0,80000000.0
+Kelly Asbury,Spirit: Stallion of the Cimarron,80000000.0,7.0,2002.0,80000000.0
+Frank Coraci,Zookeeper,80000000.0,5.2,2011.0,260000000.0
+Stephen Hopkins,Lost in Space,80000000.0,5.1,1998.0,135000000.0
+Jonathan Demme,The Manchurian Candidate,80000000.0,6.6,2004.0,135000000.0
+Genndy Tartakovsky,Hotel Transylvania 2,80000000.0,6.7,2015.0,165000000.0
+James Algar,Fantasia 2000,80000000.0,7.3,1999.0,80000000.0
+Simon Wells,The Time Machine,80000000.0,5.9,2002.0,230000000.0
+Ron Underwood,Mighty Joe Young,90000000.0,5.6,1998.0,190000000.0
+Dominic Sena,Swordfish,80000000.0,6.5,2001.0,170000000.0
+Martin Campbell,The Legend of Zorro,75000000.0,5.9,2005.0,738000000.0
+Vincent Ward,What Dreams May Come,85000000.0,7.0,1998.0,85000000.0
+Steven Brill,Little Nicky,80000000.0,5.3,2000.0,130000000.0
+Terry Gilliam,The Brothers Grimm,88000000.0,5.9,2005.0,88000000.0
+Tim Burton,Mars Attacks!,70000000.0,6.3,1996.0,770000000.0
+Jonathan Mostow,Surrogates,80000000.0,6.3,2009.0,342000000.0
+Roger Donaldson,Thirteen Days,80000000.0,7.3,2000.0,196000000.0
+Rob Cohen,Daylight,80000000.0,5.8,1996.0,525000000.0
+Barry Cook,Walking with Dinosaurs 3D,80000000.0,5.2,2013.0,80000000.0
+Roger Christian,Battlefield Earth,44000000.0,2.4,2000.0,44000000.0
+Joe Dante,Looney Tunes: Back in Action,80000000.0,5.7,2003.0,130000000.0
+Rob Marshall,Nine,80000000.0,5.8,2009.0,465000000.0
+Richard Donner,Timeline,80000000.0,5.6,2003.0,345000000.0
+Kevin Costner,The Postman,80000000.0,6.0,1997.0,80000000.0
+George Miller,Babe: Pig in the City,80000000.0,5.8,1998.0,465000000.0
+Breck Eisner,The Last Witch Hunter,90000000.0,6.0,2015.0,220000000.0
+Antony Hoffman,Red Planet,70000000.0,5.7,2000.0,70000000.0
+Luc Besson,Arthur and the Invisibles,86000000.0,6.0,2006.0,179000000.0
+Jacques Perrin,Oceans,40000000.0,7.8,2009.0,40000000.0
+Peter Hyams,A Sound of Thunder,52000000.0,4.2,2005.0,175000000.0
+Paul W.S. Anderson,Pompeii,80000000.0,5.6,2014.0,520000000.0
+Andrés Couturier,Top Cat Begins,8000000.0,4.4,2015.0,8000000.0
+Ron Howard,A Beautiful Mind,58000000.0,8.2,2001.0,911000000.0
+Roger Allers,The Lion King,45000000.0,8.5,1994.0,130000000.0
+Brad Peyton,Journey 2: The Mysterious Island,79000000.0,5.8,2012.0,274000000.0
+Cody Cameron,Cloudy with a Chance of Meatballs 2,78000000.0,6.5,2013.0,78000000.0
+Brett Ratner,Red Dragon,78000000.0,7.2,2002.0,811000000.0
+Joe Johnston,Hidalgo,100000000.0,6.7,2004.0,483000000.0
+Dennis Dugan,Jack and Jill,79000000.0,3.4,2011.0,409000000.0
+John Singleton,2 Fast 2 Furious,76000000.0,5.9,2003.0,122000000.0
+Mark Osborne,The Little Prince,81200000.0,7.8,2015.0,211200000.0
+Oliver Hirschbiegel,The Invasion,80000000.0,5.9,2007.0,80000000.0
+Des McAnuff,The Adventures of Rocky & Bullwinkle,76000000.0,4.1,2000.0,76000000.0
+Yarrow Cheney,The Secret Life of Pets,75000000.0,6.8,2016.0,75000000.0
+Stephen Norrington,The League of Extraordinary Gentlemen,78000000.0,5.8,2003.0,78000000.0
+Pierre Coffin,Despicable Me 2,76000000.0,7.5,2013.0,145000000.0
+Roland Emmerich,Independence Day,75000000.0,6.9,1996.0,825000000.0
+Steven Spielberg,The Lost World: Jurassic Park,73000000.0,6.5,1997.0,1383000000.0
+Eric Darnell,Madagascar,75000000.0,6.9,2005.0,607000000.0
+Alfonso Cuarón,Children of Men,76000000.0,7.9,2006.0,306000000.0
+Bryan Singer,X-Men,75000000.0,7.4,2000.0,1042000000.0
+Timur Bekmambetov,Wanted,75000000.0,6.7,2008.0,144000000.0
+Michael Bay,The Rock,75000000.0,7.4,1996.0,1416000000.0
+Carlos Saldanha,Ice Age: The Meltdown,80000000.0,6.9,2006.0,363000000.0
+Peter Segal,50 First Dates,75000000.0,6.8,2004.0,302000000.0
+Adam Shankman,Hairspray,75000000.0,6.7,2007.0,346000000.0
+Renny Harlin,Exorcist: The Beginning,50000000.0,5.1,2004.0,555000000.0
+David Kellogg,Inspector Gadget,75000000.0,4.1,1999.0,75000000.0
+Louis Leterrier,Now You See Me,75000000.0,7.3,2013.0,350000000.0
+Dennis Dugan,Grown Ups,80000000.0,6.0,2010.0,409000000.0
+Steven Spielberg,The Terminal,60000000.0,7.3,2004.0,1383000000.0
+Thor Freudenthal,Hotel for Dogs,35000000.0,5.4,2009.0,125000000.0
+Martin Campbell,Vertical Limit,75000000.0,5.9,2000.0,738000000.0
+Mike Nichols,Charlie Wilson's War,75000000.0,7.1,2007.0,210000000.0
+Bibo Bergeron,Shark Tale,75000000.0,6.0,2004.0,170000000.0
+Bill Condon,Dreamgirls,70000000.0,6.5,2006.0,190000000.0
+F. Gary Gray,Be Cool,53000000.0,5.7,2005.0,213000000.0
+Steven Spielberg,Munich,70000000.0,7.6,2005.0,1383000000.0
+Antoine Fuqua,Tears of the Sun,70000000.0,6.6,2003.0,256000000.0
+Robert Luketic,Killers,75000000.0,5.4,2010.0,75000000.0
+Guy Ritchie,The Man from U.N.C.L.E.,75000000.0,7.3,2015.0,290000000.0
+James L. Brooks,Spanglish,80000000.0,6.5,2004.0,250000000.0
+Gil Kenan,Monster House,75000000.0,6.6,2006.0,75000000.0
+Barry Levinson,Bandits,80000000.0,6.6,2001.0,210000000.0
+Jerry Zucker,First Knight,55000000.0,5.9,1995.0,55000000.0
+Andy Tennant,Anna and the King,75000000.0,6.7,1999.0,215000000.0
+Tarsem Singh,Immortals,75000000.0,6.1,2011.0,160000000.0
+Florent-Emilio Siri,Hostage,52000000.0,6.6,2005.0,52000000.0
+Don Bluth,Titan A.E.,75000000.0,6.6,2000.0,125000000.0
+Ron Shelton,Hollywood Homicide,75000000.0,5.3,2003.0,75000000.0
+Paul W.S. Anderson,Soldier,75000000.0,6.0,1998.0,520000000.0
+Henry Selick,Monkeybone,75000000.0,4.7,2001.0,135000000.0
+John Moore,Flight of the Phoenix,45000000.0,6.1,2004.0,137000000.0
+M. Night Shyamalan,Unbreakable,75000000.0,7.2,2000.0,605000000.0
+Kyle Balda,Minions,74000000.0,6.4,2015.0,74000000.0
+Zack Snyder,Sucker Punch,82000000.0,6.1,2011.0,832000000.0
+Brian De Palma,Snake Eyes,69000000.0,5.9,1998.0,289000000.0
+Barry Levinson,Sphere,75000000.0,6.0,1998.0,210000000.0
+Clay Kaytis,The Angry Birds Movie,73000000.0,6.3,2016.0,73000000.0
+Andy Tennant,Fool's Gold,70000000.0,5.6,2008.0,215000000.0
+Judd Apatow,Funny People,75000000.0,6.4,2009.0,75000000.0
+Peter Berg,The Kingdom,70000000.0,7.1,2007.0,514000000.0
+Adam McKay,Talladega Nights: The Ballad of Ricky Bobby,73000000.0,6.6,2006.0,288000000.0
+Steve Carr,Dr. Dolittle 2,72000000.0,4.6,2001.0,132000000.0
+Mel Gibson,Braveheart,72000000.0,8.4,1995.0,72000000.0
+Sam Mendes,Jarhead,70000000.0,7.1,2005.0,595000000.0
+David Silverman,The Simpsons Movie,75000000.0,7.4,2007.0,75000000.0
+Frank Darabont,The Majestic,72000000.0,6.9,2001.0,132000000.0
+Renny Harlin,Driven,72000000.0,4.5,2001.0,555000000.0
+Jean-Jacques Annaud,Two Brothers,59660000.0,7.1,2004.0,197660000.0
+M. Night Shyamalan,The Village,60000000.0,6.5,2004.0,605000000.0
+Betty Thomas,Doctor Dolittle,71500000.0,5.3,1998.0,216500000.0
+M. Night Shyamalan,Signs,72000000.0,6.7,2002.0,605000000.0
+Andrew Adamson,Shrek 2,150000000.0,7.2,2004.0,615000000.0
+John Lasseter,Cars,120000000.0,7.2,2006.0,410000000.0
+Garry Marshall,Runaway Bride,70000000.0,5.5,1999.0,172000000.0
+Rob Cohen,xXx,70000000.0,5.8,2002.0,525000000.0
+Paul Tibbitt,The SpongeBob Movie: Sponge Out of Water,74000000.0,6.0,2015.0,74000000.0
+Ron Howard,Ransom,80000000.0,6.6,1996.0,911000000.0
+Quentin Tarantino,Inglourious Basterds,75000000.0,8.3,2009.0,279000000.0
+Steven Spielberg,Hook,70000000.0,6.7,1991.0,1383000000.0
+Renny Harlin,Die Hard 2,70000000.0,7.1,1990.0,555000000.0
+Clark Johnson,S.W.A.T.,80000000.0,6.0,2003.0,140000000.0
+Cameron Crowe,Vanilla Sky,68000000.0,6.9,2001.0,235000000.0
+M. Night Shyamalan,Lady in the Water,70000000.0,5.6,2006.0,605000000.0
+Paul W.S. Anderson,AVP: Alien vs. Predator,60000000.0,5.6,2004.0,520000000.0
+Betty Thomas,Alvin and the Chipmunks: The Squeakquel,75000000.0,4.5,2009.0,216500000.0
+Randall Wallace,We Were Soldiers,75000000.0,7.1,2002.0,75000000.0
+Antoine Fuqua,Olympus Has Fallen,70000000.0,6.5,2013.0,256000000.0
+Jonathan Frakes,Star Trek: Insurrection,58000000.0,6.4,1998.0,115000000.0
+Jonathan Liebesman,Battle Los Angeles,70000000.0,5.8,2011.0,345000000.0
+Tim Burton,Big Fish,70000000.0,8.0,2003.0,770000000.0
+Mike Nichols,Wolf,70000000.0,6.2,1994.0,210000000.0
+Steven Spielberg,War Horse,66000000.0,7.2,2011.0,1383000000.0
+George Clooney,The Monuments Men,70000000.0,6.1,2014.0,128000000.0
+Oliver Stone,Wall Street: Money Never Sleeps,70000000.0,6.3,2010.0,343000000.0
+Gary Shore,Dracula Untold,70000000.0,6.3,2014.0,70000000.0
+Edward Zwick,The Siege,70000000.0,6.3,1998.0,310000000.0
+Matthew Vaughn,Stardust,70000000.0,7.7,2007.0,230000000.0
+Jean-Jacques Annaud,Seven Years in Tibet,70000000.0,7.0,1997.0,197660000.0
+Ron Howard,The Dilemma,70000000.0,5.3,2011.0,911000000.0
+Joel Schumacher,Bad Company,70000000.0,5.6,2002.0,365000000.0
+Andrzej Bartkowiak,Doom,60000000.0,5.2,2005.0,60000000.0
+Betty Thomas,I Spy,70000000.0,5.4,2002.0,216500000.0
+Måns Mårlind,Underworld: Awakening,70000000.0,6.4,2012.0,70000000.0
+Adam Shankman,Rock of Ages,75000000.0,5.9,2012.0,346000000.0
+Gregory Hoblit,Hart's War,60000000.0,6.3,2002.0,60000000.0
+Gary McKendry,Killer Elite,35000000.0,6.5,2011.0,35000000.0
+John McTiernan,Rollerball,70000000.0,3.0,2002.0,365000000.0
+Wych Kaosayananda,Ballistic: Ecks vs. Sever,70000000.0,3.6,2002.0,70000000.0
+Mikael Salomon,Hard Rain,70000000.0,5.8,1998.0,70000000.0
+Bobby Farrelly,Osmosis Jones,70000000.0,6.2,2001.0,212000000.0
+Will Finn,Legends of Oz: Dorothy's Return,70000000.0,5.6,2013.0,180000000.0
+Michael Mann,Blackhat,70000000.0,5.4,2015.0,410000000.0
+Kerry Conran,Sky Captain and the World of Tomorrow,70000000.0,6.1,2004.0,70000000.0
+Michael Caton-Jones,Basic Instinct 2,70000000.0,4.2,2006.0,130000000.0
+Mikael Håfström,Escape Plan,50000000.0,6.7,2013.0,50000000.0
+Renny Harlin,The Legend of Hercules,70000000.0,4.2,2014.0,555000000.0
+Phil Alden Robinson,The Sum of All Fears,68000000.0,6.4,2002.0,68000000.0
+David Slade,The Twilight Saga: Eclipse,68000000.0,4.9,2010.0,68000000.0
+Frank Oz,The Score,68000000.0,6.8,2001.0,213000000.0
+Pierre Coffin,Despicable Me,69000000.0,7.7,2010.0,145000000.0
+Joseph Ruben,Money Train,68000000.0,5.6,1995.0,68000000.0
+Seth MacFarlane,Ted 2,68000000.0,6.4,2015.0,118000000.0
+Alejandro Amenábar,Agora,70000000.0,7.2,2009.0,70000000.0
+Kinka Usher,Mystery Men,65000000.0,6.0,1999.0,65000000.0
+Bobby Farrelly,Hall Pass,36000000.0,5.9,2011.0,212000000.0
+Michael Mann,The Insider,68000000.0,7.9,1999.0,410000000.0
+Ridley Scott,Body of Lies,70000000.0,7.1,2008.0,1123000000.0
+Timur Bekmambetov,Abraham Lincoln: Vampire Hunter,69000000.0,5.9,2012.0,144000000.0
+Jon Amiel,Entrapment,66000000.0,6.2,1999.0,126000000.0
+Rob Bowman,The X Files,66000000.0,7.0,1998.0,169000000.0
+Doug Lefler,The Last Legion,35000000.0,5.4,2007.0,35000000.0
+Steven Spielberg,Saving Private Ryan,70000000.0,8.6,1998.0,1383000000.0
+Scott Waugh,Need for Speed,66000000.0,6.5,2014.0,66000000.0
+Nancy Meyers,What Women Want,70000000.0,6.4,2000.0,320000000.0
+Chris Wedge,Ice Age,59000000.0,7.6,2002.0,234000000.0
+Lawrence Kasdan,Dreamcatcher,68000000.0,5.5,2003.0,131000000.0
+Steven Spielberg,Lincoln,65000000.0,7.4,2012.0,1383000000.0
+Lana Wachowski,The Matrix,63000000.0,8.7,1999.0,659000000.0
+Ron Howard,Apollo 13,62000000.0,7.6,1995.0,911000000.0
+Michael Lembeck,The Santa Clause 2,60000000.0,5.5,2002.0,60000000.0
+Tom Hooper,Les Misérables,61000000.0,7.6,2012.0,61000000.0
+Nora Ephron,You've Got Mail,65000000.0,6.5,1998.0,130000000.0
+Adam McKay,Step Brothers,65000000.0,6.9,2008.0,288000000.0
+Martin Campbell,The Mask of Zorro,65000000.0,6.7,1998.0,738000000.0
+Todd Phillips,Due Date,65000000.0,6.6,2010.0,205000000.0
+Angelina Jolie Pitt,Unbroken,65000000.0,7.2,2014.0,65000000.0
+Clint Eastwood,Space Cowboys,65000000.0,6.4,2000.0,478800000.0
+Renny Harlin,Cliffhanger,70000000.0,6.4,1993.0,555000000.0
+John Woo,Broken Arrow,50000000.0,6.0,1996.0,430000000.0
+Jon Turteltaub,The Kid,60000000.0,6.1,2000.0,365000000.0
+Oliver Stone,World Trade Center,63000000.0,6.0,2006.0,343000000.0
+Mike Newell,Mona Lisa Smile,65000000.0,6.4,2003.0,415000000.0
+Larry Charles,The Dictator,65000000.0,6.4,2012.0,65000000.0
+Stanley Kubrick,Eyes Wide Shut,65000000.0,7.3,1999.0,65000000.0
+Will Gluck,Annie,65000000.0,5.2,2014.0,65000000.0
+Glenn Ficarra,Focus,50100000.0,6.6,2015.0,100100000.0
+McG,This Means War,65000000.0,6.3,2012.0,542000000.0
+David S. Goyer,Blade: Trinity,65000000.0,5.9,2004.0,65000000.0
+Mike Nichols,Primary Colors,65000000.0,6.7,1998.0,210000000.0
+Paul W.S. Anderson,Resident Evil: Retribution,65000000.0,5.4,2012.0,520000000.0
+Paul W.S. Anderson,Death Race,45000000.0,6.4,2008.0,520000000.0
+Renny Harlin,The Long Kiss Goodnight,65000000.0,6.7,1996.0,555000000.0
+Taylor Hackford,Proof of Life,65000000.0,6.2,2000.0,122000000.0
+Jon Favreau,Zathura: A Space Adventure,65000000.0,6.1,2005.0,580000000.0
+David Fincher,Fight Club,63000000.0,8.8,1999.0,529000000.0
+McG,We Are Marshall,65000000.0,7.1,2006.0,542000000.0
+Michael Lehmann,Hudson Hawk,70000000.0,5.7,1991.0,70000000.0
+Nora Ephron,Lucky Numbers,65000000.0,5.0,2000.0,130000000.0
+Stuart Beattie,"I, Frankenstein",65000000.0,5.1,2014.0,65000000.0
+Roman Polanski,Oliver Twist,50000000.0,6.9,2005.0,50000000.0
+Rob Bowman,Elektra,43000000.0,4.8,2005.0,169000000.0
+Frank Miller,Sin City: A Dame to Kill For,65000000.0,6.5,2014.0,125000000.0
+Sydney Pollack,Random Hearts,64000000.0,5.1,1999.0,144000000.0
+Baltasar Kormákur,Everest,55000000.0,7.1,2015.0,116000000.0
+Tom Tykwer,Perfume: The Story of a Murderer,50000000.0,7.5,2006.0,202000000.0
+Jay Roach,Austin Powers in Goldmember,63000000.0,6.2,2002.0,293000000.0
+David Bowers,Astro Boy,65000000.0,6.3,2009.0,214000000.0
+Steven Spielberg,Jurassic Park,63000000.0,8.1,1993.0,1383000000.0
+Lawrence Kasdan,Wyatt Earp,63000000.0,6.6,1994.0,131000000.0
+Phillip Noyce,Clear and Present Danger,62000000.0,6.9,1994.0,240000000.0
+Daniel Lee,Dragon Blade,65000000.0,6.1,2015.0,65000000.0
+Keenen Ivory Wayans,Littleman,64000000.0,4.3,2006.0,64000000.0
+Jonathan Mostow,U-571,62000000.0,6.6,2000.0,342000000.0
+Rob Reiner,The American President,62000000.0,6.8,1995.0,112000000.0
+Marco Schnabel,The Love Guru,62000000.0,3.8,2008.0,62000000.0
+Demian Lichtenstein,3000 Miles to Graceland,42000000.0,5.9,2001.0,42000000.0
+Quentin Tarantino,The Hateful Eight,44000000.0,7.9,2015.0,279000000.0
+Josh Gordon,Blades of Glory,61000000.0,6.3,2007.0,61000000.0
+Tim Hill,Hop,63000000.0,5.5,2011.0,123000000.0
+Zack Snyder,300,65000000.0,7.7,2006.0,832000000.0
+Jay Roach,Meet the Fockers,80000000.0,6.3,2004.0,293000000.0
+David Frankel,Marley & Me,60000000.0,7.1,2008.0,60000000.0
+Frank Darabont,The Green Mile,60000000.0,8.5,1999.0,132000000.0
+Mark Dindal,Chicken Little,150000000.0,5.8,2005.0,250000000.0
+David Fincher,Gone Girl,61000000.0,8.1,2014.0,529000000.0
+Doug Liman,The Bourne Identity,60000000.0,7.9,2002.0,443000000.0
+Martin Campbell,GoldenEye,58000000.0,7.2,1995.0,738000000.0
+Simon West,The General's Daughter,95000000.0,6.3,1999.0,377000000.0
+Peter Weir,The Truman Show,60000000.0,8.1,1998.0,210000000.0
+Brenda Chapman,The Prince of Egypt,70000000.0,7.0,1998.0,70000000.0
+Steve Carr,Daddy Day Care,60000000.0,5.5,2003.0,132000000.0
+Baltasar Kormákur,2 Guns,61000000.0,6.7,2013.0,116000000.0
+Lawrence Guterman,Cats & Dogs,60000000.0,5.2,2001.0,144000000.0
+F. Gary Gray,The Italian Job,60000000.0,7.0,2003.0,213000000.0
+Marc Lawrence,Two Weeks Notice,60000000.0,6.1,2002.0,118000000.0
+Eric Darnell,Antz,105000000.0,6.6,1998.0,607000000.0
+Peter Billingsley,Couples Retreat,60000000.0,5.5,2009.0,60000000.0
+Tony Scott,Days of Thunder,60000000.0,5.9,1990.0,620000000.0
+Adam Shankman,Cheaper by the Dozen 2,60000000.0,5.4,2005.0,346000000.0
+Wes Ball,The Scorch Trials,61000000.0,6.4,2015.0,61000000.0
+Ryan Murphy,Eat Pray Love,60000000.0,5.7,2010.0,60000000.0
+Brett Ratner,The Family Man,60000000.0,6.7,2000.0,811000000.0
+Robert Schwentke,RED,58000000.0,7.1,2010.0,463000000.0
+Oliver Stone,Any Given Sunday,55000000.0,6.8,1999.0,343000000.0
+Robert Redford,The Horse Whisperer,60000000.0,6.5,1998.0,120000000.0
+Michael Mann,Collateral,65000000.0,7.6,2004.0,410000000.0
+Chuck Russell,The Scorpion King,60000000.0,5.5,2002.0,160000000.0
+Jay Russell,Ladder 49,55000000.0,6.5,2004.0,55000000.0
+Christopher McQuarrie,Jack Reacher,60000000.0,7.0,2012.0,210000000.0
+Renny Harlin,Deep Blue Sea,60000000.0,5.8,1999.0,555000000.0
+Kenny Ortega,This Is It,60000000.0,7.3,2009.0,60000000.0
+Steven Soderbergh,Contagion,60000000.0,6.6,2011.0,392000000.0
+David McNally,Kangaroo Jack,60000000.0,4.4,2003.0,60000000.0
+Henry Selick,Coraline,60000000.0,7.7,2009.0,135000000.0
+M. Night Shyamalan,The Happening,48000000.0,5.0,2008.0,605000000.0
+Tony Scott,Man on Fire,70000000.0,7.7,2004.0,620000000.0
+Brian Robbins,The Shaggy Dog,50000000.0,4.4,2006.0,110000000.0
+Todd Phillips,Starsky & Hutch,60000000.0,6.1,2004.0,205000000.0
+Brian Levant,Jingle All the Way,60000000.0,5.4,1996.0,120000000.0
+Guillermo del Toro,Hellboy,66000000.0,6.8,2004.0,395000000.0
+Steven Zaillian,A Civil Action,60000000.0,6.5,1998.0,115000000.0
+Chris Butler,ParaNorman,60000000.0,7.0,2012.0,60000000.0
+Michael Caton-Jones,The Jackal,60000000.0,6.3,1997.0,130000000.0
+John Woo,Paycheck,60000000.0,6.3,2003.0,430000000.0
+Jon Avnet,Up Close & Personal,60000000.0,6.1,1996.0,120000000.0
+Sam Fell,The Tale of Despereaux,60000000.0,6.1,2008.0,60000000.0
+Kevin Donovan,The Tuxedo,60000000.0,5.3,2002.0,60000000.0
+Geoff Murphy,Under Siege 2: Dark Territory,60000000.0,5.4,1995.0,60000000.0
+Kenneth Branagh,Jack Ryan: Shadow Recruit,60000000.0,6.2,2014.0,305000000.0
+David O. Russell,Joy,60000000.0,6.6,2015.0,60000000.0
+Babak Najafi,London Has Fallen,60000000.0,5.9,2016.0,60000000.0
+Jean-Pierre Jeunet,Alien: Resurrection,75000000.0,6.3,1997.0,122000000.0
+Antoine Fuqua,Shooter,61000000.0,7.2,2007.0,256000000.0
+Graham Annable,The Boxtrolls,60000000.0,6.8,2014.0,60000000.0
+Griffin Dunne,Practical Magic,48000000.0,6.1,1998.0,48000000.0
+Phil Lord,The Lego Movie,60000000.0,7.8,2014.0,210000000.0
+John Pasquin,Miss Congeniality 2: Armed and Fabulous,45000000.0,5.0,2005.0,45000000.0
+Rob Bowman,Reign of Fire,60000000.0,6.2,2002.0,169000000.0
+Ruben Fleischer,Gangster Squad,60000000.0,6.7,2013.0,60000000.0
+Harold Ramis,Year One,60000000.0,4.9,2009.0,120000000.0
+Clint Eastwood,Invictus,60000000.0,7.4,2009.0,478800000.0
+Tony Gilroy,Duplicity,60000000.0,6.2,2009.0,185000000.0
+Donald Petrie,My Favorite Martian,65000000.0,4.9,1999.0,115000000.0
+Clark Johnson,The Sentinel,60000000.0,6.1,2006.0,140000000.0
+Jorge Blanco,Planet 51,70000000.0,6.1,2009.0,70000000.0
+Stuart Baird,Star Trek: Nemesis,60000000.0,6.4,2002.0,115000000.0
+Joel Coen,Intolerable Cruelty,60000000.0,6.3,2003.0,60000000.0
+Martin Campbell,Edge of Darkness,80000000.0,6.6,2010.0,738000000.0
+Peter Hyams,The Relic,40000000.0,5.7,1997.0,175000000.0
+Harold Ramis,Analyze That,60000000.0,5.9,2002.0,120000000.0
+Jon Avnet,Righteous Kill,60000000.0,6.0,2008.0,120000000.0
+Harold Becker,Mercury Rising,60000000.0,6.1,1998.0,113000000.0
+Joe Wright,The Soloist,60000000.0,6.7,2009.0,210000000.0
+Robert Redford,The Legend of Bagger Vance,60000000.0,6.7,2000.0,120000000.0
+Cameron Crowe,Almost Famous,60000000.0,7.9,2000.0,235000000.0
+Lee Tamahori,xXx: State of the Union,87000000.0,4.3,2005.0,229000000.0
+Scott Stewart,Priest,60000000.0,5.7,2011.0,60000000.0
+Patrick Gilmore,Sinbad: Legend of the Seven Seas,60000000.0,6.7,2003.0,60000000.0
+Paul W.S. Anderson,Event Horizon,60000000.0,6.7,1997.0,520000000.0
+Tom Shadyac,Dragonfly,60000000.0,6.1,2002.0,420000000.0
+Brian De Palma,The Black Dahlia,50000000.0,5.6,2006.0,289000000.0
+Tony Bill,Flyboys,60000000.0,6.6,2006.0,60000000.0
+Rod Lurie,The Last Castle,60000000.0,6.9,2001.0,60000000.0
+Walter Hill,Supernova,65000000.0,4.8,2000.0,120000000.0
+Akiva Goldsman,Winter's Tale,60000000.0,6.2,2014.0,60000000.0
+Harald Zwart,The Mortal Instruments: City of Bones,60000000.0,6.0,2013.0,60000000.0
+Brian Robbins,Meet Dave,60000000.0,4.9,2008.0,110000000.0
+Walter Salles,Dark Water,30000000.0,5.6,2005.0,30000000.0
+Ron Howard,Edtv,55000000.0,6.1,1999.0,911000000.0
+Iain Softley,Inkheart,60000000.0,6.1,2008.0,60000000.0
+Frank Miller,The Spirit,60000000.0,4.8,2008.0,125000000.0
+David Koepp,Mortdecai,60000000.0,5.5,2015.0,60000000.0
+Uwe Boll,In the Name of the King: A Dungeon Siege Tale,60000000.0,3.8,2007.0,60000000.0
+Martin Campbell,Beyond Borders,35000000.0,6.5,2003.0,738000000.0
+Pou-Soi Cheang,Xi you ji zhi: Sun Wukong san da Baigu Jing,68005000.0,6.0,2016.0,68005000.0
+John Dahl,The Great Raid,80000000.0,6.7,2005.0,80000000.0
+Tim Miller,Deadpool,58000000.0,8.1,2016.0,58000000.0
+Stephen Herek,Holy Man,60000000.0,4.9,1998.0,60000000.0
+Clint Eastwood,American Sniper,58800000.0,7.3,2014.0,478800000.0
+Rob Letterman,Goosebumps,58000000.0,6.4,2015.0,345000000.0
+Mark Waters,Just Like Heaven,58000000.0,6.7,2005.0,203000000.0
+Brian Levant,The Flintstones in Viva Rock Vegas,60000000.0,3.6,2000.0,120000000.0
+George Clooney,Leatherheads,58000000.0,6.0,2008.0,128000000.0
+Marc Lawrence,Did You Hear About the Morgans?,58000000.0,4.7,2009.0,118000000.0
+Shawn Levy,The Internship,58000000.0,6.3,2013.0,675000000.0
+Paul W.S. Anderson,Resident Evil: Afterlife,60000000.0,5.9,2010.0,520000000.0
+Anthony Hemingway,Red Tails,58000000.0,5.9,2012.0,58000000.0
+Taylor Hackford,The Devil's Advocate,57000000.0,7.5,1997.0,122000000.0
+Sean Anders,That's My Boy,70000000.0,5.6,2012.0,120000000.0
+Rob Cohen,DragonHeart,57000000.0,6.4,1996.0,525000000.0
+Brett Ratner,After the Sunset,58000000.0,6.3,2004.0,811000000.0
+Mark Neveldine,Ghost Rider: Spirit of Vengeance,57000000.0,4.3,2011.0,57000000.0
+John Madden,Captain Corelli's Mandolin,57000000.0,5.9,2001.0,57000000.0
+Adam Shankman,The Pacifier,56000000.0,5.5,2005.0,346000000.0
+Kevin Bray,Walking Tall,56000000.0,6.2,2004.0,56000000.0
+Robert Zemeckis,Forrest Gump,55000000.0,8.8,1994.0,905000000.0
+Tim Hill,Alvin and the Chipmunks,60000000.0,5.2,2007.0,123000000.0
+Jay Roach,Meet the Parents,55000000.0,7.0,2000.0,293000000.0
+Mike Gabriel,Pocahontas,55000000.0,6.6,1995.0,55000000.0
+Tom Shadyac,The Nutty Professor,54000000.0,5.6,1996.0,420000000.0
+Andy Tennant,Hitch,70000000.0,6.6,2005.0,215000000.0
+Sam Weisman,George of the Jungle,55000000.0,5.4,1997.0,55000000.0
+Jesse Dylan,American Wedding,55000000.0,6.3,2003.0,55000000.0
+Paul Greengrass,Captain Phillips,55000000.0,7.9,2013.0,460000000.0
+Shawn Levy,Date Night,55000000.0,6.3,2010.0,675000000.0
+Brad Silberling,Casper,50000000.0,6.0,1995.0,205000000.0
+Antoine Fuqua,The Equalizer,55000000.0,7.2,2014.0,256000000.0
+Wayne Wang,Maid in Manhattan,55000000.0,5.1,2002.0,55000000.0
+Tony Scott,Crimson Tide,53000000.0,7.3,1995.0,620000000.0
+Gabriele Muccino,The Pursuit of Happyness,55000000.0,8.0,2006.0,110000000.0
+Robert Schwentke,Flightplan,55000000.0,6.2,2005.0,463000000.0
+Barry Levinson,Disclosure,55000000.0,6.0,1994.0,210000000.0
+Brad Silberling,City of Angels,55000000.0,6.7,1998.0,205000000.0
+Quentin Tarantino,Kill Bill: Vol. 1,30000000.0,8.1,2003.0,279000000.0
+Frank Oz,Bowfinger,55000000.0,6.4,1999.0,213000000.0
+Quentin Tarantino,Kill Bill: Vol. 2,30000000.0,8.0,2004.0,279000000.0
+Robert Zemeckis,Death Becomes Her,55000000.0,6.4,1992.0,905000000.0
+Tom Dey,Shanghai Noon,55000000.0,6.6,2000.0,155000000.0
+Stuart Baird,Executive Decision,55000000.0,6.4,1996.0,115000000.0
+Mark Waters,Mr. Popper's Penguins,55000000.0,6.0,2011.0,203000000.0
+Rob Minkoff,The Forbidden Kingdom,55000000.0,6.6,2008.0,543000000.0
+Jimmy Hayward,Free Birds,55000000.0,5.9,2013.0,55000000.0
+David Fincher,Alien 3,50000000.0,6.4,1992.0,529000000.0
+Alan Parker,Evita,55000000.0,6.3,1996.0,55000000.0
+John Frankenheimer,Ronin,55000000.0,7.3,1998.0,55000000.0
+Stephen Hopkins,The Ghost and the Darkness,55000000.0,6.8,1996.0,135000000.0
+Paul King,Paddington,55000000.0,7.2,2014.0,55000000.0
+Akiva Schaffer,The Watch,68000000.0,5.7,2012.0,68000000.0
+William Friedkin,The Hunted,55000000.0,6.0,2003.0,55000000.0
+Jon Turteltaub,Instinct,55000000.0,6.5,1999.0,365000000.0
+Bobby Farrelly,Stuck on You,55000000.0,5.8,2003.0,212000000.0
+Kent Alterman,Semi-Pro,55000000.0,5.8,2008.0,55000000.0
+Peter Lord,The Pirates! Band of Misfits,55000000.0,6.7,2012.0,55000000.0
+Clint Eastwood,Changeling,55000000.0,7.8,2008.0,478800000.0
+Andrew Davis,Chain Reaction,50000000.0,5.6,1996.0,135000000.0
+Tony Scott,The Fan,55000000.0,5.8,1996.0,620000000.0
+Joel Schumacher,The Phantom of the Opera,70000000.0,7.4,2004.0,365000000.0
+Shekhar Kapur,Elizabeth: The Golden Age,55000000.0,6.9,2007.0,55000000.0
+Karyn Kusama,Æon Flux,62000000.0,5.5,2005.0,62000000.0
+Ron Maxwell,Gods and Generals,56000000.0,6.3,2003.0,56000000.0
+Robert Butler,Turbulence,71000000.0,4.7,1997.0,71000000.0
+Karey Kirkpatrick,Imagine That,55000000.0,5.6,2009.0,55000000.0
+James Bobin,Muppets Most Wanted,50000000.0,6.4,2014.0,220000000.0
+Jonathan Frakes,Thunderbirds,57000000.0,4.2,2004.0,115000000.0
+Steve Antin,Burlesque,55000000.0,6.4,2010.0,55000000.0
+Jean-Pierre Jeunet,A Very Long Engagement,47000000.0,7.7,2004.0,122000000.0
+Jim Gillespie,Eye See You,55000000.0,5.3,2002.0,55000000.0
+Guillermo del Toro,Blade II,54000000.0,6.7,2002.0,395000000.0
+Gabriele Muccino,Seven Pounds,55000000.0,7.7,2008.0,110000000.0
+Walter Hill,Bullet to the Head,55000000.0,5.7,2012.0,120000000.0
+Francis Ford Coppola,The Godfather: Part III,54000000.0,7.6,1990.0,54000000.0
+Cameron Crowe,Elizabethtown,57000000.0,6.4,2005.0,235000000.0
+Anthony Russo,"You, Me and Dupree",54000000.0,5.6,2006.0,474000000.0
+Martin Brest,Gigli,54000000.0,2.4,2003.0,144000000.0
+Steven Zaillian,All the King's Men,55000000.0,6.2,2006.0,115000000.0
+John Singleton,Shaft,46000000.0,5.9,2000.0,122000000.0
+Don Bluth,Anastasia,50000000.0,7.1,1997.0,125000000.0
+Baz Luhrmann,Moulin Rouge!,52500000.0,7.6,2001.0,287500000.0
+Harold Becker,Domestic Disturbance,53000000.0,5.5,2001.0,113000000.0
+Scott Cooper,Black Mass,53000000.0,7.0,2015.0,53000000.0
+Clint Eastwood,Flags of Our Fathers,90000000.0,7.1,2006.0,478800000.0
+F. Gary Gray,Law Abiding Citizen,50000000.0,7.4,2009.0,213000000.0
+Robert Rodriguez,Grindhouse,53000000.0,7.6,2007.0,103000000.0
+Jonathan Demme,Beloved,55000000.0,5.9,1998.0,135000000.0
+Curtis Hanson,Lucky You,55000000.0,5.9,2007.0,55000000.0
+Steven Spielberg,Catch Me If You Can,52000000.0,8.0,2002.0,1383000000.0
+Kathryn Bigelow,Zero Dark Thirty,40000000.0,7.4,2012.0,140000000.0
+Peyton Reed,The Break-Up,52000000.0,5.8,2006.0,252000000.0
+Phyllida Lloyd,Mamma Mia!,52000000.0,6.3,2008.0,52000000.0
+Garry Marshall,Valentine's Day,52000000.0,5.7,2010.0,172000000.0
+Jay Chandrasekhar,The Dukes of Hazzard,50000000.0,5.1,2005.0,50000000.0
+Terrence Malick,The Thin Red Line,52000000.0,7.6,1998.0,52000000.0
+David Dobkin,The Change-Up,52000000.0,6.4,2011.0,152000000.0
+Milos Forman,Man on the Moon,52000000.0,7.4,1999.0,52000000.0
+Martin Scorsese,Casino,52000000.0,8.2,1995.0,702000000.0
+Pierre Morel,From Paris with Love,52000000.0,6.5,2010.0,52000000.0
+Paul Hunter,Bulletproof Monk,52000000.0,5.5,2003.0,52000000.0
+Bobby Farrelly,"Me, Myself & Irene",51000000.0,6.5,2000.0,212000000.0
+Steve Oedekerk,Barnyard,51000000.0,5.6,2006.0,51000000.0
+Chris Weitz,The Twilight Saga: New Moon,50000000.0,4.6,2009.0,230000000.0
+Andrew Adamson,Shrek,60000000.0,7.9,2001.0,615000000.0
+George Nolfi,The Adjustment Bureau,50200000.0,7.1,2011.0,50200000.0
+Kevin Reynolds,Robin Hood: Prince of Thieves,48000000.0,6.9,1991.0,223000000.0
+Cameron Crowe,Jerry Maguire,50000000.0,7.3,1996.0,235000000.0
+Seth MacFarlane,Ted,50000000.0,7.0,2012.0,118000000.0
+James L. Brooks,As Good as It Gets,50000000.0,7.7,1997.0,250000000.0
+Tom Shadyac,Patch Adams,50000000.0,6.7,1998.0,420000000.0
+Adam McKay,Anchorman 2: The Legend Continues,50000000.0,6.3,2013.0,288000000.0
+Steven Brill,Mr. Deeds,50000000.0,5.8,2002.0,130000000.0
+J.J. Abrams,Super 8,50000000.0,7.1,2011.0,540000000.0
+Steven Soderbergh,Erin Brockovich,52000000.0,7.3,2000.0,392000000.0
+Donald Petrie,How to Lose a Guy in 10 Days,50000000.0,6.4,2003.0,115000000.0
+Phil Lord,22 Jump Street,50000000.0,7.1,2014.0,210000000.0
+Neil Jordan,Interview with the Vampire: The Vampire Chronicles,60000000.0,7.6,1994.0,60000000.0
+Peyton Reed,Yes Man,70000000.0,6.8,2008.0,252000000.0
+Rawson Marshall Thurber,Central Intelligence,50000000.0,6.6,2016.0,50000000.0
+Chris Columbus,Stepmom,50000000.0,6.7,1998.0,558000000.0
+Sean Anders,Daddy's Home,50000000.0,6.1,2015.0,120000000.0
+Rob Marshall,Into the Woods,50000000.0,6.0,2014.0,465000000.0
+Spike Lee,Inside Man,45000000.0,7.6,2006.0,45000000.0
+Brian Helgeland,Payback,50000000.0,7.1,1999.0,50000000.0
+Frank Marshall,Congo,50000000.0,5.0,1995.0,50000000.0
+Alex Proyas,Knowing,50000000.0,6.2,2009.0,310000000.0
+Tom Dey,Failure to Launch,50000000.0,5.6,2006.0,155000000.0
+Glenn Ficarra,"Crazy, Stupid, Love.",50000000.0,7.4,2011.0,100100000.0
+Peter Hewitt,Garfield,35000000.0,5.0,2004.0,35000000.0
+Joe Roth,Christmas with the Kranks,60000000.0,5.2,2004.0,60000000.0
+Bennett Miller,Moneyball,50000000.0,7.6,2011.0,50000000.0
+Wolfgang Petersen,Outbreak,50000000.0,6.6,1995.0,610000000.0
+Jaume Collet-Serra,Non-Stop,50000000.0,7.0,2014.0,50000000.0
+Andy Fickman,Race to Witch Mountain,65000000.0,5.7,2009.0,65000000.0
+James McTeigue,V for Vendetta,54000000.0,8.2,2005.0,94000000.0
+David Dobkin,Shanghai Knights,50000000.0,6.2,2003.0,152000000.0
+Matthew O'Callaghan,Curious George,50000000.0,6.6,2006.0,50000000.0
+Angela Robinson,Herbie Fully Loaded,50000000.0,4.7,2005.0,50000000.0
+Gary Fleder,Don't Say a Word,50000000.0,6.3,2001.0,50000000.0
+Tommy Wirkola,Hansel & Gretel: Witch Hunters,50000000.0,6.1,2013.0,50000000.0
+Adrian Lyne,Unfaithful,50000000.0,6.7,2002.0,50000000.0
+D.J. Caruso,I Am Number Four,60000000.0,6.1,2011.0,140000000.0
+Stephen Gaghan,Syriana,50000000.0,7.0,2005.0,50000000.0
+Michael Bay,13 Hours,50000000.0,7.4,2016.0,1416000000.0
+Jorge R. Gutiérrez,The Book of Life,50000000.0,7.3,2014.0,50000000.0
+Richard Loncraine,Firewall,50000000.0,5.8,2006.0,50000000.0
+Clint Eastwood,Absolute Power,50000000.0,6.7,1997.0,478800000.0
+Ridley Scott,G.I. Jane,50000000.0,5.8,1997.0,1123000000.0
+David Fincher,The Game,50000000.0,7.8,1997.0,529000000.0
+Christophe Gans,Silent Hill,50000000.0,6.6,2006.0,50000000.0
+Howard Deutch,The Replacements,50000000.0,6.5,2000.0,50000000.0
+Jon Hurwitz,American Reunion,50000000.0,6.7,2012.0,50000000.0
+F. Gary Gray,The Negotiator,50000000.0,7.3,1998.0,213000000.0
+Steven Quale,Into the Storm,50000000.0,5.8,2014.0,50000000.0
+John Landis,Beverly Hills Cop III,55000000.0,5.5,1994.0,55000000.0
+Joe Dante,Gremlins 2: The New Batch,50000000.0,6.3,1990.0,130000000.0
+David Dobkin,The Judge,50000000.0,7.4,2014.0,152000000.0
+Mimi Leder,The Peacemaker,50000000.0,5.9,1997.0,125000000.0
+Alexander Witt,Resident Evil: Apocalypse,45000000.0,6.2,2004.0,45000000.0
+Beeban Kidron,Bridget Jones: The Edge of Reason,40000000.0,5.9,2004.0,40000000.0
+Carl Franklin,Out of Time,50000000.0,6.5,2003.0,50000000.0
+Steven Seagal,On Deadly Ground,50000000.0,4.4,1994.0,50000000.0
+Robert Rodriguez,The Adventures of Sharkboy and Lavagirl 3-D,50000000.0,3.5,2005.0,103000000.0
+Danny Boyle,The Beach,50000000.0,6.6,2000.0,50000000.0
+Garry Marshall,Raising Helen,50000000.0,6.0,2004.0,172000000.0
+James McTeigue,Ninja Assassin,40000000.0,6.4,2009.0,94000000.0
+Sam Raimi,For Love of the Game,50000000.0,6.5,1999.0,862000000.0
+Andrew Bergman,Striptease,40000000.0,4.3,1996.0,40000000.0
+Tom Dey,Marmaduke,50000000.0,4.2,2010.0,155000000.0
+Clint Eastwood,Hereafter,50000000.0,6.5,2010.0,478800000.0
+Barbet Schroeder,Murder by Numbers,50000000.0,6.1,2002.0,50000000.0
+Richard Donner,Assassins,50000000.0,6.3,1995.0,345000000.0
+Peter Webber,Hannibal Rising,50000000.0,6.2,2007.0,50000000.0
+Rob Reiner,The Story of Us,50000000.0,5.9,1999.0,112000000.0
+Andrew Niccol,The Host,40000000.0,5.9,2013.0,40000000.0
+John McTiernan,Basic,50000000.0,6.5,2003.0,365000000.0
+Clint Eastwood,Blood Work,50000000.0,6.4,2002.0,478800000.0
+Tom Tykwer,The International,50000000.0,6.5,2009.0,202000000.0
+John Carpenter,Escape from L.A.,50000000.0,5.7,1996.0,50000000.0
+Brad Bird,The Iron Giant,70000000.0,8.0,1999.0,647000000.0
