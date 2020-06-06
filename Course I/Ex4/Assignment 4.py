@@ -55,7 +55,7 @@ Vh = Vh[Vh > 0.01]
 Us = np.dot(U, np.diag(s))
 UsVh = np.dot(Us, Vh)
 
-print(UsVh)s
+print(UsVh)
 
 
 # No. 3
