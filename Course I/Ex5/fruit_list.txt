@@ -1,0 +1,7 @@
+fruit_name
+apple
+mango
+cherry
+banana
+orange
+peach
