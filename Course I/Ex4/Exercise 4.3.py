@@ -4,7 +4,7 @@
 
 import pandas as pd
 
-data = pd.read_csv('data.txt', sep="   ", header=None)
+data = pd.read_csv('data.txt', sep="\s+", header=None)
 truth = pd.read_csv('ground_truth.txt', header=None)
 
 X = data.values
@@ -13,8 +13,8 @@ ground_truth = truth.values.flatten()
 import imp
 from sklearn.manifold import TSNE
 tsne = TSNE(init='pca',
-            perplexity=50, # Larger datasets usually require a larger perplexity. Consider selecting a value between 5 and 50.
-            early_exaggeration=25, # For larger values, the space between natural clusters will be larger in the embedded space. Again, the choice of this parameter is not very critical.
+            perplexity=5, # Larger datasets usually require a larger perplexity. Consider selecting a value between 5 and 50.
+            early_exaggeration=20, # For larger values, the space between natural clusters will be larger in the embedded space. Again, the choice of this parameter is not very critical.
             n_iter=300 # Maximum number of iterations for the optimization. Should be at least 250.
             )
 

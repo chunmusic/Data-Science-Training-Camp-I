@@ -3,8 +3,9 @@
 # No.1
 
 import pandas as pd
+import numpy as np
 
-data = pd.read_csv('data.txt', sep="   ", header=None)
+data = pd.read_csv('data.txt', sep="\s+", header=None).astype('float64')
 truth = pd.read_csv('ground_truth.txt', header=None)
 
 X = data.values
@@ -13,6 +14,8 @@ ground_truth = truth.values
 import imp
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import scale
+
+np.set_printoptions(suppress=True)
 
 pca = PCA(n_components=30)
 Cx = pca.fit_transform(scale(X))
