@@ -3,58 +3,27 @@
 import pandas as pd
 import numpy as np
 
-room_data = pd.read_csv('room_stats.csv')
+tanjoubi = pd.read_csv('tanjoubi.csv')
 
-# A
+jp_year = '年'
+jp_month = '月'
+jp_day ='日'
+jp_age = '年齢'
 
-df = room_data.loc[(pd.to_datetime(room_data['date']).dt.day==2)]
+tanjoubi['誕生日'] = tanjoubi['誕生日'].str.replace('年','-')
+tanjoubi['誕生日'] = tanjoubi['誕生日'].str.replace('月','-')
+tanjoubi['誕生日'] = tanjoubi['誕生日'].str.replace('日','')
 
-print(df)
+birthday = pd.to_datetime(tanjoubi['誕生日'])
 
+today = pd.to_datetime('2020-6-12')
 
+Timedelta = (today - birthday)
 
-# B
-light_off = room_data[room_data['Light']==0]
+Timedelta = pd.to_timedelta(Timedelta)
 
-light_hour = (pd.to_datetime(light_off['date']).dt.hour)
+年齢 = np.floor(Timedelta.dt.days/365)
 
-light_hour.to_csv('light_off_data.csv')
+tanjoubi['年齢'] = 年齢
 
-# C
-
-import pandas as pd
-
-room_data = pd.read_csv('room_stats.csv')
-
-room_data['date'] = pd.to_datetime(room_data['date'])
-room_data = room_data.set_index('date')
-
-
-
-print("\nThe Maximum of Humidity and CO2 per 300 seconds")
-group3 = room_data.resample('600S').max()
-
-CO2 = group3[['CO2']]
-
-
-CO2 = CO2.loc['2015-02-03 06:00':'2015-02-03 18:00']
-
-print(CO2)
-
-
-# D
-
-room_data = pd.read_csv('room_stats.csv')
-
-day_data = pd.to_datetime(room_data['date']).dt.day
-hour_data = pd.to_datetime(room_data['date']).dt.hour
-minute_data = pd.to_datetime(room_data['date']).dt.minute
-
-stats = room_data[['Temp.','Humid.','CO2']]
-
-room_stats2 = pd.concat([day_data, hour_data, minute_data, stats], axis=1)
-
-room_stats2 = room_stats2.set_axis(['day', 'hour', 'minute', 'Temp.', 'Humid.','CO2'], axis=1, inplace=False)
-
-
-print(room_stats2)
+tanjoubi.to_csv('tanjoubi_nenrei.csv')

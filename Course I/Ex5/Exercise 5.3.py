@@ -1,50 +1,64 @@
 # Exercise 5.3
+
 import pandas as pd
-pd.set_option('display.max_columns', 20)
+import numpy as np
 
-# Reading the txt file (no header). This will give data with 1 column.
-fav_fruit = pd.read_table('fav_fruits.txt')
+room_data = pd.read_csv('room_stats.csv')
 
-# Splitting that column word by word. Use the pattern provided.
-split_pattern = '[(\s+)(,\s+)]'
+# A
 
-fav_split = fav_fruit['♥ Favourite Fruits ♥'].str.split(pat=split_pattern, expand=True)
+df = room_data.loc[(pd.to_datetime(room_data['date']).dt.day==2)]
 
-# Dropping unnecessary columns
-
-fav_fruit = fav_split.drop(columns=[1, 3, 4, 5, 7, 9, 11, 16])
+print(df)
 
 
-# Replacing ['he','she'] with ['M','F']. Use pd.replace().
-fav_fruit[6] = fav_fruit[6].replace('he','M')
-fav_fruit[6] = fav_fruit[6].replace('she','F') 
 
-# Converting columns containing fruit names into dummy variable
+# B
+light_off = room_data[room_data['Light']==0]
 
-fav_dummies = pd.get_dummies(fav_split)
+light_hour = (pd.to_datetime(light_off['date']).dt.hour)
 
-# Reading txt file containing fruits list
-fruit_list = pd.read_csv('fruit_list.txt', squeeze=True) # squeeze so it can be used in for loop
+light_hour.to_csv('light_off_data.csv')
 
+# C
 
-# Combining columns consisting of dummy variable with same name
+import pandas as pd
 
-for fruit_name in fruit_list:
-  # Making a list of header in course_dummies with same name
-  same_index_fruit = [colname for colname in fav_dummies.columns if fruit_name in colname]
-  # Combining columns in course_dummies with same name
-  fav_fruit[fruit_name] = pd.concat([fav_dummies[same_index_fruit]]).sum(axis=1)
+room_data = pd.read_csv('room_stats.csv')
 
-# Dropping more unnecessary columns (if any)
-
-fav_fruit = fav_fruit.drop(columns= [8,10,12,13,14,15,17])
-
-# Renaming the first three column with 'name', 'age', 'sex'
-
-fav_fruit.rename(columns={0:'name'}, inplace=True)
-fav_fruit.rename(columns={2:'age'}, inplace=True)
-fav_fruit.rename(columns={6:'sex'}, inplace=True)
+room_data['date'] = pd.to_datetime(room_data['date'])
+room_data = room_data.set_index('date')
 
 
-# Printing the final table
-print(fav_fruit)
+
+print("\nThe Maximum of Humidity and CO2 per 300 seconds")
+group3 = room_data.resample('600S').max()
+
+CO2 = group3[['CO2']]
+
+
+CO2 = CO2.loc['2015-02-03 06:00':'2015-02-03 18:00']
+
+print(CO2)
+
+CO2.to_csv('max_co2.csv')
+
+
+# D
+
+room_data = pd.read_csv('room_stats.csv')
+
+day_data = pd.to_datetime(room_data['date']).dt.day
+hour_data = pd.to_datetime(room_data['date']).dt.hour
+minute_data = pd.to_datetime(room_data['date']).dt.minute
+
+stats = room_data[['Temp.','Humid.','CO2']]
+
+room_stats2 = pd.concat([day_data, hour_data, minute_data, stats], axis=1)
+
+room_stats2 = room_stats2.set_axis(['day', 'hour', 'minute', 'Temp.', 'Humid.','CO2'], axis=1, inplace=False)
+
+
+print(room_stats2)
+
+room_stats2.to_csv('room_stats2.csv')

@@ -1,29 +1,23 @@
 # Exercise 5.1
-
 import pandas as pd
 import numpy as np
 
-tanjoubi = pd.read_csv('tanjoubi.csv')
+# 1
 
-jp_year = '年'
-jp_month = '月'
-jp_day ='日'
-jp_age = '年齢'
+#print(df1)
 
-tanjoubi['誕生日'] = tanjoubi['誕生日'].str.replace('年','-')
-tanjoubi['誕生日'] = tanjoubi['誕生日'].str.replace('月','-')
-tanjoubi['誕生日'] = tanjoubi['誕生日'].str.replace('日','')
+# 2
 
-birthday = pd.to_datetime(tanjoubi['誕生日'])
+#print(df2)
 
-today = pd.to_datetime('2020-6-12')
+# 3
 
-Timedelta = (today - birthday)
+#print(df3)
 
-Timedelta = pd.to_timedelta(Timedelta)
+# 4
 
-年齢 = np.floor(Timedelta.dt.days/365)
+#print(df4)
 
-tanjoubi['年齢'] = 年齢
+# 5
 
-tanjoubi.to_csv('tanjoubi_nenrei.csv')
+#print(df5)
