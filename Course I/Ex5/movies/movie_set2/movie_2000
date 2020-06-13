@@ -1,0 +1,291 @@
+movieId,title,genres,year
+1772,Blues Brothers 2000,Action|Comedy|Musical,2000.0
+2769,"Yards, The",Crime|Drama,2000.0
+3159,Fantasia 2000,Animation|Children|Musical|IMAX,2000.0
+3177,Next Friday,Comedy,2000.0
+3190,Supernova,Adventure|Sci-Fi|Thriller,2000.0
+3225,Down to You,Comedy|Romance,2000.0
+3273,Scream 3,Comedy|Horror|Mystery|Thriller,2000.0
+3275,"Boondock Saints, The",Action|Crime|Drama|Thriller,2000.0
+3276,Gun Shy,Comedy,2000.0
+3285,"Beach, The",Adventure|Drama,2000.0
+3286,Snow Day,Comedy,2000.0
+3287,"Tigger Movie, The",Animation|Children,2000.0
+3298,Boiler Room,Crime|Drama|Thriller,2000.0
+3299,Hanging Up,Comedy|Drama,2000.0
+3300,Pitch Black,Horror|Sci-Fi|Thriller,2000.0
+3301,"Whole Nine Yards, The",Comedy|Crime,2000.0
+3303,Black Tar Heroin: The Dark End of the Street,Documentary,2000.0
+3316,Reindeer Games,Action|Thriller,2000.0
+3317,Wonder Boys,Comedy|Drama,2000.0
+3323,Chain of Fools,Comedy|Crime,2000.0
+3324,Drowning Mona,Comedy,2000.0
+3325,"Next Best Thing, The",Comedy|Drama,2000.0
+3326,What Planet Are You From?,Comedy|Sci-Fi,2000.0
+3353,"Closer You Get, The",Comedy|Romance,2000.0
+3354,Mission to Mars,Sci-Fi,2000.0
+3408,Erin Brockovich,Drama,2000.0
+3409,Final Destination,Drama|Thriller,2000.0
+3452,Romeo Must Die,Action|Crime|Romance|Thriller,2000.0
+3453,Here on Earth,Drama|Romance,2000.0
+3454,Whatever It Takes,Comedy|Romance,2000.0
+3473,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000),Comedy,2000.0
+3481,High Fidelity,Comedy|Drama|Romance,2000.0
+3483,"Road to El Dorado, The",Animation|Children,2000.0
+3484,"Skulls, The",Thriller,2000.0
+3510,Frequency,Drama|Thriller,2000.0
+3511,Ready to Rumble,Comedy,2000.0
+3512,Return to Me,Drama|Romance,2000.0
+3513,Rules of Engagement,Drama|Thriller,2000.0
+3514,Joe Gould's Secret,Drama,2000.0
+3515,Me Myself I,Comedy|Romance,2000.0
+3534,28 Days,Drama,2000.0
+3535,American Psycho,Crime|Horror|Mystery|Thriller,2000.0
+3536,Keeping the Faith,Comedy|Drama|Romance,2000.0
+3537,Where the Money Is,Comedy|Drama,2000.0
+3539,"Filth and the Fury, The",Documentary,2000.0
+3553,Gossip,Drama|Thriller,2000.0
+3554,Love and Basketball,Drama|Romance,2000.0
+3555,U-571,Action|Thriller|War,2000.0
+3563,"Crow: Salvation, The",Action|Horror,2000.0
+3564,"Flintstones in Viva Rock Vegas, The",Children|Comedy,2000.0
+3565,Where the Heart Is,Comedy|Drama,2000.0
+3566,"Big Kahuna, The",Comedy|Drama,2000.0
+3567,Bossa Nova,Comedy|Drama|Romance,2000.0
+3571,Time Code,Comedy|Drama,2000.0
+3578,Gladiator,Action|Adventure|Drama,2000.0
+3580,Up at the Villa,Drama,2000.0
+3593,Battlefield Earth,Action|Sci-Fi,2000.0
+3594,Center Stage,Drama|Musical,2000.0
+3596,Screwed,Comedy,2000.0
+3597,Whipped,Comedy,2000.0
+3598,Hamlet,Crime|Drama|Romance|Thriller,2000.0
+3615,Dinosaur,Adventure|Animation|Children,2000.0
+3616,Loser,Comedy|Romance,2000.0
+3617,Road Trip,Comedy,2000.0
+3618,Small Time Crooks,Comedy|Crime,2000.0
+3623,Mission: Impossible II,Action|Adventure|Thriller,2000.0
+3624,Shanghai Noon,Action|Adventure|Comedy|Western,2000.0
+3646,Big Momma's House,Comedy,2000.0
+3717,Gone in 60 Seconds,Action|Crime,2000.0
+3719,Love's Labour's Lost,Comedy|Romance,2000.0
+3743,Boys and Girls,Comedy|Romance,2000.0
+3744,Shaft,Action|Crime|Thriller,2000.0
+3745,Titan A.E.,Action|Adventure|Animation|Children|Sci-Fi,2000.0
+3751,Chicken Run,Animation|Children|Comedy,2000.0
+3752,"Me, Myself & Irene",Adventure|Comedy,2000.0
+3753,"Patriot, The",Action|Drama|War,2000.0
+3754,"Adventures of Rocky and Bullwinkle, The",Adventure|Animation|Children|Comedy|Fantasy,2000.0
+3755,"Perfect Storm, The",Drama|Thriller,2000.0
+3756,"Golden Bowl, The",Drama,2000.0
+3784,"Kid, The",Comedy|Fantasy,2000.0
+3785,Scary Movie,Comedy|Horror,2000.0
+3790,Groove,Drama,2000.0
+3793,X-Men,Action|Adventure|Sci-Fi,2000.0
+3794,Chuck & Buck,Comedy|Drama,2000.0
+3797,"In Crowd, The",Thriller,2000.0
+3798,What Lies Beneath,Drama|Horror|Mystery,2000.0
+3799,Pokémon the Movie 2000,Animation|Children,2000.0
+3821,Nutty Professor II: The Klumps,Comedy,2000.0
+3824,Autumn in New York,Drama|Romance,2000.0
+3825,Coyote Ugly,Comedy|Drama|Romance,2000.0
+3826,Hollow Man,Horror|Sci-Fi|Thriller,2000.0
+3827,Space Cowboys,Action|Adventure|Comedy|Sci-Fi,2000.0
+3830,Psycho Beach Party,Comedy|Horror|Thriller,2000.0
+3831,Saving Grace,Comedy,2000.0
+3851,I'm the One That I Want,Comedy,2000.0
+3852,"Tao of Steve, The",Comedy,2000.0
+3857,Bless the Child,Thriller,2000.0
+3858,Cecil B. DeMented,Comedy,2000.0
+3859,"Eyes of Tammy Faye, The",Documentary,2000.0
+3861,"Replacements, The",Comedy,2000.0
+3862,About Adam,Comedy,2000.0
+3863,"Cell, The",Drama|Horror|Thriller,2000.0
+3864,Godzilla 2000 (Gojira ni-sen mireniamu),Action|Adventure|Sci-Fi,2000.0
+3865,"Original Kings of Comedy, The",Comedy|Documentary,2000.0
+3879,"Art of War, The",Action|Thriller,2000.0
+3882,Bring It On,Comedy,2000.0
+3884,"Crew, The",Comedy,2000.0
+3888,Skipped Parts,Drama|Romance,2000.0
+3889,Highlander: Endgame (Highlander IV),Action|Adventure|Fantasy,2000.0
+3893,Nurse Betty,Comedy|Crime|Drama|Romance|Thriller,2000.0
+3895,"Watcher, The",Crime|Thriller,2000.0
+3896,"Way of the Gun, The",Crime|Thriller,2000.0
+3897,Almost Famous,Drama,2000.0
+3898,Bait,Action|Comedy,2000.0
+3899,Circus,Crime|Drama|Thriller,2000.0
+3900,Crime and Punishment in Suburbia,Comedy|Drama,2000.0
+3901,Duets,Comedy|Drama,2000.0
+3906,Under Suspicion,Crime|Thriller,2000.0
+3908,Urban Legends: Final Cut,Horror,2000.0
+3909,Woman on Top,Comedy|Romance,2000.0
+3910,Dancer in the Dark,Drama|Musical,2000.0
+3911,Best in Show,Comedy,2000.0
+3912,Beautiful,Comedy|Drama,2000.0
+3914,"Broken Hearts Club, The",Drama,2000.0
+3915,Girlfight,Drama,2000.0
+3916,Remember the Titans,Drama,2000.0
+3943,Bamboozled,Comedy,2000.0
+3945,Digimon: The Movie,Adventure|Animation|Children,2000.0
+3946,Get Carter,Action|Drama|Thriller,2000.0
+3948,Meet the Parents,Comedy,2000.0
+3949,Requiem for a Dream,Drama,2000.0
+3950,Tigerland,Drama,2000.0
+3951,Two Family House,Drama,2000.0
+3952,"Contender, The",Drama|Thriller,2000.0
+3953,Dr. T and the Women,Comedy|Romance,2000.0
+3955,"Ladies Man, The",Comedy,2000.0
+3967,Billy Elliot,Drama,2000.0
+3968,Bedazzled,Comedy,2000.0
+3969,Pay It Forward,Drama,2000.0
+3973,Book of Shadows: Blair Witch 2,Crime|Horror|Mystery|Thriller,2000.0
+3974,"Little Vampire, The",Adventure|Children,2000.0
+3977,Charlie's Angels,Action|Comedy,2000.0
+3978,"Legend of Bagger Vance, The",Drama|Romance,2000.0
+3979,Little Nicky,Comedy,2000.0
+3980,Men of Honor,Drama,2000.0
+3981,Red Planet,Action|Sci-Fi|Thriller,2000.0
+3983,You Can Count on Me,Drama|Romance,2000.0
+3986,"6th Day, The",Action|Sci-Fi|Thriller,2000.0
+3987,Bounce,Drama|Romance,2000.0
+3988,How the Grinch Stole Christmas (a.k.a. The Grinch),Children|Comedy|Fantasy,2000.0
+3990,Rugrats in Paris: The Movie,Animation|Children|Comedy,2000.0
+3991,102 Dalmatians,Children|Comedy,2000.0
+3992,Malèna,Drama|Romance|War,2000.0
+3993,Quills,Drama|Romance,2000.0
+3994,Unbreakable,Drama|Sci-Fi,2000.0
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",Action|Drama|Romance,2000.0
+3997,Dungeons & Dragons,Action|Adventure|Comedy|Fantasy,2000.0
+3998,Proof of Life,Drama,2000.0
+3999,Vertical Limit,Action|Adventure,2000.0
+4011,Snatch,Comedy|Crime|Thriller,2000.0
+4014,Chocolat,Drama|Romance,2000.0
+4015,"Dude, Where's My Car?",Comedy|Sci-Fi,2000.0
+4016,"Emperor's New Groove, The",Adventure|Animation|Children|Comedy|Fantasy,2000.0
+4017,Pollock,Drama,2000.0
+4018,What Women Want,Comedy|Romance,2000.0
+4019,Finding Forrester,Drama,2000.0
+4020,"Gift, The",Thriller,2000.0
+4021,Before Night Falls,Drama,2000.0
+4022,Cast Away,Drama,2000.0
+4023,"Family Man, The",Comedy|Drama|Romance,2000.0
+4024,"House of Mirth, The",Romance,2000.0
+4025,Miss Congeniality,Comedy|Crime,2000.0
+4027,"O Brother, Where Art Thou?",Adventure|Comedy|Crime,2000.0
+4029,State and Main,Comedy|Drama,2000.0
+4030,Dracula 2000,Horror,2000.0
+4031,All the Pretty Horses,Drama|Romance|Western,2000.0
+4032,"Everlasting Piece, An",Comedy,2000.0
+4033,Thirteen Days,Drama|Thriller|War,2000.0
+4034,Traffic,Crime|Drama|Thriller,2000.0
+4035,"Claim, The",Romance|Western,2000.0
+4036,Shadow of the Vampire,Drama|Horror,2000.0
+4055,Panic,Drama,2000.0
+4077,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien)",Drama|Thriller,2000.0
+4092,Cherry 2000,Romance|Sci-Fi,2000.0
+4142,Left Behind: The Movie,Action|Adventure|Drama|Thriller,2000.0
+4144,In the Mood For Love (Fa yeung nin wa),Drama|Romance,2000.0
+4147,Nico and Dani (Krámpack),Comedy|Drama|Romance,2000.0
+4152,Vatel,Drama,2000.0
+4156,Company Man,Comedy,2000.0
+4157,"Price of Milk, The",Comedy|Drama|Fantasy|Romance,2000.0
+4160,"Widow of St. Pierre, The (Veuve de Saint-Pierre, La)",Drama|Romance,2000.0
+4171,Long Night's Journey Into Day,Documentary,2000.0
+4226,Memento,Mystery|Thriller,2000.0
+4235,Amores Perros (Love's a Bitch),Drama|Thriller,2000.0
+4236,Keep the River on Your Right: A Modern Cannibal Tale,Documentary,2000.0
+4237,"Gleaners & I, The (Les glaneurs et la glaneuse)",Documentary,2000.0
+4242,Beautiful Creatures,Comedy|Crime|Drama|Thriller,2000.0
+4251,Chopper,Drama|Thriller,2000.0
+4252,"Circle, The (Dayereh)",Drama,2000.0
+4259,"Luzhin Defence, The",Drama|Romance,2000.0
+4260,"Visit, The",Drama,2000.0
+4273,Under the Sand,Drama,2000.0
+4300,Bread and Roses,Drama,2000.0
+4307,"Fast Food, Fast Women",Comedy|Romance,2000.0
+4313,"Man Who Cried, The",Drama,2000.0
+4334,Yi Yi,Drama,2000.0
+4342,Big Eden,Drama|Romance,2000.0
+4347,Divided We Fall (Musíme si pomáhat),Comedy|Drama,2000.0
+4378,Sexy Beast,Crime|Drama,2000.0
+4380,"Princess and the Warrior, The (Krieger und die Kaiserin, Der)",Drama|Romance,2000.0
+4383,"Crimson Rivers, The (Rivières pourpres, Les)",Crime|Drama|Mystery|Thriller,2000.0
+4384,Lumumba,Drama,2000.0
+4390,Rape Me (Baise-moi),Crime|Drama|Thriller,2000.0
+4449,Adanggaman,Drama,2000.0
+4453,Michael Jordan to the Max,Documentary|IMAX,2000.0
+4640,Brother,Action|Crime|Thriller,2000.0
+4642,Hedwig and the Angry Inch,Comedy|Drama|Musical,2000.0
+4644,Bread and Tulips (Pane e tulipani),Comedy|Drama|Romance,2000.0
+4646,Greenfingers,Comedy|Drama,2000.0
+4738,Happy Accidents,Romance|Sci-Fi,2000.0
+4740,Maybe Baby,Comedy|Romance,2000.0
+4741,Together (Tillsammans),Comedy|Drama|Romance,2000.0
+4766,"Our Lady of the Assassins (Virgen de los sicarios, La)",Crime|Drama|Romance,2000.0
+4769,Into the Arms of Strangers: Stories of the Kindertransport,Documentary,2000.0
+4772,Dinner Rush,Drama,2000.0
+4780,Liam,Drama,2000.0
+4783,"Endurance: Shackleton's Legendary Antarctic Expedition, The",Documentary,2000.0
+4877,Better Than Sex,Comedy|Romance,2000.0
+4883,"Town is Quiet, The (Ville est tranquille, La)",Drama,2000.0
+4926,Everybody's Famous! (Iedereen beroemd!),Comedy|Drama|Musical,2000.0
+5051,Italian for Beginners (Italiensk for begyndere),Comedy|Drama|Romance,2000.0
+5069,Escaflowne: The Movie (Escaflowne),Action|Adventure|Animation|Drama|Fantasy,2000.0
+5071,Maelström,Drama|Romance,2000.0
+5075,Waydowntown,Comedy,2000.0
+5131,How to Kill Your Neighbor's Dog,Comedy|Drama,2000.0
+5146,Vampire Hunter D: Bloodlust (Banpaia hantâ D),Animation|Fantasy|Horror|Sci-Fi,2000.0
+5221,Harrison's Flowers,Drama,2000.0
+5258,George Washington,Drama,2000.0
+5319,Nine Queens (Nueve reinas),Crime|Thriller,2000.0
+5423,Gangster No. 1,Action|Crime|Thriller,2000.0
+5515,Songs From the Second Floor (Sånger från andra våningen),Drama,2000.0
+5688,Tully,Drama,2000.0
+5953,Devils on the Doorstep (Guizi lai le),Drama|War,2000.0
+5999,Heavy Metal 2000,Action|Adventure|Animation|Fantasy|Sci-Fi,2000.0
+6009,"City of Lost Souls, The (Hyôryuu-gai)",Crime|Drama|Thriller,2000.0
+6067,Ordinary Decent Criminal,Comedy|Crime,2000.0
+6300,Flickering Lights (Blinkende lygter),Action|Comedy|Crime,2000.0
+6344,101 Reykjavik (101 Reykjavík),Comedy|Drama|Romance,2000.0
+6820,Ginger Snaps,Drama|Horror|Thriller,2000.0
+7022,Battle Royale (Batoru rowaiaru),Action|Drama|Horror|Thriller,2000.0
+7038,Things You Can Tell Just by Looking at Her,Drama|Romance,2000.0
+7282,"Hip Hop Witch, Da",Comedy|Horror|Thriller,2000.0
+7306,"Herod's Law (Ley de Herodes, La)",Comedy|Crime|Mystery,2000.0
+7541,100 Girls,Comedy|Romance,2000.0
+7657,Versus,Action|Comedy|Fantasy|Horror,2000.0
+7842,Dune,Drama|Fantasy|Sci-Fi,2000.0
+7932,Dark Days,Documentary,2000.0
+7991,Death Race 2000,Action|Sci-Fi,2000.0
+8495,Animal Factory,Crime|Drama,2000.0
+8753,Unprecedented: The 2000 Presidential Election,Documentary,2000.0
+27178,In July (Im Juli),Comedy|Romance,2000.0
+27193,Taxi 2,Action|Comedy,2000.0
+27246,If These Walls Could Talk 2,Drama|Romance,2000.0
+27251,"10th Kingdom, The",Adventure|Comedy|Fantasy,2000.0
+27311,Batman Beyond: Return of the Joker,Action|Animation|Crime|Sci-Fi|Thriller,2000.0
+27320,"Nine Lives of Tomas Katz, The",Comedy|Drama|Fantasy,2000.0
+27328,Monday,Action|Comedy|Crime|Fantasy|Thriller,2000.0
+27329,Paradise Lost 2: Revelations,Documentary,2000.0
+27369,Daria: Is It Fall Yet?,Animation|Comedy,2000.0
+27397,Joint Security Area (Gongdong gyeongbi guyeok JSA),Crime|Drama|Mystery|Thriller|War,2000.0
+27416,Jalla! Jalla!,Comedy|Drama|Romance,2000.0
+27441,Blood: The Last Vampire,Action|Animation|Horror,2000.0
+27480,Dead or Alive 2: Tôbôsha,Action|Crime|Thriller,2000.0
+27667,Ju-on: The Curse,Horror,2000.0
+32743,Ringu 0: Bâsudei,Drama|Horror|Thriller,2000.0
+44773,"Dead Hate the Living!, The",Comedy|Horror,2000.0
+62336,FLCL,Animation|Comedy|Fantasy|Sci-Fi,2000.0
+66544,Nuremberg,Drama|War,2000.0
+78626,Barking Dogs Never Bite (Flandersui gae),Comedy|Horror,2000.0
+84844,Brother 2 (Brat 2),Crime|Drama,2000.0
+95858,For the Birds,Animation|Children|Comedy,2000.0
+99532,"Misérables, Les",Drama|Romance,2000.0
+102823,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,Documentary,2000.0
+117646,Dragonheart 2: A New Beginning,Action|Adventure|Comedy|Drama|Fantasy|Thriller,2000.0
+135787,Bruce Lee: A Warrior's Journey,Documentary,2000.0
+145491,Our Lips Are Sealed,Children|Comedy|Drama,2000.0
+165529,Flowers for Algernon,Drama,2000.0
+170837,Life-Size,Children|Comedy|Fantasy,2000.0
+172233,The Prime Gig,Drama|Romance,2000.0
+178613,Dave Chappelle: Killin' Them Softly,Comedy,2000.0

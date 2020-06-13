@@ -22,8 +22,10 @@ Timedelta = (today - birthday)
 
 Timedelta = pd.to_timedelta(Timedelta)
 
-年齢 = np.floor(Timedelta.dt.days/365)
+age = np.floor(Timedelta.dt.days/365)
 
-tanjoubi['年齢'] = 年齢
+tanjoubi['年齢'] = age
+
+print(tanjoubi)
 
 tanjoubi.to_csv('tanjoubi_nenrei.csv')

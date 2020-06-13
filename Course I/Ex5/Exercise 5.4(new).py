@@ -1,4 +1,6 @@
-# Exercise 5.3
+# Exercise 5.4
+
+
 import pandas as pd
 pd.set_option('display.max_columns', 20)
 
@@ -30,8 +32,8 @@ fav_fruit.rename(columns={0:'name'}, inplace=True)
 fav_fruit.rename(columns={2:'age'}, inplace=True)
 fav_fruit.rename(columns={6:'sex'}, inplace=True)
 
+print(fav_fruit)
 
-# Printing the final table
 print("The number of apples is: " + str(fav_fruit['apple'].sum()))
 print("The number of mango is: " + str(fav_fruit['mango'].sum()))
 print("The number of cherry is: " + str(fav_fruit['cherry'].sum()))

@@ -1,30 +1,36 @@
+# Exercise 5.6 (Extra)
+
 from geopy.geocoders import Nominatim
 
-geolocator = Nominatim(user_agent="my-application")
-location = geolocator.reverse("38.2552027,140.8349828", language="en")
-print(location)
+geolocator = Nominatim(user_agent="chun")
 
-aoba_loc = geolocator.geocode("東北大学青葉山キャンパス")
-aoba_loc_coord = (aoba_loc.latitude, aoba_loc.longitude)
-print(aoba_loc_coord)
-
-from geopy import distance
-
-katahira_loc = geolocator.geocode("Katahira Campus")
-katahira_loc_coord = (katahira_loc.latitude, katahira_loc.longitude)
-print(distance.distance(aoba_loc_coord,katahira_loc_coord).km)
-
-'''
+# Finding the location name of the coordinate
 from geopy.extra.rate_limiter import RateLimiter
-geocode = RateLimiter(geolocator.geocode, min_delay_seconds=0.5)
-
+geocode = RateLimiter(geolocator.reverse, min_delay_seconds=0.5)
 
 import pandas as pd
-df = pd.read_table('location.txt',sep='\s+')
-df['location'] = df['longitude'].astype(str) + ','+ df['latitude'].astype(str)
-df['ADDRESS'] = df['location'].apply(geocode)
-print(df['ADDRESS'])
 
-df['ADDRESS'] = df['ADDRESS'].astype(str)
-print(df['ADDRESS'].str.contains('仙台'))
-'''
+location_data = pd.read_csv("locations.csv").astype(str)
+
+lat_long = location_data['longitude'] + ',' + location_data['latitude']
+print(lat_long)
+
+address = lat_long.apply(geocode).astype(str)
+print(address)
+
+miyagi_prf = '宮城県'
+yamagata_prf = '山形県'
+
+# Number of locations in Miyagi Prefecture (宮城県)
+
+contains_miyagi = address.str.contains(miyagi_prf)
+#print(contains_miyagi)
+print(f"From the data, number of city in Miyagi is {contains_miyagi.sum()}.")
+
+
+
+# Number of locations in Yamagata Prefecture (山形県)
+
+contains_yamagata = address.str.contains(yamagata_prf)
+#print(contains_yamagata)
+print(f"From the data, number of city in Yamagata is {contains_yamagata.sum()}.")

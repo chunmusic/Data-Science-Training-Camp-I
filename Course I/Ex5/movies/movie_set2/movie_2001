@@ -1,0 +1,296 @@
+movieId,title,genres,year
+924,2001: A Space Odyssey,Adventure|Drama|Sci-Fi,2001.0
+4052,Antitrust,Crime|Drama|Thriller,2001.0
+4053,Double Take,Action|Comedy,2001.0
+4054,Save the Last Dance,Drama|Romance,2001.0
+4056,"Pledge, The",Crime|Drama|Mystery|Thriller,2001.0
+4068,Sugar & Spice,Comedy,2001.0
+4069,"Wedding Planner, The",Comedy|Romance,2001.0
+4141,Head Over Heels,Comedy|Romance,2001.0
+4143,Valentine,Horror|Mystery,2001.0
+4146,"Million Dollar Hotel, The",Drama|Mystery|Romance,2001.0
+4148,Hannibal,Horror|Thriller,2001.0
+4149,Saving Silverman (Evil Woman),Comedy|Romance,2001.0
+4153,Down to Earth,Comedy|Fantasy|Romance,2001.0
+4154,Recess: School's Out,Animation|Children,2001.0
+4155,Sweet November,Drama|Romance,2001.0
+4158,Monkeybone,Animation|Comedy|Fantasy,2001.0
+4161,"Mexican, The",Action|Comedy,2001.0
+4164,"Caveman's Valentine, The",Drama,2001.0
+4166,Series 7: The Contenders,Action|Drama,2001.0
+4167,15 Minutes,Thriller,2001.0
+4168,Get Over It,Comedy|Romance,2001.0
+4223,Enemy at the Gates,Drama|War,2001.0
+4224,Exit Wounds,Action|Thriller,2001.0
+4225,"Dish, The",Comedy,2001.0
+4228,Heartbreakers,Comedy|Crime|Romance,2001.0
+4229,Say It Isn't So,Comedy|Romance,2001.0
+4231,Someone Like You,Comedy|Romance,2001.0
+4232,Spy Kids,Action|Adventure|Children|Comedy,2001.0
+4233,Tomcats,Comedy,2001.0
+4234,"Tailor of Panama, The",Drama|Thriller,2001.0
+4238,Along Came a Spider,Action|Crime|Mystery|Thriller,2001.0
+4239,Blow,Crime|Drama,2001.0
+4240,Just Visiting,Comedy|Fantasy,2001.0
+4241,Pokémon 3: The Movie,Animation|Children,2001.0
+4243,Brigham City,Crime|Drama|Mystery,2001.0
+4246,Bridget Jones's Diary,Comedy|Drama|Romance,2001.0
+4247,Joe Dirt,Adventure|Comedy|Mystery|Romance,2001.0
+4248,Josie and the Pussycats,Comedy,2001.0
+4254,Crocodile Dundee in Los Angeles,Comedy|Drama,2001.0
+4255,Freddy Got Fingered,Comedy,2001.0
+4256,"Center of the World, The",Drama,2001.0
+4265,Driven,Action|Thriller,2001.0
+4267,One Night at McCool's,Comedy,2001.0
+4268,Town & Country,Comedy,2001.0
+4270,"Mummy Returns, The",Action|Adventure|Comedy|Thriller,2001.0
+4299,"Knight's Tale, A",Action|Comedy|Romance,2001.0
+4304,Startup.com,Documentary,2001.0
+4305,Angel Eyes,Romance|Thriller,2001.0
+4306,Shrek,Adventure|Animation|Children|Comedy|Fantasy|Romance,2001.0
+4308,Moulin Rouge,Drama|Musical|Romance,2001.0
+4310,Pearl Harbor,Action|Drama|Romance|War,2001.0
+4340,"Animal, The",Comedy,2001.0
+4343,Evolution,Comedy|Sci-Fi,2001.0
+4344,Swordfish,Action|Crime|Drama,2001.0
+4345,"Anniversary Party, The",Drama,2001.0
+4366,Atlantis: The Lost Empire,Adventure|Animation|Children|Fantasy,2001.0
+4367,Lara Croft: Tomb Raider,Action|Adventure,2001.0
+4368,Dr. Dolittle 2,Comedy,2001.0
+4369,"Fast and the Furious, The",Action|Crime|Thriller,2001.0
+4370,A.I. Artificial Intelligence,Adventure|Drama|Sci-Fi,2001.0
+4371,Baby Boy,Crime|Drama,2001.0
+4372,Crazy/Beautiful,Drama|Romance,2001.0
+4373,Pootie Tang,Comedy,2001.0
+4381,"Closet, The (Placard, Le)",Comedy,2001.0
+4386,Cats & Dogs,Children|Comedy,2001.0
+4387,Kiss of the Dragon,Action,2001.0
+4388,Scary Movie 2,Comedy,2001.0
+4389,Lost and Delirious,Drama,2001.0
+4446,Final Fantasy: The Spirits Within,Adventure|Animation|Fantasy|Sci-Fi,2001.0
+4447,Legally Blonde,Comedy|Romance,2001.0
+4448,"Score, The",Action|Drama,2001.0
+4450,Bully,Crime|Drama|Thriller,2001.0
+4451,Jump Tomorrow,Comedy|Drama|Romance,2001.0
+4452,Made,Comedy,2001.0
+4638,Jurassic Park III,Action|Adventure|Sci-Fi|Thriller,2001.0
+4639,America's Sweethearts,Comedy|Romance,2001.0
+4641,Ghost World,Comedy|Drama,2001.0
+4643,Planet of the Apes,Action|Adventure|Drama|Sci-Fi,2001.0
+4649,Wet Hot American Summer,Comedy,2001.0
+4699,Original Sin,Drama|Romance|Thriller,2001.0
+4700,"Princess Diaries, The",Children|Comedy|Romance,2001.0
+4701,Rush Hour 2,Action|Comedy,2001.0
+4718,American Pie 2,Comedy,2001.0
+4719,Osmosis Jones,Action|Animation|Comedy|Crime|Drama|Romance|Thriller,2001.0
+4720,"Others, The",Drama|Horror|Mystery|Thriller,2001.0
+4721,American Outlaws,Action|Comedy|Western,2001.0
+4722,All Over the Guy,Comedy,2001.0
+4723,"Deep End, The",Drama,2001.0
+4725,Session 9,Horror|Thriller,2001.0
+4727,Captain Corelli's Mandolin,Drama|Romance|War,2001.0
+4728,Rat Race,Comedy,2001.0
+4732,Bubble Boy,Comedy,2001.0
+4733,"Curse of the Jade Scorpion, The",Comedy,2001.0
+4734,Jay and Silent Bob Strike Back,Adventure|Comedy,2001.0
+4735,Ghosts of Mars,Horror|Sci-Fi|Thriller,2001.0
+4736,Summer Catch,Comedy|Drama|Romance,2001.0
+4743,Tortilla Soup,Comedy|Romance,2001.0
+4744,Jeepers Creepers,Horror,2001.0
+4745,O,Drama,2001.0
+4756,"Musketeer, The",Action|Adventure|Drama|Romance,2001.0
+4757,Rock Star,Comedy|Drama|Musical,2001.0
+4759,Two Can Play That Game,Comedy|Drama,2001.0
+4765,L.I.E.,Drama,2001.0
+4770,"Glass House, The",Thriller,2001.0
+4771,Hardball,Drama,2001.0
+4773,Haiku Tunnel,Comedy,2001.0
+4775,Glitter,Drama|Musical|Romance,2001.0
+4776,Training Day,Crime|Drama|Thriller,2001.0
+4777,"American Astronaut, The",Comedy|Musical|Sci-Fi,2001.0
+4782,Sidewalks of New York,Comedy|Romance,2001.0
+4814,Don't Say a Word,Thriller,2001.0
+4815,Hearts in Atlantis,Drama,2001.0
+4816,Zoolander,Comedy,2001.0
+4818,Extreme Days,Action|Adventure|Comedy|Drama,2001.0
+4821,Joy Ride,Adventure|Thriller,2001.0
+4822,Max Keeble's Big Move,Children|Comedy,2001.0
+4823,Serendipity,Comedy|Romance,2001.0
+4825,"Swamp, The (Ciénaga, La)",Comedy|Drama,2001.0
+4844,Bandits,Comedy|Crime|Romance,2001.0
+4845,Corky Romano,Comedy|Crime,2001.0
+4847,Fat Girl (À ma soeur!),Drama,2001.0
+4848,Mulholland Drive,Crime|Drama|Film-Noir|Mystery|Thriller,2001.0
+4849,My First Mister,Comedy|Drama,2001.0
+4852,Bones,Horror,2001.0
+4865,From Hell,Crime|Horror|Mystery|Thriller,2001.0
+4866,"Last Castle, The",Action,2001.0
+4867,Riding in Cars with Boys,Comedy|Drama,2001.0
+4871,Focus,Drama,2001.0
+4873,Waking Life,Animation|Drama|Fantasy,2001.0
+4874,K-PAX,Drama|Fantasy|Mystery|Sci-Fi,2001.0
+4876,Thirteen Ghosts (a.k.a. Thir13en Ghosts),Horror|Thriller,2001.0
+4878,Donnie Darko,Drama|Mystery|Sci-Fi|Thriller,2001.0
+4879,High Heels and Low Lifes,Action|Comedy|Crime|Drama,2001.0
+4880,Life as a House,Drama,2001.0
+4881,"Man Who Wasn't There, The",Crime|Drama,2001.0
+4885,Domestic Disturbance,Thriller,2001.0
+4886,"Monsters, Inc.",Adventure|Animation|Children|Comedy|Fantasy,2001.0
+4887,"One, The",Action|Sci-Fi|Thriller,2001.0
+4888,Tape,Drama,2001.0
+4889,Heist,Crime|Drama,2001.0
+4890,Shallow Hal,Comedy|Fantasy|Romance,2001.0
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),Adventure|Children|Fantasy,2001.0
+4898,Novocaine,Comedy|Crime|Mystery|Thriller,2001.0
+4899,Black Knight,Adventure|Comedy|Fantasy,2001.0
+4900,Out Cold,Comedy,2001.0
+4901,Spy Game,Action|Crime|Drama|Thriller,2001.0
+4902,"Devil's Backbone, The (Espinazo del diablo, El)",Drama|Fantasy|Horror|Thriller|War,2001.0
+4903,In the Bedroom,Drama,2001.0
+4958,Behind Enemy Lines,Action|Drama|War,2001.0
+4959,"Affair of the Necklace, The",Drama,2001.0
+4961,Pornstar: The Legend of Ron Jeremy,Documentary,2001.0
+4962,Texas Rangers,Adventure|Western,2001.0
+4963,Ocean's Eleven,Crime|Thriller,2001.0
+4964,Baran,Adventure|Drama|Romance,2001.0
+4965,"Business of Strangers, The",Action|Drama|Thriller,2001.0
+4967,No Man's Land,Drama|War,2001.0
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",Comedy|Romance,2001.0
+4974,Not Another Teen Movie,Comedy,2001.0
+4975,Vanilla Sky,Mystery|Romance|Sci-Fi|Thriller,2001.0
+4976,Iris,Drama,2001.0
+4977,Kandahar (Safar e Ghandehar),Drama,2001.0
+4978,Lantana,Drama|Mystery|Thriller,2001.0
+4979,"Royal Tenenbaums, The",Comedy|Drama,2001.0
+4989,How High,Comedy,2001.0
+4990,Jimmy Neutron: Boy Genius,Adventure|Animation|Children|Comedy,2001.0
+4991,Joe Somebody,Comedy|Drama|Romance,2001.0
+4992,Kate & Leopold,Comedy|Romance,2001.0
+4993,"Lord of the Rings: The Fellowship of the Ring, The",Adventure|Fantasy,2001.0
+4994,"Majestic, The",Comedy|Drama|Romance,2001.0
+4995,"Beautiful Mind, A",Drama|Romance,2001.0
+5009,Ali,Drama,2001.0
+5010,Black Hawk Down,Action|Drama|War,2001.0
+5011,Charlotte Gray,Drama|Romance,2001.0
+5013,Gosford Park,Comedy|Drama|Mystery,2001.0
+5014,I Am Sam,Drama,2001.0
+5015,Monster's Ball,Drama|Romance,2001.0
+5016,"Shipping News, The",Drama,2001.0
+5026,"Brotherhood of the Wolf (Pacte des loups, Le)",Action|Mystery|Thriller,2001.0
+5028,What Time Is It There? (Ni neibian jidian),Drama,2001.0
+5068,Beijing Bicycle (Shiqi sui de dan che),Drama,2001.0
+5072,Metropolis,Animation|Sci-Fi,2001.0
+5073,"Son's Room, The (Stanza del figlio, La)",Drama,2001.0
+5074,Storytelling,Comedy|Drama,2001.0
+5081,Birthday Girl,Drama|Romance,2001.0
+5083,Rare Birds,Comedy|Drama,2001.0
+5095,"Scotland, Pa.",Comedy|Crime,2001.0
+5110,Super Troopers,Comedy|Crime|Mystery,2001.0
+5112,Last Orders,Drama,2001.0
+5134,Mean Machine,Comedy|Drama,2001.0
+5135,Monsoon Wedding,Comedy|Romance,2001.0
+5136,Wendigo,Drama|Horror,2001.0
+5137,Scratch,Documentary,2001.0
+5222,Kissing Jessica Stein,Comedy|Romance,2001.0
+5224,Promises,Documentary,2001.0
+5225,And Your Mother Too (Y tu mamá también),Drama|Romance,2001.0
+5268,No Such Thing,Drama|Fantasy|Romance,2001.0
+5269,"Piano Teacher, The (La pianiste)",Drama,2001.0
+5272,Time Out (L'emploi du temps),Drama,2001.0
+5284,Crush,Comedy|Romance,2001.0
+5285,Lucky Break,Comedy|Crime,2001.0
+5294,Frailty,Crime|Drama|Thriller,2001.0
+5298,Human Nature,Comedy|Romance,2001.0
+5316,Enigma,Romance|Thriller,2001.0
+5321,"Triumph of Love, The",Comedy,2001.0
+5322,World Traveler,Drama,2001.0
+5325,Dogtown and Z-Boyz,Documentary,2001.0
+5328,Rain,Drama|Romance,2001.0
+5365,"Lady and the Duke, The (Anglaise et le duc, L')",Drama|Romance,2001.0
+5379,"Believer, The",Drama,2001.0
+5390,CQ,Drama,2001.0
+5391,Thirteen Conversations About One Thing (a.k.a. 13 Conversations),Drama,2001.0
+5417,"Fast Runner, The (Atanarjuat)",Drama|Fantasy,2001.0
+5422,"Emperor's New Clothes, The",Comedy,2001.0
+5424,Harvard Man,Crime|Drama|Romance|Thriller,2001.0
+5425,Dark Blue World (Tmavomodrý svet),Drama|War,2001.0
+5450,Lovely & Amazing,Comedy|Drama|Romance,2001.0
+5461,Me Without You,Comedy|Drama,2001.0
+5465,All About Lily Chou-Chou (Riri Shushu no subete),Crime|Drama|Thriller,2001.0
+5466,My Wife is an Actress (Ma Femme est une Actrice),Comedy|Drama|Romance,2001.0
+5477,Sex and Lucia (Lucía y el sexo),Drama|Romance,2001.0
+5486,Who Is Cletis Tout?,Comedy,2001.0
+5503,"Last Kiss, The (Ultimo bacio, L')",Comedy|Drama|Romance,2001.0
+5512,Secret Ballot (Raye makhfi),Comedy,2001.0
+5525,Mostly Martha (Bella Martha),Comedy|Drama|Romance,2001.0
+5532,Amy's O (a.k.a. Amy's Orgasm),Comedy|Romance,2001.0
+5562,Snipes,Drama|Thriller,2001.0
+5575,Alias Betty (Betty Fisher et autres histoires),Crime|Drama,2001.0
+5607,"Son of the Bride (Hijo de la novia, El)",Comedy|Drama,2001.0
+5608,"Das Experiment (Experiment, The)",Drama|Thriller,2001.0
+5614,"His Secret Life (a.k.a. Ignorant Fairies, The) (Fate ignoranti, Le)",Drama|Romance,2001.0
+5615,Invincible,Drama,2001.0
+5618,Spirited Away (Sen to Chihiro no kamikakushi),Adventure|Animation|Fantasy,2001.0
+5628,Wasabi,Action|Comedy|Crime|Drama|Thriller,2001.0
+5635,"Man from Elysian Fields, The",Drama,2001.0
+5678,Formula 51,Action|Comedy|Crime|Thriller,2001.0
+5682,"Grey Zone, The",Drama,2001.0
+5890,Elling,Comedy|Drama,2001.0
+5909,Visitor Q (Bizita Q),Comedy|Drama|Horror,2001.0
+5949,Intact (Intacto),Thriller,2001.0
+6202,Late Marriage (Hatuna Meuheret),Comedy|Drama|Romance,2001.0
+6210,Volcano High (Whasango),Action|Comedy,2001.0
+6216,Nowhere in Africa (Nirgendwo in Afrika),Drama,2001.0
+6217,"Safety of Objects, The",Drama,2001.0
+6222,Prozac Nation,Drama,2001.0
+6223,Spun,Comedy|Crime|Drama,2001.0
+6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira),Action|Animation|Sci-Fi|Thriller,2001.0
+6299,"Winged Migration (Peuple migrateur, Le)",Documentary,2001.0
+6329,Manic,Drama,2001.0
+6400,Murder on a Sunday Morning (Un coupable idéal),Documentary,2001.0
+6506,Fulltime Killer (Chuen jik sat sau),Action|Thriller,2001.0
+6567,Buffalo Soldiers,Comedy|Crime|Drama|War,2001.0
+6597,"Princess Blade, The (Shura Yukihime)",Action|Sci-Fi,2001.0
+6618,Shaolin Soccer (Siu lam juk kau),Action|Comedy,2001.0
+6679,Revolution OS,Documentary,2001.0
+6688,Autumn Spring (Babí léto),Comedy|Drama,2001.0
+6691,Dust,Drama|Western,2001.0
+6706,Taking Sides,Drama,2001.0
+6713,Millennium Actress (Sennen joyû),Animation|Drama|Romance,2001.0
+6775,Life and Debt,Documentary,2001.0
+6776,Lagaan: Once Upon a Time in India,Comedy|Drama|Musical|Romance,2001.0
+6790,Avalon,Drama|Fantasy|Sci-Fi,2001.0
+7096,Rivers and Tides,Documentary,2001.0
+7235,Ichi the Killer (Koroshiya 1),Action|Comedy|Crime|Drama|Horror|Thriller,2001.0
+7248,"Suriyothai (a.k.a. Legend of Suriyothai, The)",Action|Adventure|Drama|War,2001.0
+7572,Wit,Drama,2001.0
+7843,Lammbock,Comedy,2001.0
+7846,Tremors 3: Back to Perfection,Comedy|Horror|Sci-Fi,2001.0
+8131,Pursuit of Happiness,Comedy|Romance,2001.0
+8575,"Happenstance (Battement d'ailes du papillon, Le)",Comedy|Drama,2001.0
+8730,To End All Wars,Action|Drama|War,2001.0
+8795,Musa the Warrior (Musa),Action|Adventure|Drama|War,2001.0
+27134,Dark Portals: The Chronicles of Vidocq  (Vidocq),Action|Crime|Fantasy,2001.0
+27306,Bartleby,Comedy|Drama,2001.0
+27370,Late Night Shopping,Comedy,2001.0
+27373,61*,Drama,2001.0
+27426,"Accidental Spy, The (Dak miu mai shing)",Action|Comedy|Thriller,2001.0
+27491,Pulse (Kairo),Horror|Mystery|Thriller,2001.0
+27513,Dog Days (Hundstage),Drama,2001.0
+27523,My Sassy Girl (Yeopgijeogin geunyeo),Comedy|Romance,2001.0
+27563,"Happiness of the Katakuris, The (Katakuri-ke no kôfuku)",Comedy|Horror|Musical,2001.0
+27595,Jesus Christ Vampire Hunter,Action|Comedy|Horror|Musical,2001.0
+27604,Suicide Club (Jisatsu saakuru),Horror|Mystery|Thriller,2001.0
+32659,Tanguy,Comedy,2001.0
+33090,Mutant Aliens,Animation|Comedy|Sci-Fi,2001.0
+34397,"Order, The",Action|Adventure|Drama|Thriller,2001.0
+44719,Brainstorm,Drama,2001.0
+51498,2001 Maniacs,Comedy|Horror,2001.0
+57502,Cat Soup (Nekojiru-so),Adventure|Animation|Drama|Horror,2001.0
+68536,Stanley Kubrick: A Life in Pictures,Documentary,2001.0
+74683,Mike Bassett: England Manager,Comedy,2001.0
+80124,Sisters (Syostry),Action|Crime|Drama,2001.0
+87834,My Life as McDull (Mak dau goo si),Animation|Comedy|Drama,2001.0
+92730,Rollo and the Woods Sprite (Rölli ja metsänhenki),Children|Fantasy,2001.0
+142115,The Blue Planet,Documentary,2001.0
+170705,Band of Brothers,Action|Drama|War,2001.0

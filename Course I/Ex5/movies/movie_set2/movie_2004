@@ -1,0 +1,278 @@
+movieId,title,genres,year
+7169,Chasing Liberty,Comedy|Romance,2004.0
+7173,Along Came Polly,Comedy|Romance,2004.0
+7175,Torque,Action|Crime,2004.0
+7254,The Butterfly Effect,Drama|Sci-Fi|Thriller,2004.0
+7255,Win a Date with Tad Hamilton!,Comedy|Romance,2004.0
+7257,"Big Bounce, The",Comedy|Crime|Thriller,2004.0
+7258,"Perfect Score, The",Comedy|Crime,2004.0
+7259,You Got Served,Drama|Musical,2004.0
+7261,Barbershop 2: Back in Business,Comedy,2004.0
+7262,Catch That Kid,Action|Adventure|Children|Comedy|Crime,2004.0
+7263,Miracle,Drama,2004.0
+7293,50 First Dates,Comedy|Romance,2004.0
+7294,Welcome to Mooseport,Comedy,2004.0
+7315,Against the Ropes,Comedy|Drama,2004.0
+7316,Confessions of a Teenage Drama Queen,Comedy,2004.0
+7317,EuroTrip,Adventure|Comedy,2004.0
+7318,"Passion of the Christ, The",Drama,2004.0
+7319,Club Dread,Comedy|Horror,2004.0
+7320,Dirty Dancing: Havana Nights,Romance,2004.0
+7321,Twisted,Thriller,2004.0
+7324,Hidalgo,Adventure|Drama,2004.0
+7325,Starsky & Hutch,Action|Comedy|Crime|Thriller,2004.0
+7326,"Reckoning, The",Crime|Drama,2004.0
+7345,Agent Cody Banks 2: Destination London,Action|Adventure|Children|Comedy,2004.0
+7346,"Girl Next Door, The",Comedy|Romance,2004.0
+7347,Secret Window,Mystery|Thriller,2004.0
+7348,Spartan,Thriller,2004.0
+7360,Dawn of the Dead,Action|Drama|Horror|Thriller,2004.0
+7361,Eternal Sunshine of the Spotless Mind,Drama|Romance|Sci-Fi,2004.0
+7362,Taking Lives,Crime|Drama|Thriller,2004.0
+7366,Jersey Girl,Comedy|Drama|Romance,2004.0
+7367,"Ladykillers, The",Comedy|Crime,2004.0
+7368,Never Die Alone,Crime|Drama|Thriller,2004.0
+7369,Scooby-Doo 2: Monsters Unleashed,Action|Adventure|Children|Comedy|Mystery,2004.0
+7373,Hellboy,Action|Adventure|Fantasy|Horror,2004.0
+7375,"Prince & Me, The",Comedy|Romance,2004.0
+7376,Walking Tall,Action,2004.0
+7379,The Alamo,Drama|War|Western,2004.0
+7380,Ella Enchanted,Comedy|Fantasy|Romance,2004.0
+7381,"Whole Ten Yards, The",Action|Comedy|Crime,2004.0
+7438,Kill Bill: Vol. 2,Action|Drama|Thriller,2004.0
+7439,"Punisher, The",Action|Crime|Thriller,2004.0
+7440,Paper Clips,Documentary,2004.0
+7444,13 Going on 30,Comedy|Fantasy|Romance,2004.0
+7445,Man on Fire,Action|Crime|Drama|Mystery|Thriller,2004.0
+7448,Envy,Comedy,2004.0
+7449,Godsend,Drama|Horror|Thriller,2004.0
+7450,Laws of Attraction,Comedy|Romance,2004.0
+7451,Mean Girls,Comedy,2004.0
+7454,Van Helsing,Action|Adventure|Fantasy|Horror,2004.0
+7457,Breakin' All the Rules,Comedy|Romance,2004.0
+7458,Troy,Action|Adventure|Drama|War,2004.0
+8360,Shrek 2,Adventure|Animation|Children|Comedy|Musical|Romance,2004.0
+8361,"Day After Tomorrow, The",Action|Adventure|Drama|Sci-Fi|Thriller,2004.0
+8362,Raising Helen,Comedy|Drama|Romance,2004.0
+8363,Soul Plane,Comedy,2004.0
+8366,Saved!,Comedy|Drama,2004.0
+8368,Harry Potter and the Prisoner of Azkaban,Adventure|Fantasy|IMAX,2004.0
+8369,Mindhunters,Action|Crime|Horror|Mystery|Thriller,2004.0
+8371,"Chronicles of Riddick, The",Action|Sci-Fi|Thriller,2004.0
+8372,Garfield: The Movie,Animation|Children|Comedy,2004.0
+8373,"Stepford Wives, The",Comedy|Fantasy|Thriller,2004.0
+8375,"Hunting of the President, The",Documentary,2004.0
+8376,Napoleon Dynamite,Comedy,2004.0
+8464,Super Size Me,Comedy|Documentary|Drama,2004.0
+8526,Around the World in 80 Days,Adventure|Children|Comedy,2004.0
+8528,Dodgeball: A True Underdog Story,Comedy,2004.0
+8529,"Terminal, The",Comedy|Drama|Romance,2004.0
+8530,Dear Frankie,Drama|Romance,2004.0
+8531,White Chicks,Action|Comedy|Crime,2004.0
+8532,"Door in the Floor, The",Drama,2004.0
+8533,"Notebook, The",Drama|Romance,2004.0
+8534,Two Brothers (Deux frères),Adventure|Children|Drama,2004.0
+8535,De-Lovely,Drama|Musical,2004.0
+8622,Fahrenheit 9/11,Documentary,2004.0
+8636,Spider-Man 2,Action|Adventure|Sci-Fi|IMAX,2004.0
+8638,Before Sunset,Drama|Romance,2004.0
+8640,King Arthur,Action|Adventure|Drama|War,2004.0
+8641,Anchorman: The Legend of Ron Burgundy,Comedy,2004.0
+8643,"Cinderella Story, A",Comedy|Romance,2004.0
+8644,"I, Robot",Action|Adventure|Sci-Fi|Thriller,2004.0
+8645,"Maria Full of Grace (Maria, Llena eres de gracia)",Crime|Drama,2004.0
+8665,"Bourne Supremacy, The",Action|Crime|Thriller,2004.0
+8666,Catwoman,Action|Crime|Fantasy,2004.0
+8667,A Home at the End of the World,Drama|Romance,2004.0
+8781,"Manchurian Candidate, The",Thriller,2004.0
+8782,Thunderbirds,Action|Adventure|Fantasy|Sci-Fi,2004.0
+8783,"Village, The",Drama|Mystery|Thriller,2004.0
+8784,Garden State,Comedy|Drama|Romance,2004.0
+8798,Collateral,Action|Crime|Drama|Thriller,2004.0
+8799,Little Black Book,Comedy|Romance,2004.0
+8807,Harold and Kumar Go to White Castle,Adventure|Comedy,2004.0
+8808,"Princess Diaries 2: Royal Engagement, The",Comedy|Romance,2004.0
+8810,AVP: Alien vs. Predator,Action|Horror|Sci-Fi|Thriller,2004.0
+8813,We Don't Live Here Anymore,Drama,2004.0
+8814,Without a Paddle,Comedy,2004.0
+8815,Exorcist: The Beginning,Horror|Thriller,2004.0
+8830,Anacondas: The Hunt for the Blood Orchid,Adventure|Drama|Horror|Sci-Fi|Thriller,2004.0
+8831,Suspect Zero,Crime|Thriller,2004.0
+8833,Vanity Fair,Drama|Romance,2004.0
+8835,Paparazzi,Drama|Thriller,2004.0
+8836,Wicker Park,Drama|Romance|Thriller,2004.0
+8860,Cellular,Action|Crime|Drama|Mystery|Thriller,2004.0
+8861,Resident Evil: Apocalypse,Action|Horror|Sci-Fi|Thriller,2004.0
+8865,Sky Captain and the World of Tomorrow,Action|Adventure|Sci-Fi,2004.0
+8866,Wimbledon,Comedy|Romance,2004.0
+8869,First Daughter,Comedy|Romance,2004.0
+8870,"Forgotten, The",Drama|Mystery|Sci-Fi|Thriller,2004.0
+8873,"Motorcycle Diaries, The (Diarios de motocicleta)",Adventure|Drama,2004.0
+8874,Shaun of the Dead,Comedy|Horror,2004.0
+8907,Shark Tale,Animation|Children|Comedy,2004.0
+8908,Ladder 49,Action|Drama|Thriller,2004.0
+8910,I Heart Huckabees,Comedy,2004.0
+8911,Raise Your Voice,Romance,2004.0
+8912,Taxi,Action|Comedy,2004.0
+8914,Primer,Drama|Sci-Fi,2004.0
+8915,Stage Beauty,Drama,2004.0
+8916,Shall We Dance?,Comedy|Romance,2004.0
+8917,Team America: World Police,Action|Adventure|Animation|Comedy,2004.0
+8918,Eulogy,Comedy|Crime|Drama,2004.0
+8919,P.S.,Comedy|Drama|Fantasy|Romance,2004.0
+8937,Friday Night Lights,Action|Drama,2004.0
+8939,"Final Cut, The",Sci-Fi|Thriller,2004.0
+8943,Being Julia,Comedy|Drama,2004.0
+8946,Surviving Christmas,Comedy,2004.0
+8947,"Grudge, The",Horror|Mystery|Thriller,2004.0
+8948,Alfie,Comedy|Drama|Romance,2004.0
+8949,Sideways,Comedy|Drama|Romance,2004.0
+8950,The Machinist,Drama|Mystery|Thriller,2004.0
+8951,Vera Drake,Drama,2004.0
+8954,Lightning in a Bottle,Documentary,2004.0
+8955,Undertow,Crime|Drama|Thriller,2004.0
+8957,Saw,Horror|Mystery|Thriller,2004.0
+8958,Ray,Drama,2004.0
+8959,Birth,Drama|Mystery,2004.0
+8961,"Incredibles, The",Action|Adventure|Animation|Children|Comedy,2004.0
+8965,"Polar Express, The",Adventure|Animation|Children|Fantasy|IMAX,2004.0
+8966,Kinsey,Drama,2004.0
+8967,Seed of Chucky (Child's Play 5),Comedy|Horror,2004.0
+8968,After the Sunset,Action|Adventure|Comedy|Crime|Thriller,2004.0
+8969,Bridget Jones: The Edge of Reason,Comedy|Drama|Romance,2004.0
+8970,Finding Neverland,Drama,2004.0
+8972,National Treasure,Action|Adventure|Drama|Mystery|Thriller,2004.0
+8973,Bad Education (La mala educación),Drama|Thriller,2004.0
+8974,"SpongeBob SquarePants Movie, The",Adventure|Animation|Children|Comedy,2004.0
+8977,Alexander,Action|Adventure|Drama|War,2004.0
+8978,Christmas with the Kranks,Children|Comedy,2004.0
+8979,Guerrilla: The Taking of Patty Hearst,Documentary,2004.0
+8981,Closer,Drama|Romance,2004.0
+8983,House of Flying Daggers (Shi mian mai fu),Action|Drama|Romance,2004.0
+8984,Ocean's Twelve,Action|Comedy|Crime|Thriller,2004.0
+8985,Blade: Trinity,Action|Fantasy|Horror|Thriller,2004.0
+8987,Bush's Brain,Documentary,2004.0
+9018,Control Room,Documentary|War,2004.0
+27450,Blueberry,Adventure|Western,2004.0
+27619,"Lion King 1½, The",Adventure|Animation|Children|Comedy,2004.0
+27683,Tremors 4: The Legend Begins,Action|Comedy|Horror|Sci-Fi|Thriller|Western,2004.0
+27685,Bring It On Again,Comedy,2004.0
+27689,"Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l'apocalypse, Les)",Action|Crime|Thriller,2004.0
+27706,Lemony Snicket's A Series of Unfortunate Events,Adventure|Children|Comedy|Fantasy,2004.0
+27721,"Very Long Engagement, A (Un long dimanche de fiançailles)",Drama|Mystery|Romance|War,2004.0
+27728,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu),Action|Animation|Drama|Sci-Fi|Thriller,2004.0
+27746,Ginger Snaps: Unleashed,Horror|Thriller,2004.0
+27751,'Salem's Lot,Drama|Horror|Mystery|Thriller,2004.0
+27762,Comic Book: The Movie,Comedy,2004.0
+27768,Intimate Strangers (Confidences trop intimes),Drama,2004.0
+27769,Down to the Bone,Drama,2004.0
+27776,Red Lights (Feux rouges),Drama,2004.0
+27778,Ginger Snaps Back: The Beginning,Fantasy|Horror,2004.0
+27790,Millions,Children|Comedy|Crime|Drama|Fantasy,2004.0
+27793,Starship Troopers 2: Hero of the Federation,Action|Horror|Sci-Fi|War,2004.0
+27803,"Sea Inside, The (Mar adentro)",Drama,2004.0
+27808,Spanglish,Comedy|Drama|Romance,2004.0
+27815,"Chorus, The (Choristes, Les)",Drama,2004.0
+27826,Touch of Pink,Comedy|Drama|Romance,2004.0
+27829,Slasher,Documentary,2004.0
+27830,"Bobby Jones, Stroke of Genius",Drama,2004.0
+27831,Layer Cake,Crime|Drama|Thriller,2004.0
+27837,Flight of the Phoenix,Action|Adventure,2004.0
+27838,Mean Creek,Drama|Thriller,2004.0
+27866,In My Father's Den,Drama,2004.0
+27869,Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo),Action|Drama|War,2004.0
+27873,Metallica: Some Kind of Monster,Documentary,2004.0
+27878,Born into Brothels,Documentary,2004.0
+27879,DiG!,Documentary,2004.0
+27882,Riding Giants,Documentary,2004.0
+27899,What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?),Comedy|Documentary|Drama,2004.0
+27905,Casshern,Action|Drama|Fantasy|Sci-Fi,2004.0
+27912,Outfoxed: Rupert Murdoch's War on Journalism,Documentary,2004.0
+30707,Million Dollar Baby,Drama,2004.0
+30749,Hotel Rwanda,Drama|War,2004.0
+30803,3-Iron (Bin-jip),Drama|Romance,2004.0
+30810,"Life Aquatic with Steve Zissou, The",Adventure|Comedy|Fantasy,2004.0
+30812,"Aviator, The",Drama,2004.0
+30816,"Phantom of the Opera, The",Drama|Musical|Romance,2004.0
+30818,Beyond the Sea,Drama|Musical,2004.0
+30820,"Woodsman, The",Drama,2004.0
+30822,In Good Company,Comedy|Drama,2004.0
+30825,Meet the Fockers,Comedy,2004.0
+30846,"Assassination of Richard Nixon, The",Crime|Drama|Thriller,2004.0
+30848,"Love Song for Bobby Long, A",Drama,2004.0
+30850,"Merchant of Venice, The",Drama,2004.0
+30883,Fat Albert,Comedy|Fantasy,2004.0
+30890,"Keys to the House, The (Chiavi di casa, Le)",Drama,2004.0
+30892,In the Realms of the Unreal,Animation|Documentary,2004.0
+31114,Imaginary Heroes,Comedy|Drama,2004.0
+31162,"Life and Death of Peter Sellers, The",Comedy|Drama,2004.0
+31184,Appleseed (Appurushîdo),Action|Animation|Fantasy|Sci-Fi,2004.0
+31410,"Downfall (Untergang, Der)",Drama|War,2004.0
+31435,Rory O'Shea Was Here (Inside I'm Dancing),Drama,2004.0
+31437,Nobody Knows (Dare mo shiranai),Drama,2004.0
+31445,Employee of the Month,Comedy|Drama,2004.0
+31658,Howl's Moving Castle (Hauru no ugoku shiro),Adventure|Animation|Fantasy|Romance,2004.0
+31660,Steamboy (Suchîmubôi),Action|Animation|Drama|Sci-Fi,2004.0
+31694,Bride & Prejudice,Comedy|Musical|Romance,2004.0
+31702,Turtles Can Fly (Lakposhtha hâm parvaz mikonand),Drama|War,2004.0
+31804,Night Watch (Nochnoy dozor),Action|Fantasy|Horror|Mystery|Sci-Fi|Thriller,2004.0
+31878,Kung Fu Hustle (Gong fu),Action|Comedy,2004.0
+32022,Gunner Palace,Documentary|War,2004.0
+32213,Cube Zero,Horror|Mystery|Sci-Fi|Thriller,2004.0
+32291,Melinda and Melinda,Comedy|Drama,2004.0
+32300,D.E.B.S.,Action|Comedy,2004.0
+32302,"League of Ordinary Gentlemen, A",Documentary,2004.0
+32314,Incident at Loch Ness,Adventure|Comedy|Documentary,2004.0
+32600,Eros,Drama,2004.0
+32770,Brothers (Brødre),Drama,2004.0
+33124,Before the Fall (NaPolA - Elite für den Führer),Drama|War,2004.0
+33138,Palindromes,Adventure|Comedy|Drama,2004.0
+33166,Crash,Crime|Drama,2004.0
+33171,Mysterious Skin,Drama|Mystery,2004.0
+33310,"Common Thread, A (a.k.a. Sequins) (Brodeuses)",Drama|Romance,2004.0
+33649,Saving Face,Comedy|Drama|Romance,2004.0
+33725,It's All Gone Pete Tong,Comedy|Drama|Musical,2004.0
+33801,Godzilla: Final Wars (Gojira: Fainaru uôzu),Action|Adventure|Fantasy|Sci-Fi,2004.0
+33826,Saint Ralph,Comedy|Drama,2004.0
+33893,"Perfect Crime, The (Crimen Ferpecto) (Ferpect Crime)",Comedy|Crime|Thriller,2004.0
+33896,3 Extremes (Three... Extremes) (Saam gaang yi),Horror,2004.0
+33903,"Edukators, The (Die Fetten Jahre sind vorbei)",Comedy|Crime|Drama|Romance,2004.0
+34312,"Calcium Kid, The",Comedy,2004.0
+34330,November,Drama|Mystery,2004.0
+34811,Pusher II: With Blood on My Hands,Action|Crime|Drama|Thriller,2004.0
+36931,New Police Story (Xin jing cha gu shi),Action|Crime|Drama,2004.0
+37495,Survive Style 5+,Fantasy|Mystery|Romance|Thriller,2004.0
+37830,Final Fantasy VII: Advent Children,Action|Adventure|Animation|Fantasy|Sci-Fi,2004.0
+38198,Darwin's Nightmare,Documentary,2004.0
+39516,Don't Move (Non ti muovere),Drama,2004.0
+40412,Dead Man's Shoes,Crime|Thriller,2004.0
+40617,Creep,Horror|Thriller,2004.0
+40966,"Libertine, The",Drama,2004.0
+42718,District 13 (Banlieue 13),Action|Crime|Sci-Fi,2004.0
+43549,Helter Skelter,Action|Crime|Drama|Horror,2004.0
+44851,Go for Zucker! (Alles auf Zucker!),Comedy,2004.0
+47404,Mind Game,Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi,2004.0
+48214,Land of Plenty (Angst and Alienation in America),Drama,2004.0
+50613,Dead Meat,Horror,2004.0
+50942,"Wake Up, Ron Burgundy",Comedy,2004.0
+53140,"Librarian: Quest for the Spear, The",Action|Adventure|Comedy|Fantasy|Romance,2004.0
+53883,"Power of Nightmares, The: The Rise of the Politics of Fear",Documentary,2004.0
+55207,Cashback,Comedy|Drama,2004.0
+58870,Zebraman,Comedy,2004.0
+63433,Farscape: The Peacekeeper Wars,Action|Adventure|Sci-Fi,2004.0
+65359,Earthsea (Legend of Earthsea),Adventure|Drama|Fantasy,2004.0
+79006,Empire of Dreams: The Story of the 'Star Wars' Trilogy,Documentary,2004.0
+86504,Voices from the List,Documentary,2004.0
+92494,Dylan Moran: Monster,Comedy|Documentary,2004.0
+93988,North & South,Drama|Romance,2004.0
+97757,'Hellboy': The Seeds of Creation,Action|Adventure|Comedy|Documentary|Fantasy,2004.0
+110781,Mulan II,Action|Animation|Children|Comedy|Musical,2004.0
+118888,Dave Chappelle: For What it's Worth,Comedy,2004.0
+125974,Halloweentown High,Adventure|Children|Comedy|Fantasy,2004.0
+136353,Scooby-Doo! and the Loch Ness Monster,Animation|Children|Comedy,2004.0
+147002,Eros,Drama|Romance,2004.0
+160978,Hellevator,Horror|Sci-Fi,2004.0
+165959,Alesha Popovich and Tugarin the Dragon,Animation|Comedy|Drama,2004.0
+170289,Species III,Action|Horror|Sci-Fi,2004.0
+172321,Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog,Comedy,2004.0
+182731,Pixel Perfect,Children|Comedy|Sci-Fi,2004.0

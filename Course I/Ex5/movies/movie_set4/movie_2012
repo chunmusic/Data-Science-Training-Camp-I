@@ -1,0 +1,236 @@
+movieId,title,genres,year
+72378,2012,Action|Drama|Sci-Fi|Thriller,2012.0
+89745,"Avengers, The",Action|Adventure|Sci-Fi|IMAX,2012.0
+91483,Bullet to the Head,Action|Crime|Film-Noir,2012.0
+91485,"Expendables 2, The",Action|Adventure,2012.0
+91500,The Hunger Games,Action|Adventure|Drama|Sci-Fi|Thriller,2012.0
+91529,"Dark Knight Rises, The",Action|Adventure|Crime|IMAX,2012.0
+91535,"Bourne Legacy, The",Action|Adventure|Drama|Thriller|IMAX,2012.0
+91842,Contraband,Action|Crime|Drama|Thriller,2012.0
+91873,Joyful Noise,Comedy|Musical,2012.0
+91974,Underworld: Awakening,Action|Fantasy|Horror|IMAX,2012.0
+91976,"Grey, The",Action|Drama,2012.0
+91978,Man on a Ledge,Crime|Thriller,2012.0
+92234,Red Tails,Action|Adventure|Drama|War,2012.0
+92264,One for the Money,Action|Comedy|Crime,2012.0
+92420,Chronicle,Action|Sci-Fi|Thriller,2012.0
+92422,"Woman in Black, The",Drama|Horror|Thriller,2012.0
+92507,Safe House,Action|Crime|Mystery|Thriller,2012.0
+92509,"Vow, The",Drama|Romance,2012.0
+92665,"For a Good Time, Call...",Comedy|Drama|Romance,2012.0
+92681,Journey 2: The Mysterious Island,Action|Adventure|Comedy|Sci-Fi|IMAX,2012.0
+92938,Ghost Rider: Spirit of Vengeance,Action|Fantasy|Thriller,2012.0
+93242,Gone,Drama|Thriller,2012.0
+93270,Project X,Comedy,2012.0
+93272,Dr. Seuss' The Lorax,Animation|Fantasy|Musical|IMAX,2012.0
+93297,Act of Valor,Action|Thriller|War,2012.0
+93326,This Means War,Action|Comedy|Romance,2012.0
+93363,John Carter,Action|Adventure|Sci-Fi|IMAX,2012.0
+93510,21 Jump Street,Action|Comedy|Crime,2012.0
+93512,"Jeff, Who Lives at Home",Comedy|Drama,2012.0
+93563,Lockout,Action|Sci-Fi|Thriller,2012.0
+93766,Wrath of the Titans,Action|Adventure|Fantasy|IMAX,2012.0
+93805,Iron Sky,Action|Comedy|Sci-Fi,2012.0
+93831,American Reunion (American Pie 4),Comedy,2012.0
+93840,"Cabin in the Woods, The",Comedy|Horror|Sci-Fi|Thriller,2012.0
+93980,"Three Stooges, The",Comedy,2012.0
+93982,"Raven, The",Mystery|Thriller,2012.0
+94015,Mirror Mirror,Adventure|Comedy|Fantasy,2012.0
+94018,Battleship,Action|Sci-Fi|Thriller|IMAX,2012.0
+94266,"Five-Year Engagement, The",Comedy|Romance,2012.0
+94323,Think Like a Man,Comedy,2012.0
+94325,"Lucky One, The",Drama,2012.0
+94405,Safe,Action|Crime|Thriller,2012.0
+94478,Dark Shadows,Comedy|Horror|IMAX,2012.0
+94677,"Dictator, The",Comedy,2012.0
+94777,Men in Black III (M.III.B.) (M.I.B.³),Action|Comedy|Sci-Fi|IMAX,2012.0
+94780,Snow White and the Huntsman,Action|Adventure|Drama,2012.0
+94833,"Pirates! Band of Misfits, The",Adventure|Animation|Children|Comedy,2012.0
+94864,Prometheus,Action|Horror|Sci-Fi|IMAX,2012.0
+94867,"Pact, The",Horror|Mystery|Thriller,2012.0
+94953,Wanderlust,Comedy,2012.0
+94959,Moonrise Kingdom,Comedy|Drama|Romance,2012.0
+94985,Get the Gringo,Action|Crime|Drama|Thriller,2012.0
+95067,"Thousand Words, A",Comedy|Drama,2012.0
+95088,Safety Not Guaranteed,Comedy|Drama,2012.0
+95105,Madagascar 3: Europe's Most Wanted,Adventure|Animation|Children|Comedy|IMAX,2012.0
+95167,Brave,Action|Adventure|Animation|Children,2012.0
+95199,What to Expect When You're Expecting,Comedy|Drama|Romance,2012.0
+95201,To Rome with Love,Comedy,2012.0
+95207,Abraham Lincoln: Vampire Hunter,Action|Fantasy|Horror|Thriller,2012.0
+95307,Rock of Ages,Comedy|Drama|Musical|IMAX,2012.0
+95309,Seeking a Friend for the End of the World,Comedy|Drama|Romance,2012.0
+95441,Ted,Comedy|Fantasy,2012.0
+95449,Magic Mike,Drama|Romance,2012.0
+95508,Cleanskin,Crime|Drama|Thriller,2012.0
+95510,"Amazing Spider-Man, The",Action|Adventure|Sci-Fi|IMAX,2012.0
+95543,Ice Age 4: Continental Drift,Adventure|Animation|Comedy,2012.0
+95558,Beasts of the Southern Wild,Drama|Fantasy,2012.0
+95583,Savages,Crime|Drama|Thriller,2012.0
+95717,Treasure Island,Adventure,2012.0
+95720,"Watch, The",Comedy|Sci-Fi,2012.0
+95744,2 Days in New York,Comedy,2012.0
+95873,Ruby Sparks,Comedy|Fantasy|Romance,2012.0
+95875,Total Recall,Action|Sci-Fi|Thriller,2012.0
+95939,"Angels' Share, The",Comedy|Drama,2012.0
+96079,Skyfall,Action|Adventure|Thriller|IMAX,2012.0
+96110,"Campaign, The",Comedy,2012.0
+96114,Brake,Crime|Thriller,2012.0
+96121,Hope Springs,Comedy|Drama,2012.0
+96150,"Queen of Versailles, The",Documentary,2012.0
+96281,ParaNorman,Adventure|Animation|Comedy,2012.0
+96283,Diary of a Wimpy Kid: Dog Days,Children|Comedy,2012.0
+96373,Broken,Drama,2012.0
+96417,Premium Rush,Action|Thriller,2012.0
+96430,"Odd Life of Timothy Green, The",Comedy|Drama|Fantasy,2012.0
+96432,Lawless,Crime|Drama,2012.0
+96448,Piranha 3DD (a.k.a. Piranha DD),Comedy|Horror,2012.0
+96488,Searching for Sugar Man,Documentary,2012.0
+96567,"Words, The",Drama|Romance,2012.0
+96588,Pitch Perfect,Comedy|Musical,2012.0
+96610,Looper,Action|Crime|Sci-Fi,2012.0
+96616,That's My Boy,Comedy,2012.0
+96655,Robot & Frank,Comedy|Drama|Sci-Fi,2012.0
+96691,Resident Evil: Retribution,Action|Horror|Sci-Fi|IMAX,2012.0
+96726,Lola Versus,Comedy|Romance,2012.0
+96728,"Master, The",Drama,2012.0
+96737,Dredd,Action|Sci-Fi,2012.0
+96811,End of Watch,Crime|Drama|Thriller,2012.0
+96815,V/H/S,Horror|Thriller,2012.0
+96821,"Perks of Being a Wallflower, The",Drama|Romance,2012.0
+96829,"Hunt, The (Jagten)",Drama,2012.0
+96832,Holy Motors,Drama|Fantasy|Musical|Mystery|Sci-Fi,2012.0
+96861,Taken 2,Action|Crime|Drama|Thriller,2012.0
+96917,House at the End of the Street,Horror|Thriller,2012.0
+96964,"Tall Man, The",Crime|Drama|Mystery,2012.0
+96975,LOL,Comedy|Drama|Romance,2012.0
+97024,Rust and Bone (De rouille et d'os),Drama|Romance,2012.0
+97168,Marley,Documentary,2012.0
+97172,Frankenweenie,Animation|Comedy|Horror|IMAX,2012.0
+97188,Sinister,Horror|Thriller,2012.0
+97225,Hotel Transylvania,Animation|Children|Comedy,2012.0
+97230,Side by Side,Documentary,2012.0
+97304,Argo,Drama|Thriller,2012.0
+97306,Seven Psychopaths,Comedy|Crime,2012.0
+97328,Liberal Arts,Comedy|Drama,2012.0
+97643,[REC]³ 3 Génesis,Horror|Thriller,2012.0
+97665,Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté),Adventure|Comedy,2012.0
+97701,Paranormal Activity 4,Horror|IMAX,2012.0
+97742,Alex Cross,Action|Crime|Mystery|Thriller,2012.0
+97752,Cloud Atlas,Drama|Sci-Fi|IMAX,2012.0
+97785,Silent Hill: Revelation 3D,Horror|Mystery|Thriller,2012.0
+97836,Here Comes the Boom,Action|Comedy,2012.0
+97858,Mental,Comedy|Drama,2012.0
+97860,Killing Them Softly,Crime|Drama|Thriller,2012.0
+97866,"Imposter, The",Documentary,2012.0
+97870,"Sessions, The (Surrogate, The)",Drama,2012.0
+97904,Smashed,Comedy|Drama,2012.0
+97913,Wreck-It Ralph,Animation|Comedy,2012.0
+97921,Silver Linings Playbook,Comedy|Drama,2012.0
+97923,Flight,Drama,2012.0
+97936,Anna Karenina,Drama,2012.0
+97938,Life of Pi,Adventure|Drama|IMAX,2012.0
+97950,"Man with the Iron Fists, The",Action|Adventure|Crime,2012.0
+97988,"Bay, The",Horror|Sci-Fi|Thriller,2012.0
+98122,Indie Game: The Movie,Documentary,2012.0
+98124,"Batman: The Dark Knight Returns, Part 1",Action|Animation|Sci-Fi,2012.0
+98154,Lincoln,Drama|War,2012.0
+98160,Nature Calls,Comedy,2012.0
+98175,Vamps,Comedy|Horror|Romance,2012.0
+98203,"Twilight Saga: Breaking Dawn - Part 2, The",Adventure|Drama|Fantasy|Romance|IMAX,2012.0
+98239,Red Dawn,Action|War,2012.0
+98243,Rise of the Guardians,Adventure|Animation|Children|Fantasy|IMAX,2012.0
+98279,"Fantastic Fear of Everything, A",Comedy,2012.0
+98296,Deadfall,Crime|Drama|Thriller,2012.0
+98361,Byzantium,Drama|Fantasy|Thriller,2012.0
+98491,Paperman,Animation|Comedy|Romance,2012.0
+98585,Hitchcock,Drama,2012.0
+98799,"Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman, A",Animation|Comedy,2012.0
+98809,"Hobbit: An Unexpected Journey, The",Adventure|Fantasy|IMAX,2012.0
+98836,Hyde Park on Hudson,Comedy|Drama,2012.0
+98961,Zero Dark Thirty,Action|Drama|Thriller,2012.0
+99005,Fire with Fire,Action|Crime|Drama,2012.0
+99030,Wrong,Comedy|Drama,2012.0
+99087,Playing for Keeps,Comedy|Romance,2012.0
+99106,"Guilt Trip, The",Comedy,2012.0
+99112,Jack Reacher,Action|Crime|Thriller,2012.0
+99114,Django Unchained,Action|Drama|Western,2012.0
+99117,This Is 40,Drama,2012.0
+99145,"Impossible, The (Imposible, Lo)",Drama|Thriller,2012.0
+99149,"Misérables, Les",Drama|Musical|Romance|IMAX,2012.0
+99415,Parental Guidance,Comedy,2012.0
+99437,John Dies at the End,Comedy|Fantasy|Horror,2012.0
+99574,Promised Land,Drama,2012.0
+99636,English Vinglish,Comedy|Drama,2012.0
+99750,"Iceman, The",Crime|Drama|Thriller,2012.0
+99764,It's Such a Beautiful Day,Animation|Comedy|Drama|Fantasy|Sci-Fi,2012.0
+99846,Everything or Nothing: The Untold Story of 007,Documentary,2012.0
+99992,Shadow Dancer,Crime|Drama|Thriller,2012.0
+100068,Comme un chef,Comedy,2012.0
+100106,"Pervert's Guide to Ideology, The",Documentary,2012.0
+100159,Sightseers,Comedy,2012.0
+100194,Jim Jefferies: Fully Functional (EPIX),Comedy,2012.0
+100226,Why Stop Now,Comedy|Drama,2012.0
+100277,Tabu,Drama|Romance,2012.0
+100302,Upside Down,Drama|Romance|Sci-Fi,2012.0
+100304,"Liability, The",Action|Thriller,2012.0
+100326,Stand Up Guys,Comedy|Crime,2012.0
+100397,"ABCs of Death, The",Horror,2012.0
+100556,"Act of Killing, The",Documentary,2012.0
+100579,Universal Soldier: Day of Reckoning,Action|Sci-Fi|Thriller,2012.0
+100843,Oh Boy (A Coffee in Berlin),Comedy|Drama,2012.0
+101070,Wadjda,Drama,2012.0
+101415,"First Time, The",Comedy|Drama|Romance,2012.0
+101525,"Place Beyond the Pines, The",Crime|Drama,2012.0
+101529,"Brass Teapot, The",Comedy|Fantasy|Thriller,2012.0
+101765,"Perfect Plan, A (Plan parfait, Un)",Adventure|Comedy|Romance,2012.0
+101884,Dark Tide,Adventure|Drama|Thriller,2012.0
+101962,Wolf Children (Okami kodomo no ame to yuki),Animation|Fantasy,2012.0
+101973,Disconnect,Drama|Thriller,2012.0
+102066,Resolution,Horror|Thriller,2012.0
+102070,Grabbers,Comedy|Horror|Sci-Fi,2012.0
+102084,Justice League: Doom ,Action|Animation|Fantasy,2012.0
+102194,Mud,Adventure|Crime|Drama,2012.0
+102800,Frances Ha,Comedy|Drama,2012.0
+102802,"Lords of Salem, The",Horror|Thriller,2012.0
+102852,With Great Power: The Stan Lee Story,Documentary,2012.0
+102984,Inhuman Resources (Redd Inc.),Horror|Thriller,2012.0
+103027,Much Ado About Nothing,Comedy|Drama|Romance,2012.0
+103219,Maniac,Horror|Thriller,2012.0
+103221,Not Suitable for Children,Comedy|Romance,2012.0
+103449,Passion,Crime|Drama|Mystery|Thriller,2012.0
+103502,"Knot, The",Comedy|Romance,2012.0
+103606,Stuck in Love,Comedy|Drama|Romance,2012.0
+103865,Revenge for Jolly!,Comedy|Drama,2012.0
+104644,Maria Bamford: The Special Special Special!,Comedy,2012.0
+104875,"History of Future Folk, The",Adventure|Comedy|Musical|Sci-Fi,2012.0
+105121,Inescapable,Action|Drama|War,2012.0
+105254,Crystal Fairy & the Magical Cactus and 2012,Adventure|Comedy,2012.0
+106594,Red Flag,Comedy|Drama|Romance,2012.0
+106873,Evangelion: 3.0 You Can (Not) Redo,Action|Animation|Drama,2012.0
+107945,Bad Karma,Thriller,2012.0
+108540,Ernest & Célestine (Ernest et Célestine),Adventure|Animation|Children|Comedy|Drama|Romance,2012.0
+109241,On the Other Side of the Tracks (De l'autre côté du périph),Action|Comedy|Crime,2012.0
+109282,GLOW: The Story of the Gorgeous Ladies of Wrestling,Documentary,2012.0
+109383,"Oversimplification of Her Beauty, An",Animation|Comedy|Drama|Romance,2012.0
+109941,Puss in Boots: The Three Diablos,Animation|Comedy,2012.0
+110330,Me and you (io e te),Drama,2012.0
+112006,Tangled Ever After,Action|Animation|Children,2012.0
+113280,White Frog,Drama,2012.0
+115877,"Simpsons: The Longest Daycare, The",Animation|Comedy,2012.0
+118270,Hellbenders,Comedy|Horror|Thriller,2012.0
+119153,Bill Burr: You People Are All the Same,Comedy,2012.0
+119218,The Punisher: Dirty Laundry,Action|Crime|Drama,2012.0
+120807,John Mulaney: New In Town,Comedy,2012.0
+121715,Sebastian Maniscalco: What's Wrong with People?,Comedy,2012.0
+122246,Tooth Fairy 2,Children|Comedy,2012.0
+126577,"Daddy, I'm A Zombie",Animation|Comedy|Fantasy,2012.0
+129397,Marvel One-Shot: Item 47,Action|Fantasy|Sci-Fi,2012.0
+134847,Ghost Graduation,Comedy,2012.0
+136355,Big Top Scooby-Doo!,Animation|Children|Comedy,2012.0
+136540,The FP,Comedy,2012.0
+136912,God Loves Caviar,Adventure,2012.0
+148978,Blue Exorcist: The Movie,Animation|Fantasy|Horror|Mystery,2012.0
+149566,Unicorn City,Comedy|Romance,2012.0
+155168,Fraktus,Comedy,2012.0
+176413,Bliss,Drama,2012.0

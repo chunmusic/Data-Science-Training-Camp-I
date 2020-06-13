@@ -1,0 +1,260 @@
+movieId,title,genres,year
+1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,1995.0
+2,Jumanji,Adventure|Children|Fantasy,1995.0
+3,Grumpier Old Men,Comedy|Romance,1995.0
+4,Waiting to Exhale,Comedy|Drama|Romance,1995.0
+5,Father of the Bride Part II,Comedy,1995.0
+6,Heat,Action|Crime|Thriller,1995.0
+7,Sabrina,Comedy|Romance,1995.0
+8,Tom and Huck,Adventure|Children,1995.0
+9,Sudden Death,Action,1995.0
+10,GoldenEye,Action|Adventure|Thriller,1995.0
+11,"American President, The",Comedy|Drama|Romance,1995.0
+12,Dracula: Dead and Loving It,Comedy|Horror,1995.0
+13,Balto,Adventure|Animation|Children,1995.0
+14,Nixon,Drama,1995.0
+15,Cutthroat Island,Action|Adventure|Romance,1995.0
+16,Casino,Crime|Drama,1995.0
+17,Sense and Sensibility,Drama|Romance,1995.0
+18,Four Rooms,Comedy,1995.0
+19,Ace Ventura: When Nature Calls,Comedy,1995.0
+20,Money Train,Action|Comedy|Crime|Drama|Thriller,1995.0
+21,Get Shorty,Comedy|Crime|Thriller,1995.0
+22,Copycat,Crime|Drama|Horror|Mystery|Thriller,1995.0
+23,Assassins,Action|Crime|Thriller,1995.0
+24,Powder,Drama|Sci-Fi,1995.0
+25,Leaving Las Vegas,Drama|Romance,1995.0
+26,Othello,Drama,1995.0
+27,Now and Then,Children|Drama,1995.0
+28,Persuasion,Drama|Romance,1995.0
+29,"City of Lost Children, The (Cité des enfants perdus, La)",Adventure|Drama|Fantasy|Mystery|Sci-Fi,1995.0
+30,Shanghai Triad (Yao a yao yao dao waipo qiao),Crime|Drama,1995.0
+31,Dangerous Minds,Drama,1995.0
+32,Twelve Monkeys (a.k.a. 12 Monkeys),Mystery|Sci-Fi|Thriller,1995.0
+34,Babe,Children|Drama,1995.0
+36,Dead Man Walking,Crime|Drama,1995.0
+38,It Takes Two,Children|Comedy,1995.0
+39,Clueless,Comedy|Romance,1995.0
+40,"Cry, the Beloved Country",Drama,1995.0
+41,Richard III,Drama|War,1995.0
+42,Dead Presidents,Action|Crime|Drama,1995.0
+43,Restoration,Drama,1995.0
+44,Mortal Kombat,Action|Adventure|Fantasy,1995.0
+45,To Die For,Comedy|Drama|Thriller,1995.0
+46,How to Make an American Quilt,Drama|Romance,1995.0
+47,Seven (a.k.a. Se7en),Mystery|Thriller,1995.0
+48,Pocahontas,Animation|Children|Drama|Musical|Romance,1995.0
+49,When Night Is Falling,Drama|Romance,1995.0
+50,"Usual Suspects, The",Crime|Mystery|Thriller,1995.0
+52,Mighty Aphrodite,Comedy|Drama|Romance,1995.0
+54,"Big Green, The",Children|Comedy,1995.0
+55,Georgia,Drama,1995.0
+57,Home for the Holidays,Drama,1995.0
+60,"Indian in the Cupboard, The",Adventure|Children|Fantasy,1995.0
+62,Mr. Holland's Opus,Drama,1995.0
+68,French Twist (Gazon maudit),Comedy|Romance,1995.0
+69,Friday,Comedy,1995.0
+71,Fair Game,Action,1995.0
+72,Kicking and Screaming,Comedy|Drama,1995.0
+73,"Misérables, Les",Drama|War,1995.0
+76,Screamers,Action|Sci-Fi|Thriller,1995.0
+77,Nico Icon,Documentary,1995.0
+78,"Crossing Guard, The",Action|Crime|Drama|Thriller,1995.0
+80,"White Balloon, The (Badkonake sefid)",Children|Drama,1995.0
+81,Things to Do in Denver When You're Dead,Crime|Drama|Romance,1995.0
+82,Antonia's Line (Antonia),Comedy|Drama,1995.0
+83,Once Upon a Time... When We Were Colored,Drama|Romance,1995.0
+85,Angels and Insects,Drama|Romance,1995.0
+89,Nick of Time,Action|Thriller,1995.0
+93,Vampire in Brooklyn,Comedy|Horror|Romance,1995.0
+96,In the Bleak Midwinter,Comedy|Drama,1995.0
+97,"Hate (Haine, La)",Crime|Drama,1995.0
+99,Heidi Fleiss: Hollywood Madam,Documentary,1995.0
+105,"Bridges of Madison County, The",Drama|Romance,1995.0
+110,Braveheart,Action|Drama|War,1995.0
+112,Rumble in the Bronx (Hont faan kui),Action|Adventure|Comedy|Crime,1995.0
+116,Anne Frank Remembered,Documentary,1995.0
+117,"Young Poisoner's Handbook, The",Crime|Drama,1995.0
+119,"Steal Big, Steal Little",Comedy,1995.0
+132,Jade,Thriller,1995.0
+137,Man of the Year,Documentary,1995.0
+144,"Brothers McMullen, The",Comedy,1995.0
+145,Bad Boys,Action|Comedy|Crime|Drama|Thriller,1995.0
+146,"Amazing Panda Adventure, The",Adventure|Children,1995.0
+147,"Basketball Diaries, The",Drama,1995.0
+148,"Awfully Big Adventure, An",Drama,1995.0
+150,Apollo 13,Adventure|Drama|IMAX,1995.0
+151,Rob Roy,Action|Drama|Romance|War,1995.0
+152,"Addiction, The",Drama|Horror,1995.0
+153,Batman Forever,Action|Adventure|Comedy|Crime,1995.0
+155,Beyond Rangoon,Adventure|Drama|War,1995.0
+156,Blue in the Face,Comedy|Drama,1995.0
+157,Canadian Bacon,Comedy|War,1995.0
+158,Casper,Adventure|Children,1995.0
+159,Clockers,Crime|Drama|Mystery,1995.0
+160,Congo,Action|Adventure|Mystery|Sci-Fi,1995.0
+161,Crimson Tide,Drama|Thriller|War,1995.0
+163,Desperado,Action|Romance|Western,1995.0
+164,Devil in a Blue Dress,Crime|Film-Noir|Mystery|Thriller,1995.0
+165,Die Hard: With a Vengeance,Action|Crime|Thriller,1995.0
+166,"Doom Generation, The",Comedy|Crime|Drama,1995.0
+168,First Knight,Action|Drama|Romance,1995.0
+169,Free Willy 2: The Adventure Home,Adventure|Children|Drama,1995.0
+170,Hackers,Action|Adventure|Crime|Thriller,1995.0
+171,Jeffrey,Comedy|Drama,1995.0
+172,Johnny Mnemonic,Action|Sci-Fi|Thriller,1995.0
+173,Judge Dredd,Action|Crime|Sci-Fi,1995.0
+174,Jury Duty,Comedy,1995.0
+175,Kids,Drama,1995.0
+176,Living in Oblivion,Comedy,1995.0
+177,Lord of Illusions,Horror,1995.0
+179,Mad Love,Drama|Romance,1995.0
+180,Mallrats,Comedy|Romance,1995.0
+181,Mighty Morphin Power Rangers: The Movie,Action|Children,1995.0
+185,"Net, The",Action|Crime|Thriller,1995.0
+186,Nine Months,Comedy|Romance,1995.0
+187,Party Girl,Comedy,1995.0
+188,"Prophecy, The",Fantasy|Horror|Mystery,1995.0
+189,Reckless,Comedy|Fantasy,1995.0
+190,Safe,Thriller,1995.0
+191,"Scarlet Letter, The",Drama|Romance,1995.0
+193,Showgirls,Drama,1995.0
+194,Smoke,Comedy|Drama,1995.0
+195,Something to Talk About,Comedy|Drama|Romance,1995.0
+196,Species,Horror|Sci-Fi,1995.0
+198,Strange Days,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,1995.0
+201,Three Wishes,Drama|Fantasy,1995.0
+202,Total Eclipse,Drama|Romance,1995.0
+203,"To Wong Foo, Thanks for Everything! Julie Newmar",Comedy,1995.0
+204,Under Siege 2: Dark Territory,Action,1995.0
+205,Unstrung Heroes,Comedy|Drama,1995.0
+206,Unzipped,Documentary,1995.0
+207,"Walk in the Clouds, A",Drama|Romance,1995.0
+208,Waterworld,Action|Adventure|Sci-Fi,1995.0
+209,White Man's Burden,Drama,1995.0
+210,Wild Bill,Western,1995.0
+212,Bushwhacked,Adventure|Comedy|Crime|Mystery,1995.0
+215,Before Sunrise,Drama|Romance,1995.0
+216,Billy Madison,Comedy,1995.0
+217,"Babysitter, The",Drama|Thriller,1995.0
+218,Boys on the Side,Comedy|Drama,1995.0
+219,"Cure, The",Drama,1995.0
+220,Castle Freak,Horror,1995.0
+222,Circle of Friends,Drama|Romance,1995.0
+224,Don Juan DeMarco,Comedy|Drama|Romance,1995.0
+228,Destiny Turns on the Radio,Comedy,1995.0
+230,Dolores Claiborne,Drama|Thriller,1995.0
+236,French Kiss,Action|Comedy|Romance,1995.0
+237,Forget Paris,Comedy|Romance,1995.0
+238,Far From Home: The Adventures of Yellow Dog,Adventure|Children,1995.0
+239,"Goofy Movie, A",Animation|Children|Comedy|Romance,1995.0
+240,Hideaway,Thriller,1995.0
+241,Fluke,Children|Drama,1995.0
+243,Gordy,Children|Comedy|Fantasy,1995.0
+250,Heavyweights (Heavy Weights),Children|Comedy,1995.0
+251,"Hunted, The",Action,1995.0
+254,Jefferson in Paris,Drama,1995.0
+255,"Jerky Boys, The",Comedy,1995.0
+257,Just Cause,Mystery|Thriller,1995.0
+258,"Kid in King Arthur's Court, A",Adventure|Children|Comedy|Fantasy|Romance,1995.0
+259,Kiss of Death,Crime|Drama|Thriller,1995.0
+262,"Little Princess, A",Children|Drama,1995.0
+267,Major Payne,Comedy,1995.0
+271,Losing Isaiah,Drama,1995.0
+274,Man of the House,Comedy,1995.0
+278,Miami Rhapsody,Comedy,1995.0
+279,My Family,Drama,1995.0
+280,Murder in the First,Drama|Thriller,1995.0
+283,New Jersey Drive,Crime|Drama,1995.0
+292,Outbreak,Action|Drama|Sci-Fi|Thriller,1995.0
+294,"Perez Family, The",Comedy|Romance,1995.0
+295,"Pyromaniac's Love Story, A",Comedy|Romance,1995.0
+303,"Quick and the Dead, The",Action|Thriller|Western,1995.0
+304,Roommates,Comedy|Drama,1995.0
+310,Rent-a-Kid,Comedy,1995.0
+312,Stuart Saves His Family,Comedy,1995.0
+322,Swimming with Sharks,Comedy|Drama,1995.0
+325,National Lampoon's Senior Trip,Comedy,1995.0
+327,Tank Girl,Action|Comedy|Sci-Fi,1995.0
+328,Tales from the Crypt Presents: Demon Knight,Horror|Thriller,1995.0
+330,Tales from the Hood,Action|Crime|Horror,1995.0
+332,Village of the Damned,Horror|Sci-Fi,1995.0
+333,Tommy Boy,Comedy,1995.0
+335,Underneath,Mystery|Thriller,1995.0
+336,"Walking Dead, The",Drama|War,1995.0
+338,Virtuosity,Action|Sci-Fi|Thriller,1995.0
+339,While You Were Sleeping,Comedy|Romance,1995.0
+343,"Baby-Sitters Club, The",Children,1995.0
+358,Higher Learning,Drama,1995.0
+384,Bad Company,Action|Crime|Drama,1995.0
+388,Boys Life,Drama,1995.0
+407,In the Mouth of Madness,Horror|Thriller,1995.0
+467,Live Nude Girls,Comedy,1995.0
+468,"Englishman Who Went Up a Hill But Came Down a Mountain, The",Comedy|Romance,1995.0
+562,Welcome to the Dollhouse,Comedy|Drama,1995.0
+581,"Celluloid Closet, The",Documentary,1995.0
+585,"Brady Bunch Movie, The",Comedy,1995.0
+606,Candyman: Farewell to the Flesh,Fantasy|Horror,1995.0
+617,"Flower of My Secret, The (La flor de mi secreto)",Comedy|Drama,1995.0
+618,Two Much,Comedy|Romance,1995.0
+627,"Last Supper, The",Drama|Thriller,1995.0
+632,Land and Freedom (Tierra y libertad),Drama|War,1995.0
+633,Denise Calls Up,Comedy,1995.0
+634,Theodore Rex,Comedy,1995.0
+636,Frisk,Drama,1995.0
+638,Jack and Sarah,Romance,1995.0
+645,Nelly & Monsieur Arnaud,Drama,1995.0
+649,Cold Fever (Á köldum klaka),Comedy|Drama,1995.0
+665,Underground,Comedy|Drama|War,1995.0
+679,"Run of the Country, The",Drama,1995.0
+688,Operation Dumbo Drop,Action|Adventure|Comedy|War,1995.0
+698,Delta of Venus,Drama,1995.0
+700,Angus,Comedy,1995.0
+714,Dead Man,Drama|Mystery|Western,1995.0
+715,"Horseman on the Roof, The (Hussard sur le toit, Le)",Drama|Romance,1995.0
+728,Cold Comfort Farm,Comedy,1995.0
+741,Ghost in the Shell (Kôkaku kidôtai),Animation|Sci-Fi,1995.0
+745,Wallace & Gromit: A Close Shave,Animation|Children|Comedy,1995.0
+764,Heavy,Drama|Romance,1995.0
+888,Land Before Time III: The Time of the Great Giving,Adventure|Animation|Children|Musical,1995.0
+891,Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers),Horror|Thriller,1995.0
+979,Nothing Personal,Drama|War,1995.0
+1116,"Single Girl, A (Fille seule, La)",Drama,1995.0
+1119,Drunks,Drama,1995.0
+1121,Glory Daze,Drama,1995.0
+1170,Best of the Best 3: No Turning Back,Action,1995.0
+1318,Blue Juice,Comedy|Drama,1995.0
+1406,La Cérémonie,Crime|Drama|Mystery|Thriller,1995.0
+1428,Angel Baby,Drama,1995.0
+1549,Rough Magic,Drama|Romance,1995.0
+1757,Fallen Angels (Duo luo tian shi),Drama|Romance,1995.0
+2103,Tall Tale,Adventure|Children|Fantasy|Western,1995.0
+2483,"Day of the Beast, The (Día de la Bestia, El)",Adventure|Comedy|Thriller,1995.0
+2818,Iron Eagle IV,Action|War,1995.0
+3046,"Incredibly True Adventure of Two Girls in Love, The",Comedy|Romance,1995.0
+3446,Funny Bones,Comedy|Drama,1995.0
+3477,Empire Records,Comedy|Drama,1995.0
+3573,Carnosaur 2,Horror|Sci-Fi,1995.0
+4193,"Fantasticks, The",Musical,1995.0
+4750,3 Ninjas Knuckle Up,Action|Children,1995.0
+6557,Born to Be Wild,Adventure|Children|Comedy|Drama,1995.0
+6857,Ninja Scroll (Jûbei ninpûchô),Action|Adventure|Animation|Fantasy,1995.0
+7669,Pride and Prejudice,Drama|Romance,1995.0
+26854,"Darkman II: Return of Durant, The",Action|Crime|Horror,1995.0
+26887,"Langoliers, The",Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller,1995.0
+26900,"Last Wedding, The (Kivenpyörittäjän kylä)",Comedy|Drama,1995.0
+26901,Last of the Dogmen,Adventure|Western,1995.0
+26903,Whisper of the Heart (Mimi wo sumaseba),Animation|Drama|Romance,1995.0
+32554,Memories (Memorîzu),Animation|Fantasy|Sci-Fi|Thriller,1995.0
+43677,"Tuskegee Airmen, The",Drama|War,1995.0
+44241,Leprechaun 3,Comedy|Fantasy|Horror,1995.0
+51357,Citizen X,Crime|Drama|Thriller,1995.0
+56022,Harrison Bergeron,Drama|Sci-Fi,1995.0
+95738,"Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper",Children|Musical|Mystery,1995.0
+96520,Prime Suspect: The Lost Child,Drama|Mystery,1995.0
+96608,Runaway Brain ,Animation|Comedy|Sci-Fi,1995.0
+99130,Ice Cream Man,Comedy|Horror,1995.0
+132084,Let It Be Me,(no genres listed),1995.0
+136297,Mortal Kombat: The Journey Begins,Action|Animation,1995.0
+167772,The Spirit of Christmas,Animation|Comedy,1995.0
+181719,Serving in Silence: The Margarethe Cammermeyer Story,(no genres listed),1995.0

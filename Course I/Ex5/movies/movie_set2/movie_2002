@@ -1,0 +1,311 @@
+movieId,title,genres,year
+4774,Big Trouble,Comedy|Crime,2002.0
+5025,Orange County,Comedy,2002.0
+5046,Impostor,Action|Drama|Sci-Fi|Thriller,2002.0
+5047,Kung Pow: Enter the Fist,Action|Comedy,2002.0
+5048,Snow Dogs,Adventure|Children|Comedy,2002.0
+5064,The Count of Monte Cristo,Action|Adventure|Drama|Thriller,2002.0
+5065,"Mothman Prophecies, The",Drama|Fantasy|Horror|Mystery|Thriller,2002.0
+5066,"Walk to Remember, A",Drama|Romance,2002.0
+5080,Slackers,Comedy,2002.0
+5092,Big Fat Liar,Children|Comedy,2002.0
+5093,Collateral Damage,Action|Thriller,2002.0
+5094,Rollerball,Action|Sci-Fi,2002.0
+5106,Crossroads,Comedy|Musical|Romance,2002.0
+5107,Hart's War,Drama|War,2002.0
+5108,John Q,Crime|Drama|Thriller,2002.0
+5109,Return to Never Land,Adventure|Animation|Children,2002.0
+5127,Dragonfly,Drama|Fantasy|Mystery|Romance|Thriller,2002.0
+5128,Queen of the Damned,Fantasy|Horror,2002.0
+5151,40 Days and 40 Nights,Comedy|Romance,2002.0
+5152,We Were Soldiers,Action|Drama|War,2002.0
+5170,All About the Benjamins,Action|Comedy|Crime,2002.0
+5171,"Time Machine, The",Action|Adventure|Sci-Fi,2002.0
+5218,Ice Age,Adventure|Animation|Children|Comedy,2002.0
+5219,Resident Evil,Action|Horror|Sci-Fi|Thriller,2002.0
+5220,Showtime,Action|Comedy,2002.0
+5254,Blade II,Action|Horror|Thriller,2002.0
+5255,Sorority Boys,Comedy,2002.0
+5256,Stolen Summer,Drama,2002.0
+5264,Clockstoppers,Action|Adventure|Sci-Fi|Thriller,2002.0
+5265,Death to Smoochy,Comedy|Crime|Drama,2002.0
+5266,Panic Room,Thriller,2002.0
+5267,"Rookie, The",Drama,2002.0
+5282,High Crimes,Thriller,2002.0
+5283,National Lampoon's Van Wilder,Comedy,2002.0
+5293,Changing Lanes,Drama|Thriller,2002.0
+5296,"Sweetest Thing, The",Comedy|Romance,2002.0
+5297,"Cat's Meow, The",Drama|Thriller,2002.0
+5299,My Big Fat Greek Wedding,Comedy|Romance,2002.0
+5312,Murder by Numbers,Crime|Thriller,2002.0
+5313,The Scorpion King,Action|Adventure|Fantasy|Thriller,2002.0
+5323,Jason X,Horror|Sci-Fi|Thriller,2002.0
+5324,Life or Something Like It,Comedy|Romance,2002.0
+5329,"Salton Sea, The",Crime|Drama|Thriller,2002.0
+5347,Deuces Wild,Drama,2002.0
+5348,Hollywood Ending,Comedy|Drama,2002.0
+5349,Spider-Man,Action|Adventure|Sci-Fi|Thriller,2002.0
+5363,"New Guy, The",Comedy,2002.0
+5364,Unfaithful,Drama|Thriller,2002.0
+5377,About a Boy,Comedy|Drama|Romance,2002.0
+5378,Star Wars: Episode II - Attack of the Clones,Action|Adventure|Sci-Fi|IMAX,2002.0
+5380,"Importance of Being Earnest, The",Comedy|Drama|Romance,2002.0
+5387,Enough,Drama|Thriller,2002.0
+5388,Insomnia,Action|Crime|Drama|Mystery|Thriller,2002.0
+5389,Spirit: Stallion of the Cimarron,Adventure|Animation|Children|Western,2002.0
+5400,"Sum of All Fears, The",Drama|Thriller,2002.0
+5401,Undercover Brother,Comedy,2002.0
+5414,Bad Company,Action|Comedy|Crime,2002.0
+5415,Divine Secrets of the Ya-Ya Sisterhood,Comedy|Drama,2002.0
+5416,Cherish,Comedy|Drama|Thriller,2002.0
+5418,"Bourne Identity, The",Action|Mystery|Thriller,2002.0
+5419,Scooby-Doo,Adventure|Children|Comedy|Fantasy|Mystery,2002.0
+5420,Windtalkers,Action|Drama|War,2002.0
+5421,"Dangerous Lives of Altar Boys, The",Drama,2002.0
+5443,Juwanna Mann,Comedy,2002.0
+5444,Lilo & Stitch,Adventure|Animation|Children|Sci-Fi,2002.0
+5445,Minority Report,Action|Crime|Mystery|Sci-Fi|Thriller,2002.0
+5446,Rabbit-Proof Fence,Adventure|Drama,2002.0
+5447,Sunshine State,Drama,2002.0
+5448,Hey Arnold! The Movie,Adventure|Animation|Children|Comedy,2002.0
+5449,Mr. Deeds,Comedy|Romance,2002.0
+5451,Pumpkin,Comedy|Drama|Romance,2002.0
+5458,Like Mike,Children|Comedy|Fantasy,2002.0
+5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),Action|Comedy|Sci-Fi,2002.0
+5460,"Powerpuff Girls, The",Action|Animation|Children|Comedy,2002.0
+5462,"Crocodile Hunter: Collision Course, The",Adventure|Comedy,2002.0
+5463,Reign of Fire,Action|Adventure|Fantasy,2002.0
+5464,Road to Perdition,Crime|Drama,2002.0
+5476,Halloween: Resurrection (Halloween 8),Horror|Thriller,2002.0
+5478,Eight Legged Freaks,Action|Comedy|Horror|Sci-Fi,2002.0
+5479,K-19: The Widowmaker,Action|Adventure|Drama|Thriller,2002.0
+5480,Stuart Little 2,Children|Comedy,2002.0
+5481,Austin Powers in Goldmember,Comedy,2002.0
+5483,"Kid Stays in the Picture, The",Documentary,2002.0
+5485,Tadpole,Comedy|Drama|Romance,2002.0
+5501,"Master of Disguise, The",Comedy|Mystery,2002.0
+5502,Signs,Horror|Sci-Fi|Thriller,2002.0
+5504,Spy Kids 2: The Island of Lost Dreams,Adventure|Children,2002.0
+5505,"Good Girl, The",Comedy|Drama,2002.0
+5506,Blood Work,Crime|Drama|Mystery|Thriller,2002.0
+5507,xXx,Action|Crime|Thriller,2002.0
+5508,24 Hour Party People,Comedy|Drama|Musical,2002.0
+5513,Martin Lawrence Live: Runteldat,Comedy|Documentary,2002.0
+5523,"Adventures of Pluto Nash, The",Action|Adventure|Comedy|Sci-Fi,2002.0
+5524,Blue Crush,Adventure|Drama|Romance,2002.0
+5527,Possession,Drama|Romance,2002.0
+5528,One Hour Photo,Drama|Thriller,2002.0
+5529,Serving Sara,Comedy|Romance,2002.0
+5530,Simone (S1m0ne),Comedy|Drama|Fantasy|Sci-Fi,2002.0
+5531,Undisputed,Drama,2002.0
+5537,Satin Rouge,Drama|Musical,2002.0
+5556,FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com),Crime|Horror|Thriller,2002.0
+5563,City by the Sea,Crime|Drama,2002.0
+5564,Swimfan,Thriller,2002.0
+5572,Barbershop,Comedy,2002.0
+5573,Stealing Harvard,Comedy|Crime,2002.0
+5574,"Transporter, The",Action|Crime,2002.0
+5577,Igby Goes Down,Comedy|Drama,2002.0
+5609,Ballistic: Ecks vs. Sever,Action|Thriller,2002.0
+5610,"Banger Sisters, The",Comedy|Drama,2002.0
+5611,"Four Feathers, The",Adventure|War,2002.0
+5612,Trapped,Action|Thriller,2002.0
+5613,8 Women,Comedy|Crime|Musical|Mystery,2002.0
+5617,Secretary,Comedy|Drama|Romance,2002.0
+5619,"Trials of Henry Kissinger, The",Documentary,2002.0
+5620,Sweet Home Alabama,Comedy|Romance,2002.0
+5621,"Tuxedo, The",Action|Comedy,2002.0
+5625,Moonlight Mile,Drama|Romance,2002.0
+5629,Jonah: A VeggieTales Movie,Animation|Children|Musical,2002.0
+5630,Red Dragon,Crime|Mystery|Thriller,2002.0
+5632,Bloody Sunday,Drama,2002.0
+5633,Heaven,Drama,2002.0
+5636,Welcome to Collinwood,Comedy|Crime,2002.0
+5663,Below,Horror,2002.0
+5664,Brown Sugar,Romance,2002.0
+5665,Knockaround Guys,Action|Comedy|Crime,2002.0
+5666,"Rules of Attraction, The",Comedy|Drama|Romance|Thriller,2002.0
+5667,Tuck Everlasting,Drama|Fantasy,2002.0
+5668,White Oleander,Drama,2002.0
+5669,Bowling for Columbine,Documentary,2002.0
+5670,Comedian,Comedy|Documentary,2002.0
+5672,Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie),Adventure|Animation|Children|Fantasy,2002.0
+5673,Punch-Drunk Love,Comedy|Drama|Romance,2002.0
+5675,Swept Away,Comedy|Romance,2002.0
+5679,"Ring, The",Horror|Mystery|Thriller,2002.0
+5680,Auto Focus,Crime|Drama,2002.0
+5684,Naqoyqatsi,Documentary,2002.0
+5685,Real Women Have Curves,Comedy|Drama,2002.0
+5784,Ghost Ship,Horror,2002.0
+5785,Jackass: The Movie,Action|Comedy|Documentary,2002.0
+5786,Paid in Full,Action|Drama,2002.0
+5787,"Truth About Charlie, The",Mystery|Thriller,2002.0
+5788,All or Nothing,Drama,2002.0
+5791,Frida,Drama|Romance,2002.0
+5792,Roger Dodger,Comedy|Drama,2002.0
+5803,I Spy,Action|Adventure|Comedy|Crime,2002.0
+5804,"Santa Clause 2, The",Children|Comedy|Fantasy|Romance,2002.0
+5809,Femme Fatale,Crime|Thriller,2002.0
+5810,8 Mile,Drama,2002.0
+5812,Far from Heaven,Drama|Romance,2002.0
+5816,Harry Potter and the Chamber of Secrets,Adventure|Fantasy,2002.0
+5817,Ararat,Drama|War,2002.0
+5818,"Crime of Father Amaro, The (Crimen del padre Amaro, El)",Drama|Romance,2002.0
+5820,Standing in the Shadows of Motown,Documentary|Musical,2002.0
+5829,Men with Brooms,Comedy|Drama|Romance,2002.0
+5833,Dog Soldiers,Action|Horror,2002.0
+5872,Die Another Day,Action|Adventure|Thriller,2002.0
+5873,The Emperor's Club,Drama,2002.0
+5874,Friday After Next,Comedy,2002.0
+5875,Personal Velocity,Drama,2002.0
+5876,"Quiet American, The",Drama|Thriller|War,2002.0
+5878,Talk to Her (Hable con Ella),Drama|Romance,2002.0
+5879,Eight Crazy Nights (Adam Sandler's Eight Crazy Nights),Animation|Comedy|Musical,2002.0
+5880,Extreme Ops,Action|Adventure|Crime|Thriller,2002.0
+5881,Solaris,Drama|Romance|Sci-Fi,2002.0
+5882,Treasure Planet,Adventure|Animation|Children|Sci-Fi|IMAX,2002.0
+5883,They,Horror|Thriller,2002.0
+5900,Analyze That,Comedy|Crime,2002.0
+5901,Empire,Crime|Drama,2002.0
+5902,Adaptation,Comedy|Drama|Romance,2002.0
+5903,Equilibrium,Action|Sci-Fi|Thriller,2002.0
+5941,Drumline,Comedy|Drama|Musical|Romance,2002.0
+5942,"Hot Chick, The",Comedy,2002.0
+5943,Maid in Manhattan,Comedy|Romance,2002.0
+5944,Star Trek: Nemesis,Action|Drama|Sci-Fi|Thriller,2002.0
+5945,About Schmidt,Comedy|Drama,2002.0
+5947,Evelyn,Drama,2002.0
+5951,Morvern Callar,Drama,2002.0
+5952,"Lord of the Rings: The Two Towers, The",Adventure|Fantasy,2002.0
+5954,25th Hour,Crime|Drama,2002.0
+5955,Antwone Fisher,Drama,2002.0
+5956,Gangs of New York,Crime|Drama,2002.0
+5957,Two Weeks Notice,Comedy|Romance,2002.0
+5959,Narc,Crime|Drama|Thriller,2002.0
+5989,Catch Me If You Can,Crime|Drama,2002.0
+5990,Pinocchio,Children|Comedy|Fantasy,2002.0
+5991,Chicago,Comedy|Crime|Drama|Musical,2002.0
+5992,"Hours, The",Drama|Romance,2002.0
+5993,Max,Drama,2002.0
+5994,Nicholas Nickleby,Drama|Romance,2002.0
+5995,"Pianist, The",Drama|War,2002.0
+6002,Love Liza,Drama,2002.0
+6003,Confessions of a Dangerous Mind,Comedy|Crime|Drama|Thriller,2002.0
+6016,City of God (Cidade de Deus),Action|Adventure|Crime|Drama|Thriller,2002.0
+6041,Amen.,Drama,2002.0
+6042,Blind Spot: Hitler's Secretary (Im toten Winkel - Hitlers Sekretärin),Documentary,2002.0
+6060,"Guru, The",Comedy|Romance,2002.0
+6062,Lost in La Mancha,Documentary,2002.0
+6063,May,Drama|Horror,2002.0
+6162,Gerry,Adventure|Drama,2002.0
+6163,He Loves Me... He Loves Me Not (À la folie... pas du tout),Romance|Thriller,2002.0
+6192,Open Hearts (Elsker dig for evigt),Romance,2002.0
+6193,Poolhall Junkies,Comedy|Drama|Thriller,2002.0
+6195,Stone Reader,Documentary,2002.0
+6197,Spider,Drama|Mystery,2002.0
+6214,Irreversible (Irréversible),Crime|Drama|Mystery|Thriller,2002.0
+6215,Laurel Canyon,Drama,2002.0
+6218,Bend It Like Beckham,Comedy|Drama|Romance,2002.0
+6267,Assassination Tango,Drama|Thriller,2002.0
+6268,Raising Victor Vargas,Comedy|Drama|Romance,2002.0
+6269,Stevie,Documentary,2002.0
+6279,"Good Thief, The",Crime|Drama,2002.0
+6281,Phone Booth,Drama|Thriller,2002.0
+6286,"Man Without a Past, The (Mies vailla menneisyyttä)",Comedy|Crime|Drama,2002.0
+6288,Better Luck Tomorrow,Crime|Drama,2002.0
+6291,Lilya 4-Ever (Lilja 4-ever),Crime|Drama,2002.0
+6306,I Am Trying to Break Your Heart,Documentary,2002.0
+6330,People I Know,Crime|Drama,2002.0
+6331,Spellbound,Documentary,2002.0
+6334,Blue Car,Drama,2002.0
+6335,"Dancer Upstairs, The",Crime|Drama|Thriller,2002.0
+6336,Marooned in Iraq (Gomgashtei dar Aragh),Drama,2002.0
+6339,"Man on the Train (Homme du train, L')",Comedy|Drama,2002.0
+6342,"Trip, The",Comedy|Drama|Romance,2002.0
+6368,Cinemania,Documentary,2002.0
+6370,"Spanish Apartment, The (L'auberge espagnole)",Comedy|Drama|Romance,2002.0
+6375,Gigantic (A Tale of Two Johns),Documentary,2002.0
+6376,Respiro,Comedy|Drama,2002.0
+6382,Together (Han ni Zai Yiki),Drama,2002.0
+6385,Whale Rider,Drama,2002.0
+6502,28 Days Later,Action|Horror|Sci-Fi,2002.0
+6542,"Cuckoo, The (Kukushka)",Comedy|Drama|War,2002.0
+6551,"Anarchist Cookbook, The",Comedy|Romance,2002.0
+6552,Dirty Pretty Things,Crime|Drama|Thriller,2002.0
+6553,"Embalmer, The (Imbalsamatore, L')",Drama,2002.0
+6554,Garage Days,Comedy|Musical,2002.0
+6571,"Mondays in the Sun (Lunes al sol, Los)",Drama,2002.0
+6588,And Now... Ladies and Gentlemen...,Romance|Thriller,2002.0
+6591,"Magdalene Sisters, The",Drama,2002.0
+6592,"Secret Lives of Dentists, The",Drama,2002.0
+6598,Step Into Liquid,Documentary,2002.0
+6670,Comic Book Villains,Comedy,2002.0
+6692,Stoked: The Rise and Fall of Gator,Documentary,2002.0
+6696,Bollywood/Hollywood,Comedy|Drama|Musical|Romance,2002.0
+6699,Once Upon a Time in the Midlands,Drama,2002.0
+6707,Cabin Fever,Horror|Thriller,2002.0
+6710,Dummy,Comedy|Drama|Romance,2002.0
+6755,Bubba Ho-tep,Comedy|Horror,2002.0
+6760,In This World,Adventure|Drama,2002.0
+6772,To Be and to Have (Être et avoir),Documentary,2002.0
+6869,Bus 174 (Ônibus 174),Crime|Documentary,2002.0
+6882,Returner (Ritaanaa),Action|Adventure|Sci-Fi,2002.0
+6898,Sweet Sixteen,Drama,2002.0
+6902,Interstate 60,Adventure|Comedy|Drama|Fantasy|Mystery|Sci-Fi|Thriller,2002.0
+6909,"Eye, The (Gin gwai) (Jian gui)",Thriller,2002.0
+6962,OT: Our Town,Documentary,2002.0
+6963,Devil's Playground,Documentary,2002.0
+6965,Journeys with George,Documentary,2002.0
+7090,Hero (Ying xiong),Action|Adventure|Drama,2002.0
+7139,In America,Drama|Romance,2002.0
+7264,An Amazing Couple,Comedy|Romance,2002.0
+7266,"Lost Skeleton of Cadavra, The",Comedy|Horror|Sci-Fi,2002.0
+7349,Broken Wings (Knafayim Shvurot),Drama,2002.0
+7352,Wilbur Wants to Kill Himself,Comedy|Drama|Romance,2002.0
+7477,Eye See You (D-Tox),Horror|Thriller,2002.0
+7646,Rose Red,Horror|Mystery|Thriller,2002.0
+7773,"Bang, Bang, You're Dead",Drama,2002.0
+7789,"11'09""01 - September 11",Drama,2002.0
+7879,Notorious C.H.O.,Comedy,2002.0
+7976,Ken Park,Drama,2002.0
+7981,Infernal Affairs (Mou gaan dou),Crime|Drama|Thriller,2002.0
+8011,"Weather Underground, The",Documentary,2002.0
+8019,Dark Water (Honogurai mizu no soko kara),Drama|Horror|Mystery|Thriller,2002.0
+8327,Dolls,Drama|Romance,2002.0
+8588,Killing Me Softly,Drama|Mystery|Romance|Thriller,2002.0
+8632,Secret Society,Comedy,2002.0
+8964,Callas Forever,Drama,2002.0
+27368,Asterix & Obelix: Mission Cleopatra (Astérix & Obélix: Mission Cléopâtre),Adventure|Comedy|Fantasy,2002.0
+27408,Ripley's Game,Drama|Thriller,2002.0
+27420,Teknolust,Comedy|Drama|Romance|Sci-Fi,2002.0
+27434,Darkness,Horror|Mystery,2002.0
+27473,American Psycho II: All American Girl,Comedy|Crime|Horror|Mystery|Thriller,2002.0
+27478,Ali G Indahouse,Comedy,2002.0
+27482,Cube 2: Hypercube,Horror|Mystery|Sci-Fi,2002.0
+27539,Undertaking Betty (Plots with a View),Comedy|Romance,2002.0
+27549,Dead or Alive: Final,Comedy|Crime|Drama|Sci-Fi|Thriller,2002.0
+27555,Fubar,Comedy,2002.0
+27592,Sympathy for Mr. Vengeance (Boksuneun naui geot),Crime|Drama,2002.0
+27627,Oasis,Drama|Romance,2002.0
+27731,"Cat Returns, The (Neko no ongaeshi)",Adventure|Animation|Children|Fantasy,2002.0
+27741,"Twilight Samurai, The (Tasogare Seibei)",Drama|Romance,2002.0
+27772,Ju-on: The Grudge,Horror,2002.0
+32392,800 Bullets (800 Balas),Comedy|Crime|Drama|Western,2002.0
+32914,Carrie,Drama|Horror|Thriller,2002.0
+40597,One-Way Ticket to Mombasa (Menolippu Mombasaan),Comedy|Drama,2002.0
+44943,9/11,Documentary,2002.0
+52730,It's a Very Merry Muppet Christmas Movie,Children|Comedy,2002.0
+62834,Babylon 5: The Legend of the Rangers: To Live and Die in Starlight,Sci-Fi,2002.0
+64167,Dinotopia,Adventure|Fantasy,2002.0
+69685,Daria: Is It College Yet?,Animation|Comedy,2002.0
+72424,Derailed,Action|Thriller,2002.0
+77881,Lovers & Leavers (Kuutamolla),Drama|Romance,2002.0
+79501,Deadly Outlaw: Rekka (a.k.a. Violent Fire) (Jitsuroku Andô Noboru kyôdô-den: Rekka),Crime|Drama|Thriller,2002.0
+88345,Mike's New Car,Animation|Comedy,2002.0
+96935,My Left Eye Sees Ghosts (Ngo joh aan gin diy gwai),Comedy|Fantasy|Romance,2002.0
+105250,"Century of the Self, The",Documentary,2002.0
+142558,If I Were a Rich Man,Comedy,2002.0
+144606,Confessions of a Dangerous Mind,Comedy|Crime|Drama|Romance|Thriller,2002.0
+153070,Rabbits,Comedy|Drama|Fantasy,2002.0
+171695,Robin Williams: Live on Broadway,Comedy,2002.0
+190221,Hommage à Zgougou (et salut à Sabine Mamou),Documentary,2002.0

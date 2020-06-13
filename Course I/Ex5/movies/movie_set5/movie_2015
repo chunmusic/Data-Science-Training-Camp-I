@@ -1,0 +1,275 @@
+movieId,title,genres,year
+111781,Mission: Impossible - Rogue Nation,Action|Adventure|Thriller,2015.0
+113345,Jupiter Ascending,Action|Adventure|Sci-Fi,2015.0
+115713,Ex Machina,Drama|Sci-Fi|Thriller,2015.0
+117466,In the Heart of the Sea,Action|Adventure|Drama,2015.0
+117529,Jurassic World,Action|Adventure|Drama|Sci-Fi|Thriller,2015.0
+117895,Maze Runner: Scorch Trials,Action|Thriller,2015.0
+118706,Black Sea,Adventure|Mystery|Thriller,2015.0
+119145,Kingsman: The Secret Service,Action|Adventure|Comedy|Crime,2015.0
+120466,Chappie,Action|Thriller,2015.0
+120635,Taken 3,Action|Crime|Thriller,2015.0
+120637,Blackhat,Action|Crime|Drama|Mystery|Thriller,2015.0
+120799,Terminator Genisys,Action|Adventure|Sci-Fi|Thriller,2015.0
+122882,Mad Max: Fury Road,Action|Adventure|Sci-Fi|Thriller,2015.0
+122884,Insidious: Chapter 3,Fantasy|Horror|Thriller,2015.0
+122886,Star Wars: Episode VII - The Force Awakens,Action|Adventure|Fantasy|Sci-Fi|IMAX,2015.0
+122892,Avengers: Age of Ultron,Action|Adventure|Sci-Fi,2015.0
+122900,Ant-Man,Action|Adventure|Sci-Fi,2015.0
+122902,Fantastic Four,Action|Adventure|Fantasy|Sci-Fi,2015.0
+125914,Mortdecai,Adventure|Comedy|Mystery|Romance,2015.0
+125916,Fifty Shades of Grey,Drama|Romance,2015.0
+126420,American Heist,Action,2015.0
+126482,Strange Magic,Animation|Children|Fantasy|Musical,2015.0
+126548,The DUFF,Comedy,2015.0
+127096,Project Almanac,Sci-Fi|Thriller,2015.0
+127098,Louis C.K.: Live at The Comedy Store,Comedy,2015.0
+127108,Brooklyn,Drama|Romance,2015.0
+127114,The End of the Tour,Drama,2015.0
+127116,Experimenter,Drama,2015.0
+127130,Mistress America,Comedy,2015.0
+127132,Zipper,Drama|Thriller,2015.0
+127134,A Walk in the Woods,Adventure|Comedy|Drama,2015.0
+127136,True Story,Drama|Mystery|Thriller,2015.0
+127146,Kurt Cobain: Montage of Heck,Documentary,2015.0
+127152,Going Clear: Scientology and the Prison of Belief,Documentary,2015.0
+127164,"What Happened, Miss Simone?",Documentary,2015.0
+127194,The D Train,Comedy,2015.0
+127198,Dope,Comedy|Drama,2015.0
+127202,Me and Earl and the Dying Girl,Drama,2015.0
+127204,The Overnight,Comedy,2015.0
+127212,The Stanford Prison Experiment,Drama|Thriller,2015.0
+127323,Vice,Action|Adventure|Sci-Fi|Thriller,2015.0
+128360,The Hateful Eight,Western,2015.0
+128488,Wild Card,Action|Crime|Drama|Thriller,2015.0
+128512,Paper Towns,Drama|Mystery|Romance,2015.0
+128520,The Wedding Ringer,Comedy,2015.0
+128542,Wyrmwood,Action|Horror|Sci-Fi,2015.0
+128592,The Boy Next Door,Mystery|Thriller,2015.0
+128594,Boy Meets Girl,Comedy|Drama|Romance,2015.0
+128620,Victoria,Crime|Drama|Romance,2015.0
+128838,Crimson Peak,Horror,2015.0
+128842,Dragonheart 3: The Sorcerer's Curse,Action|Adventure|Fantasy,2015.0
+128975,Hot Tub Time Machine 2,Comedy|Sci-Fi,2015.0
+129250,Superfast!,(no genres listed),2015.0
+129354,Focus,Comedy|Crime|Drama|Romance,2015.0
+129428,The Second Best Exotic Marigold Hotel,Comedy|Drama,2015.0
+129657,Tracers,Action,2015.0
+129659,"McFarland, USA",Drama,2015.0
+129737,Unfinished Business,Comedy,2015.0
+129937,Run All Night,Action|Crime|Drama|Thriller,2015.0
+130073,Cinderella,Children|Drama|Fantasy|Romance,2015.0
+130083,Kidnapping Mr. Heineken,Action|Crime|Drama|Thriller,2015.0
+130087,The Cobbler,Comedy|Drama|Fantasy,2015.0
+130450,Pan,Adventure|Children|Fantasy,2015.0
+130490,Insurgent,Action|Sci-Fi|Thriller,2015.0
+130520,Home,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,2015.0
+130576,Midnight Special,Drama|Sci-Fi,2015.0
+130578,"Gunman, The",Action|Thriller,2015.0
+130634,Furious 7,Action|Crime|Thriller,2015.0
+130686,The Final Girls,Comedy|Horror,2015.0
+130840,Spring,Horror|Romance|Sci-Fi,2015.0
+130842,Power/Rangers,Action|Adventure|Sci-Fi,2015.0
+131013,Get Hard,Comedy|Crime,2015.0
+131656,Shaun the Sheep Movie,Adventure|Animation|Children|Comedy,2015.0
+131714,Last Knights,Action|Adventure,2015.0
+131724,The Jinx: The Life and Deaths of Robert Durst,Documentary,2015.0
+131739,Batman vs. Robin,Action|Adventure|Animation,2015.0
+131796,Woman in Gold,Drama,2015.0
+131826,Iliza Shlesinger: Freezing Hot,Comedy,2015.0
+132046,Tomorrowland,Action|Adventure|Children|Mystery|Sci-Fi,2015.0
+132153,Buzzard,Comedy|Drama|Horror,2015.0
+132157,Paul Blart: Mall Cop 2,Action|Comedy|Crime,2015.0
+132424,The Longest Ride,Drama|Romance,2015.0
+132496,Danny Collins,Comedy|Drama,2015.0
+132660,Man Up,Comedy|Romance,2015.0
+132796,San Andreas,Action|Drama|Thriller,2015.0
+133195,Hitman: Agent 47,Action|Crime|Thriller,2015.0
+133217,B/W,Comedy|Crime|Sci-Fi,2015.0
+133281,Ricki and the Flash,Comedy|Drama,2015.0
+133365,Partisan,Drama|Thriller,2015.0
+133377,Infini,Horror|Sci-Fi|Thriller,2015.0
+133419,Pitch Perfect 2,Comedy,2015.0
+133645,Carol,Drama|Romance,2015.0
+133771,The Lobster,Comedy|Romance|Sci-Fi,2015.0
+133782,Maggie,Drama|Horror|Thriller,2015.0
+133798,Hot Pursuit,Action|Comedy,2015.0
+133802,Slow West,Action|Thriller|Western,2015.0
+133867,Barely Lethal,Action|Adventure|Comedy,2015.0
+134130,The Martian,Adventure|Drama|Sci-Fi,2015.0
+134158,Return to Sender,Thriller,2015.0
+134170,Kung Fury,Action|Comedy|Fantasy|Sci-Fi,2015.0
+134214,Youth,Drama,2015.0
+134246,Survivor,Action|Thriller,2015.0
+134248,Hot Girls Wanted,Documentary,2015.0
+134368,Spy,Action|Comedy|Crime,2015.0
+134393,Trainwreck,Comedy|Romance,2015.0
+134528,Aloha,Comedy|Drama|Romance,2015.0
+134775,Dragon Blade,Action|Adventure|Drama,2015.0
+134783,Entourage,Comedy,2015.0
+134796,Bitter Lake,Documentary,2015.0
+134808,No Way Jose,Comedy,2015.0
+134853,Inside Out,Adventure|Animation|Children|Comedy|Drama|Fantasy,2015.0
+134859,The Wolfpack,Documentary,2015.0
+135133,The Hunger Games: Mockingjay - Part 2,Adventure|Sci-Fi,2015.0
+135137,Pixels,Action|Comedy|Sci-Fi,2015.0
+135288,Mr. Holmes,Drama|Mystery,2015.0
+135518,Self/less,Action|Mystery|Sci-Fi|Thriller,2015.0
+135532,The Last Witch Hunter,Action|Adventure|Fantasy,2015.0
+135534,Krampus,Comedy|Fantasy|Horror,2015.0
+135861,Ted 2,Comedy,2015.0
+135885,Absolutely Anything,Comedy|Sci-Fi,2015.0
+135887,Minions,Adventure|Animation|Children|Comedy,2015.0
+136016,The Good Dinosaur,Adventure|Animation|Children|Comedy|Fantasy,2015.0
+136018,Black Mass,Crime|Drama,2015.0
+136020,Spectre,Action|Adventure|Crime,2015.0
+136305,Sharknado 3: Oh Hell No!,Horror|Sci-Fi,2015.0
+136562,Steve Jobs,Drama,2015.0
+136564,Macbeth,Drama,2015.0
+136598,Vacation,Adventure|Comedy,2015.0
+136654,The Face of an Angel,Drama,2015.0
+136664,Wild Horses,Crime|Drama,2015.0
+136778,The Squeeze,Comedy|Drama,2015.0
+136786,Careful What You Wish For,Thriller,2015.0
+136816,Bad Asses on the Bayou,Action|Comedy,2015.0
+136859,The Lovers,Action|Adventure|Romance|Sci-Fi,2015.0
+137337,Amy,Documentary,2015.0
+137595,Magic Mike XXL,Comedy|Drama,2015.0
+137863,Dragon Ball Z: Resurrection of F,Action|Adventure|Animation|Fantasy,2015.0
+138036,The Man from U.N.C.L.E.,Action|Adventure|Comedy,2015.0
+138186,Sorrow,Crime|Drama|Horror,2015.0
+138204,7 Days in Hell,Comedy,2015.0
+138208,The Walk,Adventure|Drama|Thriller,2015.0
+138610,The Gallows,Horror|Thriller,2015.0
+138798,Joe Dirt 2: Beautiful Loser,Comedy,2015.0
+139052,Dark Places,Drama|Mystery|Thriller,2015.0
+139157,Massu Engira Maasilamani,Comedy|Horror|Thriller,2015.0
+139385,The Revenant,Adventure|Drama,2015.0
+139415,Irrational Man,Crime|Drama,2015.0
+139640,Ooops! Noah is Gone...,Animation,2015.0
+139642,Southpaw,Action|Drama,2015.0
+139644,Sicario,Crime|Drama|Mystery,2015.0
+139717,10 Cent Pistol,Crime|Thriller,2015.0
+139855,Anomalisa,Animation|Comedy|Fantasy,2015.0
+140016,Always Watching: A Marble Hornets Story,Horror,2015.0
+140110,The Intern,Comedy,2015.0
+140162,Love,Drama|Romance,2015.0
+140174,Room,Drama,2015.0
+140237,The Runner,Drama,2015.0
+140247,The Gift,Drama|Horror,2015.0
+140267,The Witch,Horror,2015.0
+140289,Men & Chicken,Comedy|Drama,2015.0
+140301,The Escort,Comedy|Romance,2015.0
+140523,"Visit, The",Comedy|Horror,2015.0
+140525,Secret in Their Eyes,Crime|Drama|Mystery,2015.0
+140561,Jeff Ross Roasts Criminals: Live at Brazos County Jail,Comedy|Documentary,2015.0
+140627,Battle For Sevastopol,Drama|Romance|War,2015.0
+140711,American Ultra,Action|Comedy|Sci-Fi|Thriller,2015.0
+140715,Straight Outta Compton,Drama,2015.0
+140725,Cop Car,Crime|Thriller,2015.0
+140816,Tangerine,Comedy|Drama,2015.0
+140928,Joy,Comedy|Drama,2015.0
+141004,Victor Frankenstein,Drama|Horror|Sci-Fi,2015.0
+141408,Scouts Guide to the Zombie Apocalypse,Action|Comedy|Horror,2015.0
+141422,Suffragette,Drama,2015.0
+141544,Turbo Kid,Action|Adventure|Sci-Fi,2015.0
+141668,War Room,Drama,2015.0
+141688,Legend,Crime|Thriller,2015.0
+141718,Deathgasm,Comedy|Horror,2015.0
+141749,The Danish Girl,Drama,2015.0
+141799,Cooties,Comedy|Horror,2015.0
+141846,Steve Jobs: The Man in the Machine,Documentary,2015.0
+141866,Green Room,(no genres listed),2015.0
+141890,Beasts of No Nation,Drama|War,2015.0
+141928,Bloodsucking Bastards,Comedy|Horror,2015.0
+142074,Knock Knock,Crime|Horror|Thriller,2015.0
+142372,Our Brand Is Crisis,Comedy|Drama,2015.0
+142420,High Rise,Action|Drama|Sci-Fi,2015.0
+142422,The Night Before,Comedy,2015.0
+142424,Into the Forest,Drama|Sci-Fi,2015.0
+142444,The Editor,Comedy|Horror|Mystery,2015.0
+142448,Everest,Adventure|Drama|Thriller,2015.0
+142456,The Brand New Testament,(no genres listed),2015.0
+142488,Spotlight,Thriller,2015.0
+142507,Pawn Sacrifice,Drama,2015.0
+142509,Hardcore Henry,Action|Adventure|Sci-Fi,2015.0
+142536,Burnt,Drama,2015.0
+142550,Ryuzo and the Seven Henchmen,Action|Comedy,2015.0
+142602,"F*ck You, Goethe 2",Comedy,2015.0
+142961,Life Eternal,Comedy|Crime|Thriller,2015.0
+142997,Hotel Transylvania 2,Animation|Comedy,2015.0
+143001,Anti-Social,Crime,2015.0
+143245,The Little Prince,Animation|Fantasy,2015.0
+143257,Ashby,Comedy|Drama,2015.0
+143385,Bridge of Spies,Drama|Thriller,2015.0
+143472,Into the Grizzly Maze,Action|Horror|Thriller,2015.0
+143511,Human,Documentary,2015.0
+143525,Chasuke's Journey,Comedy|Drama,2015.0
+143559,L.A. Slasher,Comedy|Crime|Fantasy,2015.0
+143896,How To Change The World,Documentary,2015.0
+143969,Er ist wieder da,Comedy,2015.0
+144262,Slow Learners,Comedy|Romance,2015.0
+144620,Goosebumps,Adventure|Comedy|Horror,2015.0
+144714,The Perfect Guy,Drama|Thriller,2015.0
+144716,Rock the Kasbah,Comedy,2015.0
+144734,Freaks of Nature,Comedy|Horror|Sci-Fi,2015.0
+144976,Bone Tomahawk,Horror|Western,2015.0
+145080,Extraordinary Tales,Animation|Horror|Mystery,2015.0
+145150,The Dressmaker,Comedy|Drama|Thriller,2015.0
+145418,Trumbo,Drama,2015.0
+145839,Concussion,Drama,2015.0
+145935,"Peanuts Movie, The",Adventure|Animation|Children|Comedy,2015.0
+146210,Blue Mountain State: The Rise of Thadland,Comedy,2015.0
+146309,The Boy and the Beast,Action|Adventure|Animation,2015.0
+146656,Creed,Drama,2015.0
+146682,Twinsters,Documentary,2015.0
+146684,Cosmic Scrat-tastrophe,Animation|Children|Comedy,2015.0
+146688,Solace,Fantasy|Mystery|Thriller,2015.0
+146730,Lost in the Sun,Action|Drama|Thriller,2015.0
+147410,A Perfect Day,Comedy|Drama,2015.0
+148166,Hitchcock/Truffaut,Documentary,2015.0
+148238,A Very Murray Christmas,Comedy,2015.0
+148424,Chi-Raq,Comedy|Drama,2015.0
+148482,Truth,Drama,2015.0
+148592,Just Jim,Comedy,2015.0
+148626,"Big Short, The",Drama,2015.0
+148632,Applesauce,Comedy,2015.0
+148652,The Ridiculous 6,Comedy|Western,2015.0
+148667,John Mulaney: The Comeback Kid,Comedy,2015.0
+148675,North Pole: Open For Christmas,Children|Fantasy,2015.0
+148709,Mojave,Thriller,2015.0
+148881,World of Tomorrow,Animation|Comedy,2015.0
+149011,He Never Died,Comedy|Drama|Horror,2015.0
+149146,Parasyte: Part 2,Horror|Sci-Fi,2015.0
+149350,Lumberjack Man,Comedy|Horror,2015.0
+149352,Daddy's Home,Comedy,2015.0
+149354,Sisters,Children|Comedy,2015.0
+149380,'Tis the Season for Love,Romance,2015.0
+150254,The Devil's Candy,Horror,2015.0
+150401,Close Range,Action|Crime,2015.0
+150596,Doctor Who: The Husbands of River Song,Comedy|Drama|Sci-Fi,2015.0
+150604,Moonwalkers,Comedy,2015.0
+150696,Tomorrow,Documentary,2015.0
+150993,Anacleto: Agente secreto,Action|Comedy,2015.0
+151317,Maggie's Plan,Comedy,2015.0
+151557,Stonewall,Drama,2015.0
+151559,Frankenstein,Horror|Thriller,2015.0
+151653,Welcome to Happiness,Comedy|Drama|Fantasy,2015.0
+151695,The Survivalist,Drama|Sci-Fi|Thriller,2015.0
+151759,Requiem for the American Dream,Documentary,2015.0
+152270,The Wait,Drama,2015.0
+152591,Ip Man 3,Action,2015.0
+152658,Santa's Little Helper,Children,2015.0
+154358,The Barkley Marathons: The Race That Eats Its Young,Documentary,2015.0
+155774,Neon Bull,Adventure,2015.0
+155892,Me Him Her,Comedy,2015.0
+156553,Zoom,Animation|Comedy|Drama,2015.0
+157369,Bakuman,Comedy|Drama,2015.0
+160730,The Adderall Diaries,Action|Drama|Thriller,2015.0
+161830,Body,Drama|Horror|Thriller,2015.0
+171917,Mystère à la Tour Eiffel,Drama|Mystery|Thriller,2015.0
+173307,The Gracefield Incident,Action|Horror|Sci-Fi,2015.0
+184257,Making a Murderer,Crime|Documentary,2015.0
+190213,John From,Drama,2015.0
+193573,Love Live! The School Idol Movie,Animation,2015.0
+193579,Jon Stewart Has Left the Building,Documentary,2015.0

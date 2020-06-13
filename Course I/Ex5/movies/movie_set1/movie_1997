@@ -1,0 +1,260 @@
+movieId,title,genres,year
+779,'Til There Was You,Drama|Romance,1997.0
+870,Gone Fishin',Comedy,1997.0
+879,"Relic, The",Horror|Thriller,1997.0
+981,Dangerous Ground,Drama,1997.0
+987,Bliss,Drama|Romance,1997.0
+1055,Shadow Conspiracy,Thriller,1997.0
+1355,Nightwatch,Horror|Thriller,1997.0
+1425,Fierce Creatures,Comedy,1997.0
+1426,Zeus and Roxanne,Children,1997.0
+1427,Turbulence,Action|Thriller,1997.0
+1431,Beverly Hills Ninja,Action|Comedy,1997.0
+1432,Metro,Action|Comedy|Crime|Drama|Thriller,1997.0
+1438,Dante's Peak,Action|Thriller,1997.0
+1439,Meet Wally Sparks,Comedy,1997.0
+1442,Prefontaine,Drama,1997.0
+1445,McHale's Navy,Comedy|War,1997.0
+1447,Gridlock'd,Crime,1997.0
+1453,"Beautician and the Beast, The",Comedy|Romance,1997.0
+1454,SubUrbia,Comedy|Drama,1997.0
+1456,"Pest, The",Comedy,1997.0
+1457,Fools Rush In,Comedy|Drama|Romance,1997.0
+1458,Touch,Drama|Fantasy|Romance,1997.0
+1459,Absolute Power,Mystery|Thriller,1997.0
+1460,That Darn Cat,Children|Comedy|Mystery,1997.0
+1461,Vegas Vacation (National Lampoon's Las Vegas Vacation),Comedy,1997.0
+1464,Lost Highway,Crime|Drama|Fantasy|Film-Noir|Mystery|Romance,1997.0
+1465,Rosewood,Action|Drama,1997.0
+1466,Donnie Brasco,Crime|Drama,1997.0
+1468,Booty Call,Comedy|Romance,1997.0
+1473,Best Men,Action|Comedy|Crime|Drama,1997.0
+1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle),Children|Comedy,1997.0
+1476,Private Parts,Comedy|Drama,1997.0
+1477,Love Jones,Romance,1997.0
+1479,"Saint, The",Action|Romance|Sci-Fi|Thriller,1997.0
+1480,Smilla's Sense of Snow,Drama|Thriller,1997.0
+1485,Liar Liar,Comedy,1997.0
+1487,Selena,Drama|Musical,1997.0
+1488,"Devil's Own, The",Action|Drama|Thriller,1997.0
+1489,Cats Don't Dance,Animation|Children|Musical,1997.0
+1490,B*A*P*S,Comedy,1997.0
+1495,Turbo: A Power Rangers Movie,Action|Adventure|Children,1997.0
+1496,Anna Karenina,Drama|Romance,1997.0
+1497,Double Team,Action,1997.0
+1498,Inventing the Abbotts,Drama|Romance,1997.0
+1499,Anaconda,Action|Adventure|Thriller,1997.0
+1500,Grosse Pointe Blank,Comedy|Crime|Romance,1997.0
+1503,8 Heads in a Duffel Bag,Comedy,1997.0
+1507,Paradise Road,Drama|War,1997.0
+1513,Romy and Michele's High School Reunion,Comedy,1997.0
+1515,Volcano,Action|Drama|Thriller,1997.0
+1517,Austin Powers: International Man of Mystery,Action|Adventure|Comedy,1997.0
+1518,Breakdown,Action|Thriller,1997.0
+1526,Fathers' Day,Comedy,1997.0
+1527,"Fifth Element, The",Action|Adventure|Comedy|Sci-Fi,1997.0
+1529,Nowhere,Comedy|Drama,1997.0
+1541,Addicted to Love,Comedy|Romance,1997.0
+1544,"Lost World: Jurassic Park, The",Action|Adventure|Sci-Fi|Thriller,1997.0
+1547,Shiloh,Children|Drama,1997.0
+1550,Trial and Error,Comedy|Romance,1997.0
+1551,Buddy,Adventure|Children|Drama,1997.0
+1552,Con Air,Action|Adventure|Thriller,1997.0
+1556,Speed 2: Cruise Control,Action|Romance|Thriller,1997.0
+1562,Batman & Robin,Action|Adventure|Fantasy|Thriller,1997.0
+1564,For Roseanna (Roseanna's Grave),Comedy|Drama|Romance,1997.0
+1566,Hercules,Adventure|Animation|Children|Comedy|Musical,1997.0
+1569,My Best Friend's Wedding,Comedy|Romance,1997.0
+1573,Face/Off,Action|Crime|Drama|Thriller,1997.0
+1574,Fall,Romance,1997.0
+1580,Men in Black (a.k.a. MIB),Action|Comedy|Sci-Fi,1997.0
+1581,Out to Sea,Comedy,1997.0
+1582,Wild America,Adventure|Children,1997.0
+1583,"Simple Wish, A",Children|Fantasy,1997.0
+1584,Contact,Drama|Sci-Fi,1997.0
+1586,G.I. Jane,Action|Drama,1997.0
+1588,George of the Jungle,Children|Comedy,1997.0
+1589,Cop Land,Action|Crime|Drama|Thriller,1997.0
+1590,Event Horizon,Horror|Sci-Fi|Thriller,1997.0
+1591,Spawn,Action|Adventure|Sci-Fi|Thriller,1997.0
+1592,Air Bud,Children|Comedy,1997.0
+1593,Picture Perfect,Comedy|Romance,1997.0
+1594,In the Company of Men,Comedy|Drama,1997.0
+1596,Career Girls,Drama,1997.0
+1597,Conspiracy Theory,Drama|Mystery|Romance|Thriller,1997.0
+1599,Steel,Action,1997.0
+1600,She's So Lovely,Drama|Romance,1997.0
+1601,Hoodlum,Crime|Drama|Film-Noir,1997.0
+1602,Leave It to Beaver,Comedy,1997.0
+1603,Mimic,Horror|Sci-Fi|Thriller,1997.0
+1604,Money Talks,Action|Comedy,1997.0
+1605,Excess Baggage,Adventure|Romance,1997.0
+1606,Kull the Conqueror,Action|Adventure,1997.0
+1608,Air Force One,Action|Thriller,1997.0
+1609,187 (One Eight Seven),Drama|Thriller,1997.0
+1612,"Kiss Me, Guido",Comedy,1997.0
+1613,Star Maps,Drama,1997.0
+1614,In & Out,Comedy,1997.0
+1615,"Edge, The",Adventure|Drama,1997.0
+1616,"Peacemaker, The",Action|Thriller|War,1997.0
+1617,L.A. Confidential,Crime|Film-Noir|Mystery|Thriller,1997.0
+1619,Seven Years in Tibet,Adventure|Drama|War,1997.0
+1620,Kiss the Girls,Crime|Drama|Mystery|Thriller,1997.0
+1621,Soul Food,Drama,1997.0
+1623,Wishmaster,Horror,1997.0
+1624,"Thousand Acres, A",Drama,1997.0
+1625,"Game, The",Drama|Mystery|Thriller,1997.0
+1626,Fire Down Below,Action|Drama|Thriller,1997.0
+1627,U Turn,Crime|Drama|Mystery,1997.0
+1629,"MatchMaker, The",Comedy|Romance,1997.0
+1631,"Assignment, The",Action|Thriller,1997.0
+1633,Ulee's Gold,Drama,1997.0
+1635,"Ice Storm, The",Drama,1997.0
+1639,Chasing Amy,Comedy|Drama|Romance,1997.0
+1641,"Full Monty, The",Comedy|Drama,1997.0
+1643,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown)",Drama|Romance,1997.0
+1644,I Know What You Did Last Summer,Horror|Mystery|Thriller,1997.0
+1645,The Devil's Advocate,Drama|Mystery|Thriller,1997.0
+1646,RocketMan (a.k.a. Rocket Man),Children|Comedy|Romance|Sci-Fi,1997.0
+1647,Playing God,Crime|Drama|Thriller,1997.0
+1648,"House of Yes, The",Comedy|Drama,1997.0
+1649,"Fast, Cheap & Out of Control",Documentary,1997.0
+1650,Washington Square,Drama,1997.0
+1652,Year of the Horse,Documentary,1997.0
+1653,Gattaca,Drama|Sci-Fi|Thriller,1997.0
+1654,FairyTale: A True Story,Children|Drama|Fantasy,1997.0
+1656,Swept from the Sea,Drama|Romance,1997.0
+1658,"Life Less Ordinary, A",Romance|Thriller,1997.0
+1659,Hurricane Streets,Drama,1997.0
+1660,Eve's Bayou,Drama,1997.0
+1661,Switchback,Crime|Mystery|Thriller,1997.0
+1662,Gang Related,Crime,1997.0
+1665,Bean,Comedy,1997.0
+1667,Mad City,Action|Drama,1997.0
+1670,Welcome to Sarajevo,Drama|War,1997.0
+1671,Deceiver,Crime|Drama|Thriller,1997.0
+1672,"Rainmaker, The",Drama,1997.0
+1673,Boogie Nights,Drama,1997.0
+1675,Incognito,Crime|Thriller,1997.0
+1676,Starship Troopers,Action|Sci-Fi,1997.0
+1677,Critical Care,Comedy|Drama,1997.0
+1681,Mortal Kombat: Annihilation,Action|Adventure|Fantasy,1997.0
+1683,"Wings of the Dove, The",Drama|Romance,1997.0
+1684,Mrs. Dalloway,Drama|Romance,1997.0
+1686,Red Corner,Crime|Thriller,1997.0
+1687,"Jackal, The",Action|Thriller,1997.0
+1688,Anastasia,Adventure|Animation|Children|Drama|Musical,1997.0
+1689,"Man Who Knew Too Little, The",Comedy|Crime|Thriller,1997.0
+1690,Alien: Resurrection,Action|Horror|Sci-Fi,1997.0
+1693,Amistad,Drama|Mystery,1997.0
+1694,"Apostle, The",Drama,1997.0
+1695,Artemisia,Drama,1997.0
+1696,Bent,Drama|War,1997.0
+1699,"Butcher Boy, The",Comedy|Drama,1997.0
+1701,Deconstructing Harry,Comedy|Drama,1997.0
+1702,Flubber,Children|Comedy|Fantasy,1997.0
+1703,For Richer or Poorer,Comedy,1997.0
+1704,Good Will Hunting,Drama|Romance,1997.0
+1707,Home Alone 3,Children|Comedy,1997.0
+1711,Midnight in the Garden of Good and Evil,Crime|Drama|Mystery,1997.0
+1713,Mouse Hunt,Children|Comedy,1997.0
+1717,Scream 2,Comedy|Horror|Mystery|Thriller,1997.0
+1718,Stranger in the House,Thriller,1997.0
+1719,"Sweet Hereafter, The",Drama,1997.0
+1721,Titanic,Drama|Romance,1997.0
+1722,Tomorrow Never Dies,Action|Adventure|Thriller,1997.0
+1726,"Postman, The",Action|Adventure|Drama|Sci-Fi,1997.0
+1729,Jackie Brown,Crime|Drama|Thriller,1997.0
+1730,Kundun,Drama,1997.0
+1731,Mr. Magoo,Comedy,1997.0
+1733,Afterglow,Drama|Romance,1997.0
+1734,My Life in Pink (Ma vie en rose),Comedy|Drama,1997.0
+1747,Wag the Dog,Comedy,1997.0
+1755,Shooting Fish,Comedy|Romance,1997.0
+1759,"Four Days in September (O Que É Isso, Companheiro?)",Drama,1997.0
+1760,Spice World,Comedy,1997.0
+1771,Night Flier,Horror,1997.0
+1784,As Good as It Gets,Comedy|Drama|Romance,1997.0
+1793,Welcome to Woop-Woop,Comedy,1997.0
+1794,Love and Death on Long Island,Comedy|Drama,1997.0
+1799,Suicide Kings,Comedy|Crime|Drama|Mystery|Thriller,1997.0
+1809,Fireworks (Hana-bi),Crime|Drama,1997.0
+1816,Two Girls and a Guy,Comedy|Drama,1997.0
+1827,"Big One, The",Comedy|Documentary,1997.0
+1829,Chinese Box,Drama|Romance,1997.0
+1834,"Spanish Prisoner, The",Crime|Drama|Mystery|Thriller,1997.0
+1844,Live Flesh (Carne trémula),Drama|Romance,1997.0
+1848,"Borrowers, The",Adventure|Children|Comedy|Fantasy,1997.0
+1857,"Real Blonde, The",Comedy,1997.0
+1858,Mr. Nice Guy (Yat goh ho yan),Action|Comedy,1997.0
+1859,Taste of Cherry (Ta'm e guilass),Drama,1997.0
+1860,Character (Karakter),Drama,1997.0
+1875,Clockwatchers,Comedy,1997.0
+1889,Insomnia,Drama|Mystery|Thriller,1997.0
+1891,"Ugly, The",Horror|Thriller,1997.0
+1900,"Children of Heaven, The (Bacheha-Ye Aseman)",Comedy|Drama,1997.0
+1904,Henry Fool,Comedy|Drama,1997.0
+1906,Mr. Jealousy,Comedy|Romance,1997.0
+1910,I Went Down,Comedy|Crime|Drama,1997.0
+2008,"This World, Then the Fireworks",Crime|Drama|Film-Noir,1997.0
+2025,Lolita,Drama|Romance,1997.0
+2175,Déjà Vu,Drama|Romance,1997.0
+2232,Cube,Horror|Mystery|Sci-Fi|Thriller,1997.0
+2324,Life Is Beautiful (La Vita è bella),Comedy|Drama|Romance|War,1997.0
+2325,Orgazmo,Comedy,1997.0
+2388,Steam: The Turkish Bath (Hamam),Drama|Romance,1997.0
+2439,Affliction,Drama,1997.0
+2493,"Harmonists, The",Drama,1997.0
+2577,Metroland,Comedy|Drama,1997.0
+2594,Open Your Eyes (Abre los ojos),Drama|Romance|Sci-Fi|Thriller,1997.0
+2618,"Castle, The",Comedy,1997.0
+2693,Trekkies,Documentary,1997.0
+2697,My Son the Fanatic,Comedy|Drama|Romance,1997.0
+2698,Zone 39,Sci-Fi,1997.0
+2793,"American Werewolf in Paris, An",Comedy|Horror|Romance|Thriller,1997.0
+2801,Oscar and Lucinda (a.k.a. Oscar & Lucinda),Drama|Romance,1997.0
+2810,Perfect Blue,Animation|Horror|Mystery|Thriller,1997.0
+2962,Fever Pitch,Comedy|Romance,1997.0
+3000,Princess Mononoke (Mononoke-hime),Action|Adventure|Animation|Drama|Fantasy,1997.0
+3064,Poison Ivy: New Seduction,Drama|Thriller,1997.0
+3474,Retroactive,Sci-Fi|Thriller,1997.0
+4217,4 Little Girls,Documentary,1997.0
+4459,Alaska: Spirit of the Wild,Documentary|IMAX,1997.0
+4645,Cure,Crime|Horror|Thriller,1997.0
+5059,Little Dieter Needs to Fly,Documentary,1997.0
+5828,Blackrock,Drama|Thriller,1997.0
+5888,Brother (Brat),Crime|Drama,1997.0
+6425,"6th Man, The (Sixth Man, The)",Comedy,1997.0
+6464,Good Burger,Children|Comedy,1997.0
+6667,Waco: The Rules of Engagement,Documentary,1997.0
+6975,Funny Games,Drama|Horror|Thriller,1997.0
+7048,Nothing to Lose,Action|Adventure|Comedy|Crime,1997.0
+7486,Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit),Drama|Romance,1997.0
+7562,Dobermann,Action|Crime,1997.0
+8025,The Thief,Drama,1997.0
+8241,Masterminds,Action|Comedy|Thriller,1997.0
+26965,"Boxer, The",Drama|Thriller,1997.0
+26974,Gummo,Drama,1997.0
+26985,Nirvana,Action|Sci-Fi,1997.0
+27156,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)",Action|Animation|Drama|Fantasy|Sci-Fi,1997.0
+32460,Knockin' on Heaven's Door,Action|Comedy|Crime|Drama,1997.0
+44243,Leprechaun 4: In Space,Comedy|Fantasy|Horror|Sci-Fi,1997.0
+51024,The Odyssey,Adventure|Drama|Fantasy,1997.0
+63239,Cinderella,Children|Fantasy|Musical|Romance,1997.0
+68945,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei),Action|Animation|Mystery|Sci-Fi,1997.0
+69224,Marius and Jeanette (Marius et Jeannette),Comedy|Drama|Romance,1997.0
+72874,"Peacekeeper, The",Action,1997.0
+77846,12 Angry Men,Crime|Drama,1997.0
+88697,SUBWAYStories: Tales from the Underground,Drama,1997.0
+95170,Beauty and the Beast: The Enchanted Christmas,Animation|Children|Fantasy|Musical,1997.0
+95654,Geri's Game,Animation|Children,1997.0
+96007,Dragon Ball GT: A Hero's Legacy (Doragon bôru GT: Gokû gaiden! Yûki no akashi wa sû-shin-chû),Action|Adventure|Animation,1997.0
+99191,Campfire Tales,Horror,1997.0
+113374,"Old Lady and the Pigeons, The (La vieille dame et les pigeons)",Animation|Comedy,1997.0
+128944,"Honey, We Shrunk Ourselves",Action|Adventure|Children|Comedy|Sci-Fi,1997.0
+129011,Eddie Izzard: Glorious,Comedy,1997.0
+130498,La vérité si je mens !,Comedy,1997.0
+146244,Dil To Pagal Hai,Comedy|Drama|Romance,1997.0
+150554,The Love Bug,Adventure|Children|Comedy|Fantasy,1997.0
+160341,Bloodmoon,Action|Thriller,1997.0
+180263,The Shining,Drama|Horror|Thriller,1997.0

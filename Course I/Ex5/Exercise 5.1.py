@@ -38,3 +38,20 @@ df5 = df4["A3"]
 df5 = df5[-1:]
 
 print(df5)
+
+
+
+# Exercise 5.1 B
+import pandas as pd
+
+fruit_name = pd.read_csv('fruit_name.csv', index_col='fruitId')
+fruit_score = pd.read_csv('fruit_score.csv', index_col='name')
+
+# Fruit name vs Average Score
+
+df1 = fruit_name.loc[:,'fruit_name']
+df2 = fruit_score.groupby(['fruitId']).mean()
+
+df = pd.concat([df1, df2], axis=1, sort=False)
+
+print(df)

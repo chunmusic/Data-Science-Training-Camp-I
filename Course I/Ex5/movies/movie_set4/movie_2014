@@ -1,0 +1,279 @@
+movieId,title,genres,year
+107962,Freezer,Action|Thriller,2014.0
+108156,Ride Along,Action|Comedy,2014.0
+108188,Jack Ryan: Shadow Recruit,Action|Drama|Thriller|IMAX,2014.0
+108190,Divergent,Adventure|Romance|Sci-Fi|IMAX,2014.0
+108689,"I, Frankenstein",Action|Fantasy|Sci-Fi|IMAX,2014.0
+108715,Better Living Through Chemistry,Comedy|Drama,2014.0
+108928,"Monuments Men, The",Action|Drama|War,2014.0
+108932,The Lego Movie,Action|Adventure|Animation|Children|Comedy|Fantasy,2014.0
+108945,RoboCop,Action|Crime|Sci-Fi|IMAX,2014.0
+109183,Date and Switch,Comedy,2014.0
+109191,Winter's Tale,Drama|Fantasy|Mystery,2014.0
+109317,Someone Marry Barry,Comedy,2014.0
+109372,About Last Night,Comedy|Romance,2014.0
+109374,"Grand Budapest Hotel, The",Comedy|Drama,2014.0
+109483,That Awkward Moment,Comedy|Romance,2014.0
+109487,Interstellar,Sci-Fi|IMAX,2014.0
+109569,3 Days to Kill,Action|Crime|Drama,2014.0
+109578,Non-Stop,Action|Mystery|Thriller,2014.0
+109673,300: Rise of an Empire,Action|Drama|War|IMAX,2014.0
+109723,"Bag Man, The",Crime|Drama|Thriller,2014.0
+109846,Mr. Peabody & Sherman,Adventure|Animation|Comedy,2014.0
+109850,Need for Speed,Action|Crime|Drama|IMAX,2014.0
+109853,Barefoot,Comedy|Drama|Romance,2014.0
+109864,Veronica Mars,Comedy|Crime|Drama,2014.0
+109897,Son of God,Drama,2014.0
+109971,Ocho apellidos vascos,Comedy,2014.0
+110102,Captain America: The Winter Soldier,Action|Adventure|Sci-Fi|IMAX,2014.0
+110127,Noah,Adventure|Drama|IMAX,2014.0
+110130,"Nut Job, The",Adventure|Animation|Children|Comedy,2014.0
+110286,13 Sins,Horror|Thriller,2014.0
+110297,Muppets Most Wanted,Adventure|Comedy|Crime,2014.0
+110350,Free to Play,Documentary,2014.0
+110501,The Raid 2: Berandal,Action|Crime|Thriller,2014.0
+110553,The Amazing Spider-Man 2,Action|Sci-Fi|IMAX,2014.0
+110586,Calvary,Comedy|Drama,2014.0
+110603,God's Not Dead,Drama,2014.0
+110611,Cold in July,Drama|Thriller,2014.0
+110655,Rio 2,Adventure|Animation|Children|Comedy,2014.0
+110669,"Honest Liar, An",Comedy|Documentary,2014.0
+110730,Transcendence,Drama|Sci-Fi|IMAX,2014.0
+110771,"Other Woman, The",Comedy|Romance,2014.0
+110773,"Haunted House 2, A",Comedy|Horror,2014.0
+110826,Brick Mansions,Action|Crime|Drama,2014.0
+111113,Neighbors,Comedy,2014.0
+111146,Alpha and Omega 3: The Great Wolf Games,Action|Adventure|Animation|Children|Comedy,2014.0
+111320,Mom's Night Out,Comedy,2014.0
+111360,Lucy,Action|Sci-Fi,2014.0
+111362,X-Men: Days of Future Past,Action|Adventure|Sci-Fi,2014.0
+111364,Godzilla,Action|Adventure|Sci-Fi|IMAX,2014.0
+111375,Walk of Shame,Comedy,2014.0
+111443,Chef,Comedy,2014.0
+111617,Blended,Comedy,2014.0
+111659,Maleficent,Action|Adventure|Children|IMAX,2014.0
+111663,Zombeavers,Action|Comedy|Horror,2014.0
+111743,A Million Ways to Die in the West,Comedy|Western,2014.0
+111759,Edge of Tomorrow,Action|Sci-Fi|IMAX,2014.0
+111795,Million Dollar Arm,Comedy|Drama,2014.0
+111844,Bad Asses (Bad Ass 2),Action|Drama,2014.0
+111913,Lilting,Drama,2014.0
+111921,The Fault in Our Stars,Drama|Romance,2014.0
+112070,Maps to the Stars,Drama,2014.0
+112138,22 Jump Street,Action|Comedy|Crime,2014.0
+112171,"Equalizer, The",Action|Crime|Thriller,2014.0
+112175,How to Train Your Dragon 2,Action|Adventure|Animation,2014.0
+112183,Birdman: Or (The Unexpected Virtue of Ignorance),Comedy|Drama,2014.0
+112290,Boyhood,Drama,2014.0
+112303,Think Like a Man Too,Comedy|Romance,2014.0
+112316,Jersey Boys,Drama|Musical,2014.0
+112334,"Internet's Own Boy: The Story of Aaron Swartz, The",Documentary,2014.0
+112370,Transformers: Age of Extinction,Action|Adventure|Sci-Fi,2014.0
+112421,Frank,Comedy|Drama|Mystery,2014.0
+112450,They Came Together,Comedy|Romance,2014.0
+112460,Planes: Fire & Rescue,Adventure|Animation|Comedy,2014.0
+112497,Tammy,Comedy,2014.0
+112515,"Babadook, The",Drama|Horror|Thriller,2014.0
+112552,Whiplash,Drama,2014.0
+112556,Gone Girl,Drama|Thriller,2014.0
+112580,"Angriest Man in Brooklyn, The",Comedy|Drama,2014.0
+112623,Dawn of the Planet of the Apes,Sci-Fi,2014.0
+112727,Deliver Us from Evil,Crime|Horror|Thriller,2014.0
+112749,And So It Goes,Comedy|Drama|Romance,2014.0
+112788,Sex Tape,Comedy,2014.0
+112804,I Origins,Drama|Sci-Fi,2014.0
+112818,"Purge: Anarchy, The",Action|Horror|Thriller,2014.0
+112852,Guardians of the Galaxy,Action|Adventure|Sci-Fi,2014.0
+112868,"Signal, The",Sci-Fi|Thriller,2014.0
+112897,The Expendables 3,Action|Adventure,2014.0
+112911,Hercules,Action|Adventure,2014.0
+112940,A Most Wanted Man,Thriller,2014.0
+113159,Life After Beth,Comedy|Horror|Romance,2014.0
+113207,Get on Up,Drama|Musical,2014.0
+113225,Magic in the Moonlight,Comedy|Drama|Romance,2014.0
+113252,Housebound,Comedy|Horror|Thriller,2014.0
+113275,The Hundred-Foot Journey,Comedy|Drama,2014.0
+113278,Batman: Assault on Arkham,Action|Animation|Crime|Thriller,2014.0
+113348,Teenage Mutant Ninja Turtles,Action|Adventure|Comedy,2014.0
+113378,"Giver, The",Drama|Sci-Fi,2014.0
+113416,Revenge of the Green Dragons,Action|Crime|Drama,2014.0
+113453,Let's Be Cops,Comedy|Crime,2014.0
+113532,"Inbetweeners 2, The",Comedy,2014.0
+113573,Sin City: A Dame to Kill For,Action|Crime|Thriller,2014.0
+113604,If I Stay,Drama,2014.0
+113705,"Two Days, One Night (Deux jours, une nuit)",Drama,2014.0
+113780,"As Above, So Below",Horror|Thriller,2014.0
+113829,"One I Love, The",Comedy|Drama|Romance,2014.0
+113862,"Guest, The",Thriller,2014.0
+114028,Pride,Comedy|Drama,2014.0
+114044,Honeymoon,Horror,2014.0
+114060,The Drop,Crime|Drama|Thriller,2014.0
+114066,"20,000 Days on Earth",Documentary|Drama|Musical,2014.0
+114074,The Skeleton Twins,Drama,2014.0
+114180,"Maze Runner, The",Action|Mystery|Sci-Fi,2014.0
+114184,Camp X-Ray,Drama,2014.0
+114246,"Walk Among the Tombstones, A",Action|Crime|Mystery|Thriller,2014.0
+114265,Laggies,Comedy|Romance,2014.0
+114396,Cesar Chavez,Drama,2014.0
+114494,Who Am I (Kein System Ist Sicher),Thriller,2014.0
+114601,This Is Where I Leave You,Comedy|Drama,2014.0
+114662,American Sniper,Action|War,2014.0
+114670,Tusk,Comedy|Drama|Horror,2014.0
+114678,Hector and the Search for Happiness,Adventure|Comedy|Drama,2014.0
+114707,Horns,Horror|Mystery,2014.0
+114713,Annabelle,Horror,2014.0
+114762,Two Night Stand,Comedy|Romance,2014.0
+114795,Dracula Untold,Action|Drama|Fantasy,2014.0
+114818,Stretch,Action|Comedy|Crime,2014.0
+114847,Autómata (Automata),Sci-Fi|Thriller,2014.0
+114925,"Captive, The",Crime|Drama|Thriller,2014.0
+114935,Predestination,Action|Mystery|Sci-Fi|Thriller,2014.0
+115122,What We Do in the Shadows,Comedy|Horror,2014.0
+115149,John Wick,Action|Thriller,2014.0
+115151,Plastic,Action|Crime,2014.0
+115170,"Judge, The",Drama,2014.0
+115203,"Culture High, The",Documentary,2014.0
+115210,Fury,Action|Drama|War,2014.0
+115216,"Salvation, The",Drama|Western,2014.0
+115231,St. Vincent,Comedy,2014.0
+115502,"Rewrite, The",Comedy|Romance,2014.0
+115569,Nightcrawler,Crime|Drama|Thriller,2014.0
+115617,Big Hero 6,Action|Animation|Comedy,2014.0
+115664,The Book of Life,Adventure|Animation|Romance,2014.0
+115667,"Love, Rosie",Comedy|Romance,2014.0
+115680,Time Lapse,Crime|Drama|Sci-Fi|Thriller,2014.0
+115828,Copenhagen,Adventure|Drama|Romance,2014.0
+116138,Leviathan,Drama,2014.0
+116413,Life Partners,Comedy|Romance,2014.0
+116419,Drive Hard,Action|Comedy|Crime,2014.0
+116668,Dead Snow 2: Red vs. Dead ,Action|Comedy|Horror,2014.0
+116797,The Imitation Game,Drama|Thriller|War,2014.0
+116799,Inherent Vice,Comedy|Crime|Drama|Mystery|Romance,2014.0
+116817,Rudderless,Comedy|Drama,2014.0
+116823,The Hunger Games: Mockingjay - Part 1,Adventure|Sci-Fi|Thriller,2014.0
+116849,Sex Ed,Comedy|Romance,2014.0
+116887,Exodus: Gods and Kings,Action|Adventure|Drama,2014.0
+116897,Wild Tales,Comedy|Drama|Thriller,2014.0
+116977,Dumb and Dumber To,Comedy,2014.0
+116985,The Longest Week,Comedy|Drama,2014.0
+117107,Miss Meadows,Drama,2014.0
+117109,Too Many Cooks,Comedy,2014.0
+117176,The Theory of Everything,Drama|Romance,2014.0
+117364,Virunga,Documentary|War,2014.0
+117444,Song of the Sea,Animation|Children|Fantasy,2014.0
+117511,Hello Ladies: The Movie,Comedy,2014.0
+117531,Watermark,Documentary,2014.0
+117533,Citizenfour,Documentary,2014.0
+117545,Asterix: The Land of the Gods (Astérix: Le domaine des dieux),Animation,2014.0
+117572,Hit by Lightning,Comedy|Crime|Romance,2014.0
+117590,Horrible Bosses 2,Comedy|Crime,2014.0
+117851,Penguins of Madagascar,Adventure|Animation|Children|Comedy,2014.0
+117867,'71,Action|Drama|Thriller|War,2014.0
+117881,Still Alice,Drama,2014.0
+117887,Paddington,Children|Comedy,2014.0
+118082,The Voices,Comedy|Crime|Thriller,2014.0
+118198,The Green Prince,Documentary|Drama|Thriller,2014.0
+118248,Dying of the Light,Drama|Thriller,2014.0
+118326,By the Gun,Crime|Drama|Thriller,2014.0
+118354,Kill the Messenger,Crime|Drama|Mystery|Thriller,2014.0
+118572,The Mule,Comedy|Crime|Drama,2014.0
+118696,The Hobbit: The Battle of the Five Armies,Adventure|Fantasy,2014.0
+118700,Selma,Drama,2014.0
+118702,Unbroken,Drama|War,2014.0
+118814,Playing It Cool,Comedy|Romance,2014.0
+118880,"Girl Walks Home Alone at Night, A",Horror|Romance|Thriller,2014.0
+118896,Mommy,Drama,2014.0
+118900,Wild,Drama,2014.0
+118924,Top Five,Comedy,2014.0
+118930,Bill Burr: I'm Sorry You Feel That Way,Comedy,2014.0
+118985,Big Eyes,Drama,2014.0
+118997,Into the Woods,Children|Comedy|Fantasy|Musical,2014.0
+119068,"Men, Women & Children",Comedy|Drama,2014.0
+119141,The Interview,Action|Comedy,2014.0
+119155,Night at the Museum: Secret of the Tomb,Adventure|Children|Comedy|Fantasy,2014.0
+119655,Seventh Son,Adventure|Children|Fantasy,2014.0
+119714,Corner Gas: The Movie,Comedy,2014.0
+119964,A Merry Friggin' Christmas,Comedy,2014.0
+120138,PK,Comedy|Drama|Fantasy|Mystery|Romance,2014.0
+120478,The Salt of the Earth,Documentary,2014.0
+120625,The Fool,Drama,2014.0
+120783,Son of a Gun,Action|Crime|Drama,2014.0
+120919,Man on High Heels,Action|Comedy,2014.0
+121035,Houdini,Drama,2014.0
+121129,The Hungover Games,Comedy,2014.0
+121169,The Duke of Burgundy,Drama,2014.0
+121171,Red Army,Documentary,2014.0
+121231,It Follows,Horror,2014.0
+121253,The Town that Dreaded Sundown,Horror|Thriller,2014.0
+122490,Wicked Blood,Action|Drama|Thriller,2014.0
+122932,Elsa & Fred,Children|Comedy|Romance,2014.0
+123553,In the Name of the King III,Action|Adventure|Drama|Fantasy,2014.0
+123947,Cake,Drama,2014.0
+124851,Delirium,Adventure|Romance|Sci-Fi,2014.0
+124859,The Gambler,Crime|Drama|Thriller,2014.0
+127184,Eden,Drama,2014.0
+127298,A Pigeon Sat on a Branch Reflecting on Existence,Comedy|Drama,2014.0
+127319,The Loft,Thriller,2014.0
+128099,Jim Jefferies: BARE,Comedy,2014.0
+128366,Patton Oswalt: Tragedy Plus Comedy Equals Time,Comedy,2014.0
+128695,The Dark Valley,Western,2014.0
+128832,The Last Five Years,Comedy|Drama|Musical|Romance,2014.0
+128914,Tom Segura: Completely Normal,Comedy,2014.0
+128991,Johnny Express,Animation|Comedy|Sci-Fi,2014.0
+129229,Northmen - A Viking Saga,Action|Adventure,2014.0
+129313,Reality,Comedy,2014.0
+129333,Julia,Horror|Thriller,2014.0
+130050,Digging Up the Marrow,Drama|Fantasy|Horror|Mystery|Thriller,2014.0
+130052,Clown,Drama|Horror,2014.0
+130452,While We're Young,Comedy|Drama,2014.0
+131023,That Sugar Film,Documentary,2014.0
+131439,Kill Me Three Times,Thriller,2014.0
+131480,Poker Night,Action|Crime|Thriller,2014.0
+131749,Libre et assoupi,Comedy,2014.0
+131920,The Road Within,Comedy|Drama,2014.0
+132333,Seve,Documentary|Drama,2014.0
+132335,Breathe,Drama,2014.0
+132422,Da Sweet Blood of Jesus,Comedy|Romance|Thriller,2014.0
+132454,Girltrash: All Night Long,Comedy|Crime|Drama,2014.0
+132462,Sword of Vengeance,Action|Adventure|Drama,2014.0
+132488,Lovesick,Comedy|Romance,2014.0
+132618,Kite,Action|Crime|Drama|Mystery|Thriller,2014.0
+132800,Welcome to Me,Comedy|Drama,2014.0
+133115,We Could Be King,Documentary,2014.0
+133545,Just Before I Go,Comedy|Drama,2014.0
+133780,Güeros,Comedy|Drama,2014.0
+133832,The Green Inferno,Horror|Thriller,2014.0
+134021,5 to 7,Comedy|Drama|Romance,2014.0
+134524,Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles,Documentary,2014.0
+134881,Love & Mercy,Drama,2014.0
+136511,Jeff Dunham: All Over the Map,Comedy,2014.0
+136602,Creep,Horror|Thriller,2014.0
+136666,Search Party,Comedy,2014.0
+136800,Robot Overlords,Action|Adventure|Sci-Fi,2014.0
+137345,That Demon Within,Crime|Thriller,2014.0
+138546,The Opposite Sex,Comedy,2014.0
+138632,Tokyo Tribe,Action|Crime|Drama|Sci-Fi,2014.0
+138702,Feast,Animation|Children|Comedy|Drama|Romance,2014.0
+139655,Goodnight Mommy (Ich seh ich seh),Drama|Fantasy|Horror|Thriller,2014.0
+139747,Before We Go,Romance,2014.0
+139915,How to Make Love Like an Englishman,Comedy|Romance,2014.0
+140850,Every Secret Thing,Crime|Drama|Mystery|Thriller,2014.0
+141513,Fort Tilden,Comedy,2014.0
+141646,The Unauthorized Saved by the Bell Story,Comedy|Drama,2014.0
+141994,Saving Christmas,Children|Comedy,2014.0
+142598,Last Shift,Horror,2014.0
+143255,Narcopolis,Mystery|Sci-Fi|Thriller,2014.0
+143458,The Great Hypnotist,Drama|Mystery|Thriller,2014.0
+144210,Just Eat It: A Food Waste Story,Documentary,2014.0
+145283,Nowitzki: The Perfect Shot,Documentary,2014.0
+147372,Doctor Who: Last Christmas,Adventure|Drama|Fantasy|Sci-Fi,2014.0
+149144,Parasyte: Part 1,Horror|Sci-Fi,2014.0
+149612,Swelter,Action|Drama|Thriller,2014.0
+149902,Garm Wars: The Last Druid,Action|Sci-Fi|Thriller,2014.0
+160440,The Maid's Room,Thriller,2014.0
+166203,Sapphire Blue,Adventure|Children|Fantasy|Sci-Fi,2014.0
+174053,Black Mirror: White Christmas,Drama|Horror|Mystery|Sci-Fi|Thriller,2014.0
+174479,Unedited Footage of a Bear,Horror|Thriller,2014.0
+176415,Alles Inklusive,Comedy|Drama,2014.0
+179427,Dane Cook: Troublemaker,Comedy,2014.0
+193571,Silver Spoon,Comedy|Drama,2014.0

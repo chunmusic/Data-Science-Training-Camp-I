@@ -1,0 +1,239 @@
+movieId,title,genres,year
+99007,Warm Bodies,Comedy|Horror|Romance,2013.0
+99721,Texas Chainsaw 3D,Horror|Mystery|Thriller,2013.0
+99728,Gangster Squad,Action|Crime|Drama,2013.0
+99813,"Batman: The Dark Knight Returns, Part 2",Action|Animation,2013.0
+99910,"Last Stand, The",Action|Crime|Thriller,2013.0
+99917,Upstream Color,Romance|Sci-Fi|Thriller,2013.0
+100083,Movie 43,Comedy,2013.0
+100163,Hansel & Gretel: Witch Hunters,Action|Fantasy|Horror|IMAX,2013.0
+100383,Side Effects,Crime|Drama|Mystery|Thriller,2013.0
+100390,Identity Thief,Comedy|Crime,2013.0
+100487,Beautiful Creatures,Drama|Fantasy|Romance,2013.0
+100498,"Good Day to Die Hard, A",Action|Crime|Thriller|IMAX,2013.0
+100507,21 and Over,Comedy,2013.0
+100527,Safe Haven,Drama|Mystery|Romance,2013.0
+100611,Escape from Planet Earth,Adventure|Animation|Comedy|Sci-Fi,2013.0
+100714,Before Midnight,Drama|Romance,2013.0
+100737,Snitch,Action|Drama|Thriller,2013.0
+100810,Dark Skies,Horror|Sci-Fi|Thriller,2013.0
+100882,Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei),Adventure|Comedy|Fantasy|Romance|IMAX,2013.0
+101025,Jack the Giant Slayer,Adventure|Fantasy|IMAX,2013.0
+101076,G.I. Joe: Retaliation,Action|Adventure|Sci-Fi|Thriller|IMAX,2013.0
+101088,Stoker,Drama|Mystery|Thriller,2013.0
+101112,Oz the Great and Powerful,Action|Adventure|Fantasy|IMAX,2013.0
+101142,"Croods, The",Adventure|Animation|Comedy,2013.0
+101283,"Incredible Burt Wonderstone, The",Comedy,2013.0
+101360,"Call, The",Drama|Thriller,2013.0
+101362,Olympus Has Fallen,Action|Thriller,2013.0
+101531,Phil Spector,Drama,2013.0
+101577,"Host, The",Action|Adventure|Romance,2013.0
+101612,Admission,Comedy|Romance,2013.0
+101739,Evil Dead,Horror,2013.0
+101741,Trance,Crime|Thriller,2013.0
+101864,Oblivion,Action|Adventure|Sci-Fi|IMAX,2013.0
+101895,42,Drama,2013.0
+102033,Pain & Gain,Action|Comedy|Crime,2013.0
+102088,"Grandmaster, The (Yi dai zong shi)",Action|Drama|IMAX,2013.0
+102123,This Is the End,Action|Comedy,2013.0
+102125,Iron Man 3,Action|Sci-Fi|Thriller|IMAX,2013.0
+102165,"English Teacher, The",Comedy|Drama,2013.0
+102278,Pawn,Crime|Thriller,2013.0
+102378,Syrup,Comedy|Drama,2013.0
+102407,"Great Gatsby, The",Drama,2013.0
+102445,Star Trek Into Darkness,Action|Adventure|Sci-Fi|IMAX,2013.0
+102481,"Internship, The",Comedy,2013.0
+102684,Only God Forgives,Drama|Thriller,2013.0
+102686,"Hangover Part III, The",Comedy,2013.0
+102716,"Fast & Furious 6 (Fast and the Furious 6, The)",Action|Crime|Thriller|IMAX,2013.0
+102720,Epic,Adventure|Animation|Fantasy,2013.0
+102819,Behind the Candelabra,Drama,2013.0
+102880,After Earth,Action|Adventure|Sci-Fi|IMAX,2013.0
+102903,Now You See Me,Crime|Mystery|Thriller,2013.0
+102993,"Way, Way Back, The",Comedy|Drama,2013.0
+103042,Man of Steel,Action|Adventure|Fantasy|Sci-Fi|IMAX,2013.0
+103048,"Kings of Summer, The",Comedy,2013.0
+103075,"Purge, The",Crime|Horror|Thriller,2013.0
+103085,Rapture-Palooza,Comedy|Fantasy,2013.0
+103107,20 Feet from Stardom (Twenty Feet from Stardom),Documentary,2013.0
+103137,"Bling Ring, The",Crime|Drama,2013.0
+103141,Monsters University,Adventure|Animation|Comedy,2013.0
+103171,Schlussmacher,Comedy,2013.0
+103228,Pacific Rim,Action|Adventure|Sci-Fi|IMAX,2013.0
+103233,LEGO Batman: The Movie - DC Heroes Unite,Action|Adventure|Animation,2013.0
+103235,"Best Offer, The (Migliore offerta, La)",Thriller,2013.0
+103249,World War Z,Action|Drama|Horror|IMAX,2013.0
+103253,Elysium,Action|Drama|Sci-Fi|IMAX,2013.0
+103335,Despicable Me 2,Animation|Children|Comedy|IMAX,2013.0
+103339,White House Down,Action|Drama|Thriller|IMAX,2013.0
+103341,"World's End, The",Action|Comedy|Sci-Fi,2013.0
+103366,Redemption (Hummingbird),Action|Crime|Thriller,2013.0
+103372,"Heat, The",Action|Comedy|Crime,2013.0
+103384,"Lone Ranger, The",Action|Adventure|Western|IMAX,2013.0
+103483,V/H/S/2,Horror|Thriller,2013.0
+103539,The Spectacular Now,Comedy|Drama|Romance,2013.0
+103543,"Lifeguard, The",Comedy|Drama,2013.0
+103596,Sharknado,Sci-Fi,2013.0
+103602,Craig Ferguson: I'm Here To Help,Comedy|Documentary,2013.0
+103624,Fruitvale Station,Drama,2013.0
+103655,R.I.P.D.,Action|Comedy|Fantasy,2013.0
+103685,"Field in England, A",Drama|Fantasy|Thriller|War,2013.0
+103688,"Conjuring, The",Horror|Thriller,2013.0
+103755,Turbo,Adventure|Animation|Children|Comedy|Fantasy,2013.0
+103772,"Wolverine, The",Action|Adventure|Fantasy|Sci-Fi,2013.0
+103801,Drinking Buddies,Comedy|Drama|Romance,2013.0
+103810,Red 2,Action|Comedy|Crime|Thriller,2013.0
+103819,Coffee Town,Comedy,2013.0
+103883,2 Guns,Action|Comedy|Crime,2013.0
+103980,Blue Jasmine,Drama,2013.0
+103984,"Great Beauty, The (Grande Bellezza, La)",Comedy|Drama,2013.0
+104069,Louis C.K.: Oh My God,Comedy,2013.0
+104074,Percy Jackson: Sea of Monsters,Adventure|Children|Fantasy,2013.0
+104076,"Smurfs 2, The",Animation|Children|Comedy,2013.0
+104078,Alan Partridge: Alpha Papa,Comedy,2013.0
+104129,Man of Tai Chi,Action|IMAX,2013.0
+104211,We're the Millers,Comedy|Crime,2013.0
+104218,Grown Ups 2,Comedy,2013.0
+104241,Kick-Ass 2,Action|Comedy|Crime,2013.0
+104243,Riddick,Action|Sci-Fi|Thriller|IMAX,2013.0
+104245,Planes,Adventure|Animation|Comedy,2013.0
+104272,Blackfish,Documentary,2013.0
+104283,"Wind Rises, The (Kaze tachinu)",Animation|Drama|Romance,2013.0
+104303,Jobs,Drama,2013.0
+104337,Lee Daniels' The Butler,Drama,2013.0
+104339,In a World...,Comedy,2013.0
+104374,About Time,Drama|Fantasy|Romance,2013.0
+104760,Getaway,Action|Crime,2013.0
+104841,Gravity,Action|Sci-Fi|IMAX,2013.0
+104863,What If,Comedy|Drama|Romance,2013.0
+104879,Prisoners,Drama|Mystery|Thriller,2013.0
+104906,Austenland,Comedy|Romance,2013.0
+104908,Insidious: Chapter 2,Horror|Thriller,2013.0
+104913,Rush,Action|Drama,2013.0
+104925,"Family, The",Action|Comedy|Crime,2013.0
+104944,Short Term 12,Drama,2013.0
+105037,"To Do List, The",Comedy,2013.0
+105197,Nebraska,Adventure|Drama,2013.0
+105211,Enough Said,Comedy|Drama|Romance,2013.0
+105213,Don Jon,Comedy|Drama|Romance,2013.0
+105246,Mood Indigo (L'écume des jours),Drama|Fantasy,2013.0
+105325,Bad Milo (Bad Milo!),Comedy|Horror,2013.0
+105351,Runner Runner,Crime|Drama|Thriller,2013.0
+105355,Blue Is the Warmest Color (La vie d'Adèle),Drama|Romance,2013.0
+105468,Cloudy with a Chance of Meatballs 2,Animation|Children|Comedy|Fantasy,2013.0
+105504,Captain Phillips,Adventure|Drama|Thriller|IMAX,2013.0
+105585,Machete Kills (Machete 2),Action|Crime|Thriller,2013.0
+105593,Filth,Comedy|Crime|Drama,2013.0
+105653,Escape Plan,Action|Mystery|Thriller,2013.0
+105731,Carrie,Drama|Horror,2013.0
+105746,UnHung Hero,Documentary,2013.0
+105755,"Counselor, The",Crime|Drama|Thriller,2013.0
+105801,Escape From Tomorrow,Drama|Fantasy|Horror,2013.0
+105835,"Double, The",Comedy|Drama|Thriller,2013.0
+105844,12 Years a Slave,Drama,2013.0
+105954,All Is Lost,Action|Adventure|Drama,2013.0
+106002,Ender's Game,Action|Adventure|Sci-Fi|IMAX,2013.0
+106062,Jackass Presents: Bad Grandpa,Comedy,2013.0
+106072,Thor: The Dark World,Action|Adventure|Fantasy|IMAX,2013.0
+106100,Dallas Buyers Club,Drama,2013.0
+106144,"Selfish Giant, The",Drama,2013.0
+106330,Last Vegas,Comedy|Drama|Romance,2013.0
+106438,Philomena,Comedy|Drama,2013.0
+106441,"Book Thief, The",Children|Drama|War,2013.0
+106487,The Hunger Games: Catching Fire,Action|Adventure|Sci-Fi|IMAX,2013.0
+106489,"Hobbit: The Desolation of Smaug, The",Adventure|Fantasy|IMAX,2013.0
+106491,47 Ronin,Action|Adventure|Fantasy,2013.0
+106540,Delivery Man,Comedy,2013.0
+106542,Charlie Countryman,Action|Comedy|Romance,2013.0
+106642,"Day of the Doctor, The",Adventure|Drama|Sci-Fi,2013.0
+106696,Frozen,Adventure|Animation|Comedy|Fantasy|Musical|Romance,2013.0
+106766,Inside Llewyn Davis,Drama,2013.0
+106782,"Wolf of Wall Street, The",Comedy|Crime|Drama,2013.0
+106785,Homefront,Action|Crime|Thriller,2013.0
+106839,Mandela: Long Walk to Freedom,Drama,2013.0
+106883,All is Bright,Comedy|Drama,2013.0
+106889,Tim's Vermeer,Documentary,2013.0
+106916,American Hustle,Crime|Drama,2013.0
+106918,"Secret Life of Walter Mitty, The",Adventure|Comedy|Drama,2013.0
+106920,Her,Drama|Romance|Sci-Fi,2013.0
+107069,Lone Survivor,Action|Drama|Thriller|War,2013.0
+107141,Saving Mr. Banks,Comedy|Drama,2013.0
+107314,Oldboy,Action|Drama|Mystery,2013.0
+107338,Dampfnudelblues,Comedy|Crime,2013.0
+107348,Anchorman 2: The Legend Continues,Comedy,2013.0
+107406,Snowpiercer,Action|Drama|Sci-Fi,2013.0
+107436,Haunter,Horror|Mystery|Thriller,2013.0
+107447,Wrong Cops,Comedy|Crime,2013.0
+107462,Ninja: Shadow of a Tear,Action|Crime|Thriller,2013.0
+107565,"Fuck You, Goethe (Fack Ju Göhte)",Comedy,2013.0
+107702,Grudge Match,Comedy,2013.0
+107771,Only Lovers Left Alive,Drama|Horror|Romance,2013.0
+107951,Hunting Elephants,Comedy|Crime,2013.0
+107953,Dragon Ball Z: Battle of Gods,Action|Animation|Fantasy|IMAX,2013.0
+107997,We Are What We Are,Drama|Horror|Mystery|Thriller,2013.0
+108078,Chinese Puzzle (Casse-tête chinois),Comedy|Romance,2013.0
+108601,Drift,Drama,2013.0
+108727,Nymphomaniac: Volume I,Drama,2013.0
+108729,Enemy,Mystery|Thriller,2013.0
+108949,"Art of the Steal, The",Crime,2013.0
+108981,Nymphomaniac: Volume II,Drama|Mystery,2013.0
+109042,Knights of Badassdom,Adventure|Comedy|Fantasy,2013.0
+109161,Venus in Fur (La Vénus à la fourrure),Drama,2013.0
+109187,"Zero Theorem, The",Drama|Fantasy|Sci-Fi,2013.0
+109295,Cold Comes the Night,Crime|Drama|Thriller,2013.0
+109576,Welcome to the Jungle,Comedy,2013.0
+109633,"Garden of Words, The (Koto no ha no niwa)",Animation|Romance,2013.0
+109687,Particle Fever,Documentary,2013.0
+109848,Under the Skin,Horror|Sci-Fi|Thriller,2013.0
+109895,Bad Words,Comedy,2013.0
+109968,Why Don't You Play In Hell? (Jigoku de naze warui),Action|Drama,2013.0
+110387,"Unknown Known, The",Documentary,2013.0
+110591,Oculus,Horror,2013.0
+110718,Fading Gigolo,Comedy,2013.0
+110746,Hatchet III,Comedy|Horror,2013.0
+110882,Locke,Drama,2013.0
+111384,Blue Ruin,Thriller,2013.0
+111551,Afflicted,Horror|Sci-Fi|Thriller,2013.0
+111622,Begin Again,Comedy|Romance,2013.0
+111680,At Middleton,Comedy|Romance,2013.0
+111732,"Dance of Reality, The (Danza de la realidad, La)",Drama|Fantasy,2013.0
+111800,G.B.F.,Comedy,2013.0
+111817,Jimi: All Is by My Side,Drama,2013.0
+112454,Honey (Miele),Drama,2013.0
+113186,Felony,Thriller,2013.0
+113313,"Den, The",Horror|Thriller,2013.0
+113350,I'll Follow You Down,Drama|Mystery|Sci-Fi,2013.0
+113394,"Pretty One, The",Comedy|Drama,2013.0
+113565,"Sacrament, The",Horror|Thriller,2013.0
+113741,Coherence,Drama|Mystery|Sci-Fi|Thriller,2013.0
+114554,"Tale of Princess Kaguya, The (Kaguyahime no monogatari)",Animation|Drama|Fantasy,2013.0
+115065,Justin and the Knights of Valour,Adventure|Animation,2013.0
+115819,Mr Hublot,Animation|Comedy,2013.0
+115969,Generation War,Drama|War,2013.0
+116207,Zulu,Crime|Drama|Thriller,2013.0
+116411,Tangerines,Drama,2013.0
+116529,Stalingrad,Action|Drama|War|IMAX,2013.0
+117192,Doctor Who: The Time of the Doctor,Adventure|Drama,2013.0
+118862,Closer to the Moon,Comedy|Drama,2013.0
+127172,A Story of Children and Film,Documentary,2013.0
+128097,Jim Norton: American Degenerate,Comedy,2013.0
+129779,Ghost in the Shell Arise - Border 1: Ghost Pain,Action|Animation|Sci-Fi,2013.0
+130444,Ruby Red,Adventure|Children|Fantasy|Sci-Fi,2013.0
+130976,Legend No. 17,Drama,2013.0
+131098,Saving Santa,Animation|Children|Comedy,2013.0
+132888,Comedy Central Roast of James Franco,Comedy,2013.0
+134861,Trevor Noah: African American,(no genres listed),2013.0
+136840,Da geht noch was!,Comedy|Drama|Romance,2013.0
+138396,There Will Come a Day,Comedy|Drama,2013.0
+139859,Ghost in the Shell Arise - Border 2: Ghost Whispers,Action|Animation|Sci-Fi|Thriller,2013.0
+142056,Iron Man & Hulk: Heroes United,Action|Adventure|Animation,2013.0
+144222,Bros Before Hos,Comedy,2013.0
+144352,Unforgiven,Action|Crime|Drama,2013.0
+144478,"Sex, Drugs & Taxation",Comedy|Drama,2013.0
+158035,Gintama: The Final Chapter - Be Forever Yorozuya,Action|Animation|Comedy,2013.0
+162982,Steins;Gate the Movie: The Burden of Déjà vu,Animation|Drama|Sci-Fi,2013.0
+163809,Over the Garden Wall,Adventure|Animation|Drama,2013.0
+166024,Whiplash,(no genres listed),2013.0
+168026,Marvel One-Shot: Agent Carter,Action|Adventure|Fantasy|Sci-Fi,2013.0
+171811,Embassy,Comedy|Sci-Fi|War,2013.0
+193567,anohana: The Flower We Saw That Day - The Movie,Animation|Drama,2013.0
