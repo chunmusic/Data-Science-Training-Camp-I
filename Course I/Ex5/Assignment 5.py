@@ -9,8 +9,8 @@ import re
 from pathlib import Path
 from datetime import datetime, timedelta 
 
-pd.set_option('display.max_columns', None)
-pd.set_option('display.max_rows', None)
+#pd.set_option('display.max_columns', None)
+#pd.set_option('display.max_rows', None)
 
 #movie_df
 
@@ -189,61 +189,38 @@ year_high_df = year_high_df.rename(columns={'rating': 'average rating'})
 
 # No. 10
 
+genres_dummy = pd.get_dummies(movie_df['genres']).corr()
 
-#print(movie_df['genres'].corr())
+genres_dummy = np.round(genres_dummy,3)
 
-
-'''
-
-avg_rating_df = rating_df.groupby(['movieId']).mean()
-avg_rating_df = avg_rating_df.drop(columns=['userId','timestamp'])
-
-avg = movie_df.set_index('movieId').join(avg_rating_df)
-
-
-year_high_df = movie_df.set_index('movieId').join(year_high)
-
-
-
-
-avg_rating_df = rating_df.groupby(['movieId']).mean()
-avg_rating_df = avg_rating_df.drop(columns=['userId','timestamp'])
-
-avg = movie_df.set_index('movieId').join(avg_rating_df)
-
-
-genres_df = movie_df.set_index('genres')
-
-print(genres_df.corr())
-'''
-
-
-#print(movie_df['genres'].corr())
-
+#print(genres_dummy)
 
 
 
 # Writing to csv
 
-'''
-avg.to_csv('top10/1. Movies with average ratings.csv')
 
-rating_count.to_csv('top10/2. Movies with the number of ratings each gets.csv')
+avg.to_csv('top10/01. Movies with average ratings.csv')
 
-letter_count.to_csv('top10/3. Movies with the length of their title.csv')
+rating_count.to_csv('top10/02. Movies with the number of ratings each gets.csv')
 
-user_rating_df.to_csv('top10/4. User Ids with the number of ratings.csv')
+letter_count.to_csv('top10/03. Movies with the length of their title.csv')
 
-user_genres_rating_df.to_csv('top10/5. User Ids with the number of ratings each genres categories.csv')
+user_rating_df.to_csv('top10/04. User Ids with the number of ratings.csv')
 
-user_avg_rating_df.to_csv('top10/6. User Ids with the average ratings they give.csv')
+user_genres_rating_df.to_csv('top10/05. User Ids with the number of ratings each genres categories.csv')
 
-user_period_df.to_csv('top10/7. User Ids with the longest period of giving ratings.csv')
+user_avg_rating_df.to_csv('top10/06. User Ids with the average ratings they give.csv')
 
-year_df.to_csv('top10/8. Years with number of movies in that year.csv')
+user_period_df.to_csv('top10/07. User Ids with the longest period of giving ratings.csv')
 
-year_high_df.to_csv('top10/9. Years with movies of the highest (average) ratings in that year.csv')
-'''
+year_df.to_csv('top10/08. Years with number of movies in that year.csv')
+
+year_high_df.to_csv('top10/09. Years with movies of the highest (average) ratings in that year.csv')
+
+genres_dummy.to_csv('top10/10. All pairs of movies genre with their correlation.csv')
+
+
 
 
 # Writing Top 10 of each
@@ -275,8 +252,13 @@ print(year_df.nlargest(10, 'number of movies'))
 print("\n\nTop 10 of Years with movies of the highest (average) ratings in that year.\n")
 print(year_high_df.nlargest(65, 'average rating'))
 
+print("\n\nTop 10 of pairs of movie genre with highest correlation.\n")
 
-
+genres_df = genres_dummy.unstack()
+genres_top = genres_df.sort_values(kind="quicksort")
+genres_20 = genres_top.head(20)
+genres_10 = genres_20[::2]
+print(genres_10)
 
 
 
