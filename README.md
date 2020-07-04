@@ -1,1 +1,1 @@
-# Data-Science-Skill-Up-Training
+# Data-Science-Training-Camp-I
